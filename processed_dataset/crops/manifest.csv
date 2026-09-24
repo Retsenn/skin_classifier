@@ -1,0 +1,794 @@
+filepath,file_name,split,label_name,label_id,subject_id
+processed_dataset/crops/train/AN/310_jpg.rf.m7lWlWSL5qTJKKCTK6CJ.jpg,310_jpg.rf.m7lWlWSL5qTJKKCTK6CJ.jpg,train,AN,1,310
+processed_dataset/crops/train/AN/images - 2023-05-20T165825-746_jpg.rf.KIW0bxXk2GBviNqaZgDw.jpg,images - 2023-05-20T165825-746_jpg.rf.KIW0bxXk2GBviNqaZgDw.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/64RR4_jpg.rf.mEMsSt8OEv0QlTShYYCL.jpg,64RR4_jpg.rf.mEMsSt8OEv0QlTShYYCL.jpg,train,AN,1,64
+processed_dataset/crops/train/AN/images - 2023-05-20T165817-781_jpg.rf.ltyWeBvQAjlvrXwHtGJC.jpg,images - 2023-05-20T165817-781_jpg.rf.ltyWeBvQAjlvrXwHtGJC.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/Healthy/istockphoto-514779700-612x612_jpg.rf.N2jQGnRRWZUGP8LTOoLA.jpg,istockphoto-514779700-612x612_jpg.rf.N2jQGnRRWZUGP8LTOoLA.jpg,train,Healthy,0,istockphoto-514779700-612x612
+processed_dataset/crops/train/AN/FLIP_RIGHT275_jpg.rf.KMUHzdn65gEsi89wOUjo.jpg,FLIP_RIGHT275_jpg.rf.KMUHzdn65gEsi89wOUjo.jpg,train,AN,1,275
+processed_dataset/crops/train/Healthy/0L1-52-_jpg.rf.mItxV0T0bIRBKoxunslg.jpg,0L1-52-_jpg.rf.mItxV0T0bIRBKoxunslg.jpg,train,Healthy,0,0L1-52
+processed_dataset/crops/train/AN/223_jpg.rf.oarXF28gJcilJewOwFw8.jpg,223_jpg.rf.oarXF28gJcilJewOwFw8.jpg,train,AN,1,223
+processed_dataset/crops/train/Healthy/FLIP_RIGHT253_jpg.rf.N3tLJ3JIvCupBSkczIWr.jpg,FLIP_RIGHT253_jpg.rf.N3tLJ3JIvCupBSkczIWr.jpg,train,Healthy,0,253
+processed_dataset/crops/valid/Healthy/0L1-9-_jpg.rf.mP06lq9NlcDCvlgCcuA6.jpg,0L1-9-_jpg.rf.mP06lq9NlcDCvlgCcuA6.jpg,valid,Healthy,0,0L1-9
+processed_dataset/crops/train/AN/FLIP_RIGHT235_jpg.rf.N4B989SMvM44C8x7wisJ.jpg,FLIP_RIGHT235_jpg.rf.N4B989SMvM44C8x7wisJ.jpg,train,AN,1,235
+processed_dataset/crops/train/AN/92_jpg.rf.oeQ6T8LOaqY4JhnZ0ctk.jpg,92_jpg.rf.oeQ6T8LOaqY4JhnZ0ctk.jpg,train,AN,1,92
+processed_dataset/crops/train/Healthy/FLIP_RIGHT343_jpg.rf.KPXfFHU83oSrrgjEl0lz.jpg,FLIP_RIGHT343_jpg.rf.KPXfFHU83oSrrgjEl0lz.jpg,train,Healthy,0,343
+processed_dataset/crops/valid/AN/318_jpg.rf.KV8Vbk7wJQNTsg7P9Vny.jpg,318_jpg.rf.KV8Vbk7wJQNTsg7P9Vny.jpg,valid,AN,1,318
+processed_dataset/crops/valid/AN/images (44)_jpg.rf.mQNVKd4ueFE7SYkTHtbc.jpg,images (44)_jpg.rf.mQNVKd4ueFE7SYkTHtbc.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/441_jpg.rf.oqlhIIcYTj29EetFgNVh.jpg,441_jpg.rf.oqlhIIcYTj29EetFgNVh.jpg,train,Healthy,0,441
+processed_dataset/crops/train/AN/92R3_jpg.rf.mX6Wnv3fRpTyoDQoT0M3.jpg,92R3_jpg.rf.mX6Wnv3fRpTyoDQoT0M3.jpg,train,AN,1,92
+processed_dataset/crops/train/AN/54_jpg.rf.NFzj7z3FMeVr3TBq42Vc.jpg,54_jpg.rf.NFzj7z3FMeVr3TBq42Vc.jpg,train,AN,1,54
+processed_dataset/crops/train/Healthy/327_jpg.rf.onSm1KZEakQk1LQMh1Kl.jpg,327_jpg.rf.onSm1KZEakQk1LQMh1Kl.jpg,train,Healthy,0,327
+processed_dataset/crops/valid/AN/images (71)_jpg.rf.ozY4XHAKoqyABewbx9Si.jpg,images (71)_jpg.rf.ozY4XHAKoqyABewbx9Si.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/87_jpg.rf.p0G6Rs1Ii0I5R4FRHsrt.jpg,87_jpg.rf.p0G6Rs1Ii0I5R4FRHsrt.jpg,train,AN,1,87
+processed_dataset/crops/train/AN/67_jpg.rf.NPdoh51ZTzXTlbxA4t7C.jpg,67_jpg.rf.NPdoh51ZTzXTlbxA4t7C.jpg,train,AN,1,67
+processed_dataset/crops/train/AN/68_jpg.rf.Nb2vf0QYX8h8eh1ftbRq.jpg,68_jpg.rf.Nb2vf0QYX8h8eh1ftbRq.jpg,train,AN,1,68
+processed_dataset/crops/valid/Healthy/FLIP_RIGHT210_jpg.rf.pHnCQPiP5gbUM8vT1GBB.jpg,FLIP_RIGHT210_jpg.rf.pHnCQPiP5gbUM8vT1GBB.jpg,valid,Healthy,0,210
+processed_dataset/crops/valid/AN/309_jpg.rf.NEAP1nmapVYSSfPGHbOy.jpg,309_jpg.rf.NEAP1nmapVYSSfPGHbOy.jpg,valid,AN,1,309
+processed_dataset/crops/train/Healthy/istockphoto-949025518-612x612_jpg.rf.NdmXhH24A0gQMD4jaLmx.jpg,istockphoto-949025518-612x612_jpg.rf.NdmXhH24A0gQMD4jaLmx.jpg,train,Healthy,0,istockphoto-949025518-612x612
+processed_dataset/crops/valid/AN/images (48)_jpg.rf.q0g7HOKmREZV6dTq7B5F.jpg,images (48)_jpg.rf.q0g7HOKmREZV6dTq7B5F.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/220_jpg.rf.ofeWHjROhSQxJQagt4b9.jpg,220_jpg.rf.ofeWHjROhSQxJQagt4b9.jpg,train,AN,1,220
+processed_dataset/crops/train/Healthy/401_jpg.rf.NhCNqACAPP0teZuNNgR5.jpg,401_jpg.rf.NhCNqACAPP0teZuNNgR5.jpg,train,Healthy,0,401
+processed_dataset/crops/train/AN/84_jpg.rf.NeNzWUNVq7Fgg5WbX7iM.jpg,84_jpg.rf.NeNzWUNVq7Fgg5WbX7iM.jpg,train,AN,1,84
+processed_dataset/crops/train/AN/152_jpg.rf.LCCcM4BWBFLPJJxO6yQm.jpg,152_jpg.rf.LCCcM4BWBFLPJJxO6yQm.jpg,train,AN,1,152
+processed_dataset/crops/train/AN/87R_jpg.rf.mtYcf0rWGP1XG6cTvRwv.jpg,87R_jpg.rf.mtYcf0rWGP1XG6cTvRwv.jpg,train,AN,1,87
+processed_dataset/crops/train/Healthy/427_jpg.rf.qRQp1BHAFJUV9LiqclcD.jpg,427_jpg.rf.qRQp1BHAFJUV9LiqclcD.jpg,train,Healthy,0,427
+processed_dataset/crops/valid/AN/72_jpg.rf.NmbDWz2HmB2yWM40aHxV.jpg,72_jpg.rf.NmbDWz2HmB2yWM40aHxV.jpg,valid,AN,1,72
+processed_dataset/crops/train/Healthy/451_jpg.rf.pFo5WHeeHrFKK2SgVJA1.jpg,451_jpg.rf.pFo5WHeeHrFKK2SgVJA1.jpg,train,Healthy,0,451
+processed_dataset/crops/train/Healthy/FLIP_LEFT368_jpg.rf.KtJicZGbxQJoM4QyqYoI.jpg,FLIP_LEFT368_jpg.rf.KtJicZGbxQJoM4QyqYoI.jpg,train,Healthy,0,368
+processed_dataset/crops/train/Healthy/FLIP_RIGHT344_jpg.rf.pcVCLuMhUyfJm8rn5bCa.jpg,FLIP_RIGHT344_jpg.rf.pcVCLuMhUyfJm8rn5bCa.jpg,train,Healthy,0,344
+processed_dataset/crops/train/AN/106_jpg.rf.qJKn1XcDolHE7S6WZTSQ.jpg,106_jpg.rf.qJKn1XcDolHE7S6WZTSQ.jpg,train,AN,1,106
+processed_dataset/crops/train/Healthy/423_jpg.rf.qVRNFRp9fq0AvhJDyBCu.jpg,423_jpg.rf.qVRNFRp9fq0AvhJDyBCu.jpg,train,Healthy,0,423
+processed_dataset/crops/train/Healthy/istockphoto-1051999014-612x612_jpg.rf.Ntp59LACGuGpR4SFshBC.jpg,istockphoto-1051999014-612x612_jpg.rf.Ntp59LACGuGpR4SFshBC.jpg,train,Healthy,0,istockphoto-1051999014-612x612
+processed_dataset/crops/train/AN/26R_jpg.rf.qtlw7vLep814eMyvaTxn.jpg,26R_jpg.rf.qtlw7vLep814eMyvaTxn.jpg,train,AN,1,26
+processed_dataset/crops/test/AN/115_jpg.rf.LJE0odu4hEL2pu9lQdaz.jpg,115_jpg.rf.LJE0odu4hEL2pu9lQdaz.jpg,test,AN,1,115
+processed_dataset/crops/test/AN/153_jpg.rf.msQ7BkfrxfdJsskESlaJ.jpg,153_jpg.rf.msQ7BkfrxfdJsskESlaJ.jpg,test,AN,1,153
+processed_dataset/crops/train/Healthy/0L1-74-_jpg.rf.O3PIovZQbFswAUIqfXm3.jpg,0L1-74-_jpg.rf.O3PIovZQbFswAUIqfXm3.jpg,train,Healthy,0,0L1-74
+processed_dataset/crops/train/AN/v_atopy_0227_jpg.rf.OvDMePQqDEi1tERojVpr.jpg,v_atopy_0227_jpg.rf.OvDMePQqDEi1tERojVpr.jpg,train,AN,1,v_atopy_0227
+processed_dataset/crops/train/AN/305_jpg.rf.pWQt7uxuQUkXuRmlMIXI.jpg,305_jpg.rf.pWQt7uxuQUkXuRmlMIXI.jpg,train,AN,1,305
+processed_dataset/crops/valid/AN/images (91)_jpg.rf.rM1mYJdnSZdaNUG519O3.jpg,images (91)_jpg.rf.rM1mYJdnSZdaNUG519O3.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/93_jpg.rf.rNnYCmh7EOO8rkpDCoXj.jpg,93_jpg.rf.rNnYCmh7EOO8rkpDCoXj.jpg,train,AN,1,93
+processed_dataset/crops/valid/AN/images (61)_jpg.rf.nJ9JqKFvsxxid5XB2AVh.jpg,images (61)_jpg.rf.nJ9JqKFvsxxid5XB2AVh.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/303_jpg.rf.LKTsZ32D4Bq3jTew9xvL.jpg,303_jpg.rf.LKTsZ32D4Bq3jTew9xvL.jpg,train,AN,1,303
+processed_dataset/crops/train/AN/52_jpg.rf.OusSIhttb1rj13dJglSi.jpg,52_jpg.rf.OusSIhttb1rj13dJglSi.jpg,train,AN,1,52
+processed_dataset/crops/train/AN/images - 2023-05-20T170854-446_jpg.rf.rO9hfs0idEFOEOHD8izM.jpg,images - 2023-05-20T170854-446_jpg.rf.rO9hfs0idEFOEOHD8izM.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/228_jpg.rf.PAndAkjLPcyXWr9GXZzZ.jpg,228_jpg.rf.PAndAkjLPcyXWr9GXZzZ.jpg,train,AN,1,228
+processed_dataset/crops/valid/AN/images (22)_jpg.rf.rTirfEa59FpXzM1OSK4R.jpg,images (22)_jpg.rf.rTirfEa59FpXzM1OSK4R.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/311_jpg.rf.OYD9IbMKZKDtn1DZqPpZ.jpg,311_jpg.rf.OYD9IbMKZKDtn1DZqPpZ.jpg,train,AN,1,311
+processed_dataset/crops/valid/AN/72_jpg.rf.r5XcGQxaMe9OjlVxxzxr.jpg,72_jpg.rf.r5XcGQxaMe9OjlVxxzxr.jpg,valid,AN,1,72
+processed_dataset/crops/train/AN/22_jpg.rf.O098UmoeA2IihDAoxpJD.jpg,22_jpg.rf.O098UmoeA2IihDAoxpJD.jpg,train,AN,1,22
+processed_dataset/crops/train/AN/278_jpg.rf.nZPKTXGLCq99nd3ix6GU.jpg,278_jpg.rf.nZPKTXGLCq99nd3ix6GU.jpg,train,AN,1,278
+processed_dataset/crops/train/AN/80_jpg.rf.rQg4uaHO1V7RAKBdIXRO.jpg,80_jpg.rf.rQg4uaHO1V7RAKBdIXRO.jpg,train,AN,1,80
+processed_dataset/crops/train/Healthy/istockphoto-1147152478-612x612_jpg.rf.P5g8pXZJYyJifUstzUfS.jpg,istockphoto-1147152478-612x612_jpg.rf.P5g8pXZJYyJifUstzUfS.jpg,train,Healthy,0,istockphoto-1147152478-612x612
+processed_dataset/crops/train/AN/86_jpg.rf.rybxoMkw0OzMGzlb9XlJ.jpg,86_jpg.rf.rybxoMkw0OzMGzlb9XlJ.jpg,train,AN,1,86
+processed_dataset/crops/train/Healthy/336_jpg.rf.P825ywCNbBprXNSI0lKi.jpg,336_jpg.rf.P825ywCNbBprXNSI0lKi.jpg,train,Healthy,0,336
+processed_dataset/crops/train/AN/FLIP_RIGHT286_jpg.rf.ncHntPrnYhhtNAE6b71z.jpg,FLIP_RIGHT286_jpg.rf.ncHntPrnYhhtNAE6b71z.jpg,train,AN,1,286
+processed_dataset/crops/valid/AN/59_jpg.rf.LSnRXFBUGL1x95zwbcse.jpg,59_jpg.rf.LSnRXFBUGL1x95zwbcse.jpg,valid,AN,1,59
+processed_dataset/crops/train/Healthy/0L1-18-_jpg.rf.nVDguVVXHTu4YC3sJ83m.jpg,0L1-18-_jpg.rf.nVDguVVXHTu4YC3sJ83m.jpg,train,Healthy,0,0L1-18
+processed_dataset/crops/train/AN/108_jpg.rf.sEAEWq5TbPj5vO4YO8wJ.jpg,108_jpg.rf.sEAEWq5TbPj5vO4YO8wJ.jpg,train,AN,1,108
+processed_dataset/crops/train/AN/33_jpg.rf.PdH29OpmJOHwB7Q5CjVk.jpg,33_jpg.rf.PdH29OpmJOHwB7Q5CjVk.jpg,train,AN,1,33
+processed_dataset/crops/train/AN/images - 2023-05-20T165725-622_jpg.rf.rrhUwBsz45MN4vnvd69s.jpg,images - 2023-05-20T165725-622_jpg.rf.rrhUwBsz45MN4vnvd69s.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/test/Healthy/0L1-23-_jpg.rf.PN4Xt9AoAqEIcTFOMwfY.jpg,0L1-23-_jpg.rf.PN4Xt9AoAqEIcTFOMwfY.jpg,test,Healthy,0,0L1-23
+processed_dataset/crops/test/Healthy/istockphoto-509371990-612x612_jpg.rf.neqfPkTwVlWCl4HcCISf.jpg,istockphoto-509371990-612x612_jpg.rf.neqfPkTwVlWCl4HcCISf.jpg,test,Healthy,0,istockphoto-509371990-612x612
+processed_dataset/crops/train/AN/96R_jpg.rf.Q68QsU2yi7XowSQzyrbJ.jpg,96R_jpg.rf.Q68QsU2yi7XowSQzyrbJ.jpg,train,AN,1,96
+processed_dataset/crops/train/Healthy/0L1-70-_jpg.rf.sl3yW3S9upPTLZS4e9Bx.jpg,0L1-70-_jpg.rf.sl3yW3S9upPTLZS4e9Bx.jpg,train,Healthy,0,0L1-70
+processed_dataset/crops/train/Healthy/FLIP_LEFT363_jpg.rf.rwAPdAtIou8eUGx0rWRH.jpg,FLIP_LEFT363_jpg.rf.rwAPdAtIou8eUGx0rWRH.jpg,train,Healthy,0,363
+processed_dataset/crops/train/AN/221_jpg.rf.spamEa6xVMYZiTg7b2Kr.jpg,221_jpg.rf.spamEa6xVMYZiTg7b2Kr.jpg,train,AN,1,221
+processed_dataset/crops/train/AN/30_jpg.rf.sIUDAtTVTAvBHhGAOZuj.jpg,30_jpg.rf.sIUDAtTVTAvBHhGAOZuj.jpg,train,AN,1,30
+processed_dataset/crops/train/AN/48_jpg.rf.PEc4yXvVNCAceCCBBh2x.jpg,48_jpg.rf.PEc4yXvVNCAceCCBBh2x.jpg,train,AN,1,48
+processed_dataset/crops/valid/AN/images (83)_jpg.rf.stGZEBydOLdVxZRZaWKI.jpg,images (83)_jpg.rf.stGZEBydOLdVxZRZaWKI.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/82_jpg.rf.r0iQh3p7By355zTIQhNB.jpg,82_jpg.rf.r0iQh3p7By355zTIQhNB.jpg,train,AN,1,82
+processed_dataset/crops/train/Healthy/istockphoto-1138382116-612x612_jpg.rf.QMs3XLcwCjT8hejLy6mu.jpg,istockphoto-1138382116-612x612_jpg.rf.QMs3XLcwCjT8hejLy6mu.jpg,train,Healthy,0,istockphoto-1138382116-612x612
+processed_dataset/crops/valid/AN/images (6)_jpg.rf.QNKRtt4BJ0mFQdvegFCE.jpg,images (6)_jpg.rf.QNKRtt4BJ0mFQdvegFCE.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/0L1-57-_jpg.rf.PTBmODvM8koqQ796MgPy.jpg,0L1-57-_jpg.rf.PTBmODvM8koqQ796MgPy.jpg,train,Healthy,0,0L1-57
+processed_dataset/crops/valid/Healthy/120_jpg.rf.s28fFkAD8dqQiIeQfPNp.jpg,120_jpg.rf.s28fFkAD8dqQiIeQfPNp.jpg,valid,Healthy,0,120
+processed_dataset/crops/train/AN/90_jpg.rf.QRsR9TZNc5K1mBOjuVpw.jpg,90_jpg.rf.QRsR9TZNc5K1mBOjuVpw.jpg,train,AN,1,90
+processed_dataset/crops/train/AN/316_jpg.rf.rYZm29myj9CXHMvRTdG8.jpg,316_jpg.rf.rYZm29myj9CXHMvRTdG8.jpg,train,AN,1,316
+processed_dataset/crops/train/AN/252_jpg.rf.t01IdHNm4JPfARhTRUUs.jpg,252_jpg.rf.t01IdHNm4JPfARhTRUUs.jpg,train,AN,1,252
+processed_dataset/crops/valid/Healthy/425_jpg.rf.t69rXZCcrZV4k1qylJUo.jpg,425_jpg.rf.t69rXZCcrZV4k1qylJUo.jpg,valid,Healthy,0,425
+processed_dataset/crops/train/AN/82_jpg.rf.t5412aOTvz3I39MMIUZa.jpg,82_jpg.rf.t5412aOTvz3I39MMIUZa.jpg,train,AN,1,82
+processed_dataset/crops/train/AN/90R_jpg.rf.tCGi3tadnJFoxWTPEWu3.jpg,90R_jpg.rf.tCGi3tadnJFoxWTPEWu3.jpg,train,AN,1,90
+processed_dataset/crops/train/AN/download (19)_jpg.rf.sMXYE29FZ4OvrKDuhYGg.jpg,download (19)_jpg.rf.sMXYE29FZ4OvrKDuhYGg.jpg,train,AN,1,download (19)
+processed_dataset/crops/train/Healthy/790_jpg.rf.tN8giuMFWkrCWzAXm6ad.jpg,790_jpg.rf.tN8giuMFWkrCWzAXm6ad.jpg,train,Healthy,0,790
+processed_dataset/crops/train/AN/download (31)_jpg.rf.LrkAluXlOiiVP4MqECd0.jpg,download (31)_jpg.rf.LrkAluXlOiiVP4MqECd0.jpg,train,AN,1,download (31)
+processed_dataset/crops/train/AN/45_jpg.rf.Pu4LQGRlmOiCxlU56aHo.jpg,45_jpg.rf.Pu4LQGRlmOiCxlU56aHo.jpg,train,AN,1,45
+processed_dataset/crops/valid/Healthy/FLIP_LEFT362_jpg.rf.QUywcw6aSpOztT5JTTvn.jpg,FLIP_LEFT362_jpg.rf.QUywcw6aSpOztT5JTTvn.jpg,valid,Healthy,0,362
+processed_dataset/crops/test/AN/130_jpg.rf.tg5oqCGshE3XtuOAXBzl.jpg,130_jpg.rf.tg5oqCGshE3XtuOAXBzl.jpg,test,AN,1,130
+processed_dataset/crops/valid/AN/135_jpg.rf.nf8vvn4fqvdz7MbrJjIP.jpg,135_jpg.rf.nf8vvn4fqvdz7MbrJjIP.jpg,valid,AN,1,135
+processed_dataset/crops/train/Healthy/437_jpg.rf.Qp3oUy5BVUgZRyPw1MN4.jpg,437_jpg.rf.Qp3oUy5BVUgZRyPw1MN4.jpg,train,Healthy,0,437
+processed_dataset/crops/test/AN/199_jpg.rf.t6ME5t4rkS2sF3rdZEFd.jpg,199_jpg.rf.t6ME5t4rkS2sF3rdZEFd.jpg,test,AN,1,199
+processed_dataset/crops/train/AN/31_jpg.rf.tOHXGOYtYm8YGY7y9vdP.jpg,31_jpg.rf.tOHXGOYtYm8YGY7y9vdP.jpg,train,AN,1,31
+processed_dataset/crops/valid/AN/95R_jpg.rf.PU4oT0k0Vp5ZQXPQABnz.jpg,95R_jpg.rf.PU4oT0k0Vp5ZQXPQABnz.jpg,valid,AN,1,95
+processed_dataset/crops/train/AN/FLIP_RIGHT258_jpg.rf.tzPDpjZoyDuPcl73kG1N.jpg,FLIP_RIGHT258_jpg.rf.tzPDpjZoyDuPcl73kG1N.jpg,train,AN,1,258
+processed_dataset/crops/test/AN/25_jpg.rf.QcY3P6VahRlVrPToSx8n.jpg,25_jpg.rf.QcY3P6VahRlVrPToSx8n.jpg,test,AN,1,25
+processed_dataset/crops/train/AN/123_jpg.rf.RAyo4cTXWwV7uf4P7WBO.jpg,123_jpg.rf.RAyo4cTXWwV7uf4P7WBO.jpg,train,AN,1,123
+processed_dataset/crops/train/AN/302_jpg.rf.uJe9wl6W1jdhfLJaJxVU.jpg,302_jpg.rf.uJe9wl6W1jdhfLJaJxVU.jpg,train,AN,1,302
+processed_dataset/crops/valid/AN/images (97)_jpg.rf.RGwDF5doftOZwEJEXpYL.jpg,images (97)_jpg.rf.RGwDF5doftOZwEJEXpYL.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/58_jpg.rf.u5e9YxYYpsaKIgzTKfkw.jpg,58_jpg.rf.u5e9YxYYpsaKIgzTKfkw.jpg,train,AN,1,58
+processed_dataset/crops/train/AN/images - 2023-05-20T161120-050_jpg.rf.RFpbkTexpLQ7r3hHTQUI.jpg,images - 2023-05-20T161120-050_jpg.rf.RFpbkTexpLQ7r3hHTQUI.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/images (14)_jpg.rf.QsGgDPpC2Ov1jf7uU8Pb.jpg,images (14)_jpg.rf.QsGgDPpC2Ov1jf7uU8Pb.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/images - 2023-05-20T170908-996_jpg.rf.R53SWcxASRR0H2v6CljH.jpg,images - 2023-05-20T170908-996_jpg.rf.R53SWcxASRR0H2v6CljH.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/test/AN/34_jpg.rf.0dXwoqWbuLqv4EAfZKyy.jpg,34_jpg.rf.0dXwoqWbuLqv4EAfZKyy.jpg,test,AN,1,34
+processed_dataset/crops/train/Healthy/istockphoto-1149219360-612x612_jpg.rf.s4rPqV0hIcEsE33hpe9F.jpg,istockphoto-1149219360-612x612_jpg.rf.s4rPqV0hIcEsE33hpe9F.jpg,train,Healthy,0,istockphoto-1149219360-612x612
+processed_dataset/crops/valid/AN/73_jpg.rf.uEL5daq2ONsLWC0AtKgs.jpg,73_jpg.rf.uEL5daq2ONsLWC0AtKgs.jpg,valid,AN,1,73
+processed_dataset/crops/test/Healthy/0L1-116-_jpg.rf.u0FxIqmzgSoSeTz3lYI5.jpg,0L1-116-_jpg.rf.u0FxIqmzgSoSeTz3lYI5.jpg,test,Healthy,0,0L1-116
+processed_dataset/crops/train/AN/28RR4_jpg.rf.tjqNyOm8xstqPeorSJd0.jpg,28RR4_jpg.rf.tjqNyOm8xstqPeorSJd0.jpg,train,AN,1,28
+processed_dataset/crops/valid/AN/images (24)_jpg.rf.tzJCyOwCDnNcjw0v2ef9.jpg,images (24)_jpg.rf.tzJCyOwCDnNcjw0v2ef9.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/29L3_jpg.rf.tfBCRYGV4kB2kIERq7Cl.jpg,29L3_jpg.rf.tfBCRYGV4kB2kIERq7Cl.jpg,train,AN,1,29
+processed_dataset/crops/train/AN/FLIP_RIGHT236_jpg.rf.u5ty5ldR7gtQrJw7adha.jpg,FLIP_RIGHT236_jpg.rf.u5ty5ldR7gtQrJw7adha.jpg,train,AN,1,236
+processed_dataset/crops/train/Healthy/0L1-12-_jpg.rf.no7WgfIogPBVs6a42IRW.jpg,0L1-12-_jpg.rf.no7WgfIogPBVs6a42IRW.jpg,train,Healthy,0,0L1-12
+processed_dataset/crops/train/AN/47_jpg.rf.0RXsj2qiXJasCnmNrAyC.jpg,47_jpg.rf.0RXsj2qiXJasCnmNrAyC.jpg,train,AN,1,47
+processed_dataset/crops/train/AN/v_atopy_0237_jpg.rf.Q9EkFPpjIQIj8tMB4DjJ.jpg,v_atopy_0237_jpg.rf.Q9EkFPpjIQIj8tMB4DjJ.jpg,train,AN,1,v_atopy_0237
+processed_dataset/crops/train/AN/230_jpg.rf.uksDSklfcvlCZTkMzBsq.jpg,230_jpg.rf.uksDSklfcvlCZTkMzBsq.jpg,train,AN,1,230
+processed_dataset/crops/train/AN/download (20)_jpg.rf.QSokvRcC0qbZz2iWm3VV.jpg,download (20)_jpg.rf.QSokvRcC0qbZz2iWm3VV.jpg,train,AN,1,download (20)
+processed_dataset/crops/valid/AN/images (33)_jpg.rf.0tlhyqFQh6c9ABMCsKlP.jpg,images (33)_jpg.rf.0tlhyqFQh6c9ABMCsKlP.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/103_jpg.rf.0ronspAYrVE4x5HHHyno.jpg,103_jpg.rf.0ronspAYrVE4x5HHHyno.jpg,train,AN,1,103
+processed_dataset/crops/train/AN/11_jpg.rf.tQhyObXw02A7Q4wTAznq.jpg,11_jpg.rf.tQhyObXw02A7Q4wTAznq.jpg,train,AN,1,11
+processed_dataset/crops/train/AN/images - 2023-05-20T165226-890_jpg.rf.0dYmMoKkSIro6oIh8AJR.jpg,images - 2023-05-20T165226-890_jpg.rf.0dYmMoKkSIro6oIh8AJR.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/images (98)_jpg.rf.RWtU2kXCItvq0IlXCFTm.jpg,images (98)_jpg.rf.RWtU2kXCItvq0IlXCFTm.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/test/AN/FLIP_RIGHT130_jpg.rf.uqjaGpYk445xVOZ5itjA.jpg,FLIP_RIGHT130_jpg.rf.uqjaGpYk445xVOZ5itjA.jpg,test,AN,1,130
+processed_dataset/crops/train/AN/33RR4_jpg.rf.tmmwvySNV4TA3Jkps47l.jpg,33RR4_jpg.rf.tmmwvySNV4TA3Jkps47l.jpg,train,AN,1,33
+processed_dataset/crops/train/AN/321_jpg.rf.0g6P0YDbQ5tRO4mHjgfb.jpg,321_jpg.rf.0g6P0YDbQ5tRO4mHjgfb.jpg,train,AN,1,321
+processed_dataset/crops/train/AN/3_jpg.rf.Rj6sDOdSe2TABmg7Cq1p.jpg,3_jpg.rf.Rj6sDOdSe2TABmg7Cq1p.jpg,train,AN,1,3
+processed_dataset/crops/test/AN/v_atopy_0232_jpg.rf.1DhqSG2R54rlWh2EXLhf.jpg,v_atopy_0232_jpg.rf.1DhqSG2R54rlWh2EXLhf.jpg,test,AN,1,v_atopy_0232
+processed_dataset/crops/valid/AN/download (6)_jpg.rf.v3DXzgoQ9I1ZdQVZZdGJ.jpg,download (6)_jpg.rf.v3DXzgoQ9I1ZdQVZZdGJ.jpg,valid,AN,1,download (6)
+processed_dataset/crops/valid/AN/images (74)_jpg.rf.vSoBLBWzJPCjvTRNJ2xp.jpg,images (74)_jpg.rf.vSoBLBWzJPCjvTRNJ2xp.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/116_jpg.rf.v6YvMOHj4KAij7M0Bk7O.jpg,116_jpg.rf.v6YvMOHj4KAij7M0Bk7O.jpg,train,AN,1,116
+processed_dataset/crops/valid/Healthy/istockphoto-114281258-612x612_jpg.rf.uZ7B3ONoCLlZdf95OhXl.jpg,istockphoto-114281258-612x612_jpg.rf.uZ7B3ONoCLlZdf95OhXl.jpg,valid,Healthy,0,istockphoto-114281258-612x612
+processed_dataset/crops/train/AN/50_jpg.rf.njxKJvgyi8Eqijzb1EMX.jpg,50_jpg.rf.njxKJvgyi8Eqijzb1EMX.jpg,train,AN,1,50
+processed_dataset/crops/valid/AN/images (54)_jpg.rf.0TSSRSWwW8OYuSqcmsc8.jpg,images (54)_jpg.rf.0TSSRSWwW8OYuSqcmsc8.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/407_jpg.rf.M2F4o2AmQxLzcQzZhpF6.jpg,407_jpg.rf.M2F4o2AmQxLzcQzZhpF6.jpg,train,Healthy,0,407
+processed_dataset/crops/train/AN/47_jpg.rf.vF3hgdCQSYaAysw5gw68.jpg,47_jpg.rf.vF3hgdCQSYaAysw5gw68.jpg,train,AN,1,47
+processed_dataset/crops/train/AN/155_jpg.rf.M0ti08Gjw3zs4rhokgf5.jpg,155_jpg.rf.M0ti08Gjw3zs4rhokgf5.jpg,train,AN,1,155
+processed_dataset/crops/train/AN/275_jpg.rf.0OBx3cBg9Gupjv4S1YI1.jpg,275_jpg.rf.0OBx3cBg9Gupjv4S1YI1.jpg,train,AN,1,275
+processed_dataset/crops/valid/AN/images (99)_jpg.rf.ursa05xgP1IpELEz84qc.jpg,images (99)_jpg.rf.ursa05xgP1IpELEz84qc.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/23_jpg.rf.Lutn4mjeuliQdalANeDD.jpg,23_jpg.rf.Lutn4mjeuliQdalANeDD.jpg,train,AN,1,23
+processed_dataset/crops/train/Healthy/istockphoto-517414560-612x612_jpg.rf.v5lTP7VSMC9nxVoirCUC.jpg,istockphoto-517414560-612x612_jpg.rf.v5lTP7VSMC9nxVoirCUC.jpg,train,Healthy,0,istockphoto-517414560-612x612
+processed_dataset/crops/train/AN/322_jpg.rf.v6NsEWNSBGCVIwphnGEw.jpg,322_jpg.rf.v6NsEWNSBGCVIwphnGEw.jpg,train,AN,1,322
+processed_dataset/crops/test/Healthy/444_jpg.rf.0dTNsuIFLFSW8CMIEKSE.jpg,444_jpg.rf.0dTNsuIFLFSW8CMIEKSE.jpg,test,Healthy,0,444
+processed_dataset/crops/train/AN/31_jpg.rf.vNsZs9BMJSMSJift74ya.jpg,31_jpg.rf.vNsZs9BMJSMSJift74ya.jpg,train,AN,1,31
+processed_dataset/crops/train/AN/images - 2023-05-20T171012-073_jpg.rf.uuG2zHC9Bz0HY3miJftp.jpg,images - 2023-05-20T171012-073_jpg.rf.uuG2zHC9Bz0HY3miJftp.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/31R_jpg.rf.RH88L5GVmbMXfzFljdJM.jpg,31R_jpg.rf.RH88L5GVmbMXfzFljdJM.jpg,train,AN,1,31
+processed_dataset/crops/train/AN/159_jpg.rf.1HJWuYAhXqtWL0loWznA.jpg,159_jpg.rf.1HJWuYAhXqtWL0loWznA.jpg,train,AN,1,159
+processed_dataset/crops/train/AN/238_jpg.rf.vwLyRVeWw7Jf9LJaJOuc.jpg,238_jpg.rf.vwLyRVeWw7Jf9LJaJOuc.jpg,train,AN,1,238
+processed_dataset/crops/valid/AN/51_jpg.rf.QxFTyIAtwRnAFzxa3c4h.jpg,51_jpg.rf.QxFTyIAtwRnAFzxa3c4h.jpg,valid,AN,1,51
+processed_dataset/crops/train/AN/download (12)_jpg.rf.viJ4hnIMm3URmkzwcb1Y.jpg,download (12)_jpg.rf.viJ4hnIMm3URmkzwcb1Y.jpg,train,AN,1,download (12)
+processed_dataset/crops/train/AN/1_jpg.rf.SAwecifmdynONEcSjnB8.jpg,1_jpg.rf.SAwecifmdynONEcSjnB8.jpg,train,AN,1,1
+processed_dataset/crops/valid/AN/81_jpg.rf.vhSPEasKtLyidMRYJgkS.jpg,81_jpg.rf.vhSPEasKtLyidMRYJgkS.jpg,valid,AN,1,81
+processed_dataset/crops/valid/AN/images (72)_jpg.rf.2kEP4EeMNWxQxDiKMg2Q.jpg,images (72)_jpg.rf.2kEP4EeMNWxQxDiKMg2Q.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/42_jpg.rf.1jzmit6XuPLdaVQzfpeG.jpg,42_jpg.rf.1jzmit6XuPLdaVQzfpeG.jpg,train,AN,1,42
+processed_dataset/crops/train/AN/images - 2023-05-20T170821-704_jpg.rf.2NAr7JoKLDxhQn94k0k3.jpg,images - 2023-05-20T170821-704_jpg.rf.2NAr7JoKLDxhQn94k0k3.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/299_jpg.rf.1zomO1lxbfaH2t3ZrWjn.jpg,299_jpg.rf.1zomO1lxbfaH2t3ZrWjn.jpg,train,AN,1,299
+processed_dataset/crops/valid/AN/images (100)_jpg.rf.S5N0lxyvtKvgXDO6dVRo.jpg,images (100)_jpg.rf.S5N0lxyvtKvgXDO6dVRo.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/308_jpg.rf.1L5L96Iy6HeF5vtp7v0Q.jpg,308_jpg.rf.1L5L96Iy6HeF5vtp7v0Q.jpg,train,AN,1,308
+processed_dataset/crops/train/AN/311_jpg.rf.RHC24cZWqucswkIwxNZ4.jpg,311_jpg.rf.RHC24cZWqucswkIwxNZ4.jpg,train,AN,1,311
+processed_dataset/crops/test/AN/101_jpg.rf.2Lyk5kvnuGxnN8v21kbj.jpg,101_jpg.rf.2Lyk5kvnuGxnN8v21kbj.jpg,test,AN,1,101
+processed_dataset/crops/train/AN/FLIP_RIGHT152_jpg.rf.2rCyGFoo6BFUGM3k32mM.jpg,FLIP_RIGHT152_jpg.rf.2rCyGFoo6BFUGM3k32mM.jpg,train,AN,1,152
+processed_dataset/crops/valid/AN/FLIP_RIGHT317_jpg.rf.1h4FUPtq9lReKySFuEg3.jpg,FLIP_RIGHT317_jpg.rf.1h4FUPtq9lReKySFuEg3.jpg,valid,AN,1,317
+processed_dataset/crops/valid/AN/20R_jpg.rf.vZkGNNE212yms3Fr1XVa.jpg,20R_jpg.rf.vZkGNNE212yms3Fr1XVa.jpg,valid,AN,1,20
+processed_dataset/crops/train/Healthy/FLIP_LEFT366_jpg.rf.11GtZaKiE2lnGTdimD8D.jpg,FLIP_LEFT366_jpg.rf.11GtZaKiE2lnGTdimD8D.jpg,train,Healthy,0,366
+processed_dataset/crops/train/AN/319_jpg.rf.o3CbSx4Jd9iOj4oQmsqB.jpg,319_jpg.rf.o3CbSx4Jd9iOj4oQmsqB.jpg,train,AN,1,319
+processed_dataset/crops/train/AN/images - 2023-05-20T171019-509_jpg.rf.3GxdlCpSWaZI5wBTLgqT.jpg,images - 2023-05-20T171019-509_jpg.rf.3GxdlCpSWaZI5wBTLgqT.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/Healthy/405_jpg.rf.wbTTVZQ4HsgYGgpHakh6.jpg,405_jpg.rf.wbTTVZQ4HsgYGgpHakh6.jpg,train,Healthy,0,405
+processed_dataset/crops/valid/AN/318_jpg.rf.2FdnzGgUggUdAnZO2jtU.jpg,318_jpg.rf.2FdnzGgUggUdAnZO2jtU.jpg,valid,AN,1,318
+processed_dataset/crops/valid/AN/12_jpg.rf.Rx3iQc5pk2KhtOMBjKaL.jpg,12_jpg.rf.Rx3iQc5pk2KhtOMBjKaL.jpg,valid,AN,1,12
+processed_dataset/crops/valid/AN/81_jpg.rf.whK4LzeSPMpEcNAL3EMo.jpg,81_jpg.rf.whK4LzeSPMpEcNAL3EMo.jpg,valid,AN,1,81
+processed_dataset/crops/train/Healthy/22R4_jpg.rf.SURWdgSsEEXYiTGlwRzk.jpg,22R4_jpg.rf.SURWdgSsEEXYiTGlwRzk.jpg,train,Healthy,0,22R4
+processed_dataset/crops/train/AN/27_jpg.rf.wpu7gPZO16p1iK4D6OGu.jpg,27_jpg.rf.wpu7gPZO16p1iK4D6OGu.jpg,train,AN,1,27
+processed_dataset/crops/train/Healthy/428_jpg.rf.RQEicbDHlDXVueuKp971.jpg,428_jpg.rf.RQEicbDHlDXVueuKp971.jpg,train,Healthy,0,428
+processed_dataset/crops/train/AN/21_jpg.rf.vhGSbzEQ32J6qCpSy4xE.jpg,21_jpg.rf.vhGSbzEQ32J6qCpSy4xE.jpg,train,AN,1,21
+processed_dataset/crops/train/Healthy/0L1-2-_jpg.rf.30GwNLU4mbAXot2LOH3n.jpg,0L1-2-_jpg.rf.30GwNLU4mbAXot2LOH3n.jpg,train,Healthy,0,0L1-2
+processed_dataset/crops/train/AN/v_atopy_0007_jpg.rf.S8aHIO9pKB7RZFb54SmV.jpg,v_atopy_0007_jpg.rf.S8aHIO9pKB7RZFb54SmV.jpg,train,AN,1,v_atopy_0007
+processed_dataset/crops/valid/AN/images (82)_jpg.rf.xVCvgzoUujVLgEZNZ6MQ.jpg,images (82)_jpg.rf.xVCvgzoUujVLgEZNZ6MQ.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (86)_jpg.rf.SUHT1CUJhuHfoehxBl9T.jpg,images (86)_jpg.rf.SUHT1CUJhuHfoehxBl9T.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/251_jpg.rf.wxcjKrfmEkBrFZcjwy9z.jpg,251_jpg.rf.wxcjKrfmEkBrFZcjwy9z.jpg,train,AN,1,251
+processed_dataset/crops/valid/AN/images (42)_jpg.rf.1IaQnv6vXGVWx56GAhvw.jpg,images (42)_jpg.rf.1IaQnv6vXGVWx56GAhvw.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/272_jpg.rf.2gUuYnHDBSjZftk7nmiU.jpg,272_jpg.rf.2gUuYnHDBSjZftk7nmiU.jpg,train,AN,1,272
+processed_dataset/crops/valid/AN/images (16)_jpg.rf.3rTpq6vrUGSn92CLr7yD.jpg,images (16)_jpg.rf.3rTpq6vrUGSn92CLr7yD.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (57)_jpg.rf.npt8mFz11KFFgaeRIFYf.jpg,images (57)_jpg.rf.npt8mFz11KFFgaeRIFYf.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/68_jpg.rf.Sqc7W9LZEBr1TxH6l7xl.jpg,68_jpg.rf.Sqc7W9LZEBr1TxH6l7xl.jpg,train,AN,1,68
+processed_dataset/crops/train/AN/100R_jpg.rf.4IEpkhlEvCZ96sDoyAh8.jpg,100R_jpg.rf.4IEpkhlEvCZ96sDoyAh8.jpg,train,AN,1,100
+processed_dataset/crops/valid/AN/images (29)_jpg.rf.SqEnD4VerBh2JxW4iZ6f.jpg,images (29)_jpg.rf.SqEnD4VerBh2JxW4iZ6f.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/18_jpg.rf.3tDXiV8VYEZpWMuWU97J.jpg,18_jpg.rf.3tDXiV8VYEZpWMuWU97J.jpg,train,AN,1,18
+processed_dataset/crops/train/AN/images - 2023-05-20T165210-718_jpg.rf.3t8mOgkKtSwMLDoszIgD.jpg,images - 2023-05-20T165210-718_jpg.rf.3t8mOgkKtSwMLDoszIgD.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/test/AN/111_jpg.rf.wr3DRsABq5n3VKdVH3rp.jpg,111_jpg.rf.wr3DRsABq5n3VKdVH3rp.jpg,test,AN,1,111
+processed_dataset/crops/train/AN/10_jpg.rf.wQEkfKeZB8lYfiYine4p.jpg,10_jpg.rf.wQEkfKeZB8lYfiYine4p.jpg,train,AN,1,10
+processed_dataset/crops/train/Healthy/435_jpg.rf.4vceTBwoxbvFOvYrUUpL.jpg,435_jpg.rf.4vceTBwoxbvFOvYrUUpL.jpg,train,Healthy,0,435
+processed_dataset/crops/train/Healthy/331_jpg.rf.4vcunaU04xPcNY4Y0aT7.jpg,331_jpg.rf.4vcunaU04xPcNY4Y0aT7.jpg,train,Healthy,0,331
+processed_dataset/crops/train/AN/27_jpg.rf.xI964enLJqs5lGmAwa6a.jpg,27_jpg.rf.xI964enLJqs5lGmAwa6a.jpg,train,AN,1,27
+processed_dataset/crops/train/AN/download (16)_jpg.rf.M33zrfX04ZfgI9QB9leg.jpg,download (16)_jpg.rf.M33zrfX04ZfgI9QB9leg.jpg,train,AN,1,download (16)
+processed_dataset/crops/train/Healthy/istockphoto-154918842-612x612_jpg.rf.xZmOuxaBNRM4qQ015WHC.jpg,istockphoto-154918842-612x612_jpg.rf.xZmOuxaBNRM4qQ015WHC.jpg,train,Healthy,0,istockphoto-154918842-612x612
+processed_dataset/crops/test/AN/97R_jpg.rf.xW5A73OH8UP5bu7W1Huj.jpg,97R_jpg.rf.xW5A73OH8UP5bu7W1Huj.jpg,test,AN,1,97
+processed_dataset/crops/train/Healthy/88R_jpg.rf.T4maSK63BtjCGRUu1T2A.jpg,88R_jpg.rf.T4maSK63BtjCGRUu1T2A.jpg,train,Healthy,0,88
+processed_dataset/crops/test/Healthy/439_jpg.rf.whYgHRbDnX8ZuAFZ1bNk.jpg,439_jpg.rf.whYgHRbDnX8ZuAFZ1bNk.jpg,test,Healthy,0,439
+processed_dataset/crops/valid/AN/60_jpg.rf.SyW468rVJL5wDN5VcM8s.jpg,60_jpg.rf.SyW468rVJL5wDN5VcM8s.jpg,valid,AN,1,60
+processed_dataset/crops/valid/Healthy/334_jpg.rf.3yEKq2BpUYIKLJK901Od.jpg,334_jpg.rf.3yEKq2BpUYIKLJK901Od.jpg,valid,Healthy,0,334
+processed_dataset/crops/train/AN/76_jpg.rf.SolorCrSLLgAicZLcMx7.jpg,76_jpg.rf.SolorCrSLLgAicZLcMx7.jpg,train,AN,1,76
+processed_dataset/crops/train/AN/33_jpg.rf.wdKhecWiRVHtbUwLvGPj.jpg,33_jpg.rf.wdKhecWiRVHtbUwLvGPj.jpg,train,AN,1,33
+processed_dataset/crops/train/AN/79_jpg.rf.2xpQaJ4PkbozSBnshd0H.jpg,79_jpg.rf.2xpQaJ4PkbozSBnshd0H.jpg,train,AN,1,79
+processed_dataset/crops/train/Healthy/426_jpg.rf.SPSAVK8YD3tA0bIfF2vL.jpg,426_jpg.rf.SPSAVK8YD3tA0bIfF2vL.jpg,train,Healthy,0,426
+processed_dataset/crops/test/AN/24_jpg.rf.wM3OqstNtJ61npvHRSkq.jpg,24_jpg.rf.wM3OqstNtJ61npvHRSkq.jpg,test,AN,1,24
+processed_dataset/crops/valid/Healthy/454_jpg.rf.TfZY5DkPPY7Qh4Hy6PWB.jpg,454_jpg.rf.TfZY5DkPPY7Qh4Hy6PWB.jpg,valid,Healthy,0,454
+processed_dataset/crops/train/AN/43_jpg.rf.xwoCfEpgSISTPQkB8sgk.jpg,43_jpg.rf.xwoCfEpgSISTPQkB8sgk.jpg,train,AN,1,43
+processed_dataset/crops/train/AN/128_jpg.rf.3GszlpcmNXb6ygm3H8Ra.jpg,128_jpg.rf.3GszlpcmNXb6ygm3H8Ra.jpg,train,AN,1,128
+processed_dataset/crops/train/AN/285_jpg.rf.xUgtLODcGtrjqu6I9RJy.jpg,285_jpg.rf.xUgtLODcGtrjqu6I9RJy.jpg,train,AN,1,285
+processed_dataset/crops/valid/AN/images (70)_jpg.rf.xTYrvqF9Ey1NoQe4YFVw.jpg,images (70)_jpg.rf.xTYrvqF9Ey1NoQe4YFVw.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/100L3_jpg.rf.TsexP0swxbgsFsv1i0Uu.jpg,100L3_jpg.rf.TsexP0swxbgsFsv1i0Uu.jpg,train,AN,1,100
+processed_dataset/crops/train/Healthy/FLIP_RIGHT337_jpg.rf.w3wRXATOTORbJchONWQF.jpg,FLIP_RIGHT337_jpg.rf.w3wRXATOTORbJchONWQF.jpg,train,Healthy,0,337
+processed_dataset/crops/train/Healthy/408_jpg.rf.xcOEv33Xci2j9KeGGEbw.jpg,408_jpg.rf.xcOEv33Xci2j9KeGGEbw.jpg,train,Healthy,0,408
+processed_dataset/crops/train/AN/64_jpg.rf.xrIdwCKfYYHZxZsvueEV.jpg,64_jpg.rf.xrIdwCKfYYHZxZsvueEV.jpg,train,AN,1,64
+processed_dataset/crops/valid/AN/v_atopy_0230_jpg.rf.TA1h1BNrg134nLoWCtWN.jpg,v_atopy_0230_jpg.rf.TA1h1BNrg134nLoWCtWN.jpg,valid,AN,1,v_atopy_0230
+processed_dataset/crops/train/AN/FLIP_RIGHT277_jpg.rf.5UGY2sOX5leI2kdIb8ku.jpg,FLIP_RIGHT277_jpg.rf.5UGY2sOX5leI2kdIb8ku.jpg,train,AN,1,277
+processed_dataset/crops/valid/AN/59_jpg.rf.Tp2Ag3ZkwEYvjdFOWs3C.jpg,59_jpg.rf.Tp2Ag3ZkwEYvjdFOWs3C.jpg,valid,AN,1,59
+processed_dataset/crops/train/AN/78_jpg.rf.5FLOtt3wAW5GzJXieQgO.jpg,78_jpg.rf.5FLOtt3wAW5GzJXieQgO.jpg,train,AN,1,78
+processed_dataset/crops/valid/AN/images (39)_jpg.rf.yKe65iZv2ASYZa0CForL.jpg,images (39)_jpg.rf.yKe65iZv2ASYZa0CForL.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/73R_jpg.rf.5q17P7Fp7C9bYsnUBFZ3.jpg,73R_jpg.rf.5q17P7Fp7C9bYsnUBFZ3.jpg,valid,AN,1,73
+processed_dataset/crops/train/Healthy/FLIP_RIGHT201_jpg.rf.5UnPbCwvoEGQ76N9k7tf.jpg,FLIP_RIGHT201_jpg.rf.5UnPbCwvoEGQ76N9k7tf.jpg,train,Healthy,0,201
+processed_dataset/crops/train/AN/77_jpg.rf.wq9nDABXX6ujl4rwF7NQ.jpg,77_jpg.rf.wq9nDABXX6ujl4rwF7NQ.jpg,train,AN,1,77
+processed_dataset/crops/train/AN/FLIP_RIGHT160_jpg.rf.3jzUisBwHuVpew2zMTDO.jpg,FLIP_RIGHT160_jpg.rf.3jzUisBwHuVpew2zMTDO.jpg,train,AN,1,160
+processed_dataset/crops/train/AN/images - 2023-05-20T165801-151_jpg.rf.50or9Ou2MVTCr6w4BUS5.jpg,images - 2023-05-20T165801-151_jpg.rf.50or9Ou2MVTCr6w4BUS5.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/86_jpg.rf.TYrlSWxdfzAmuFnsshKl.jpg,86_jpg.rf.TYrlSWxdfzAmuFnsshKl.jpg,train,AN,1,86
+processed_dataset/crops/train/AN/94_jpg.rf.oHxr4kzuqH2JPVYr8OCk.jpg,94_jpg.rf.oHxr4kzuqH2JPVYr8OCk.jpg,train,AN,1,94
+processed_dataset/crops/train/AN/images - 2023-05-20T161124-451_jpg.rf.oPWxXjAQqYzyvo9lcXh1.jpg,images - 2023-05-20T161124-451_jpg.rf.oPWxXjAQqYzyvo9lcXh1.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/images (66)_jpg.rf.o2mzfnJtsCyCbC3x1sSE.jpg,images (66)_jpg.rf.o2mzfnJtsCyCbC3x1sSE.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/241_jpg.rf.T00uHBSrY7t1nKmly5b7.jpg,241_jpg.rf.T00uHBSrY7t1nKmly5b7.jpg,train,AN,1,241
+processed_dataset/crops/train/AN/67L3_jpg.rf.6dhisar9VbDSsH8LXi9U.jpg,67L3_jpg.rf.6dhisar9VbDSsH8LXi9U.jpg,train,AN,1,67
+processed_dataset/crops/train/Healthy/istockphoto-626215076-612x612_jpg.rf.TevAzb9Nvhbs52QXJuJ6.jpg,istockphoto-626215076-612x612_jpg.rf.TevAzb9Nvhbs52QXJuJ6.jpg,train,Healthy,0,istockphoto-626215076-612x612
+processed_dataset/crops/train/AN/68R_jpg.rf.xmsoSNjykmD3djzw4t9M.jpg,68R_jpg.rf.xmsoSNjykmD3djzw4t9M.jpg,train,AN,1,68
+processed_dataset/crops/valid/AN/images (63)_jpg.rf.yprAqfLIe3vuTj5Sy1CZ.jpg,images (63)_jpg.rf.yprAqfLIe3vuTj5Sy1CZ.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/85_jpg.rf.61rfPhNV8z0OmFeOkeSm.jpg,85_jpg.rf.61rfPhNV8z0OmFeOkeSm.jpg,train,AN,1,85
+processed_dataset/crops/train/AN/FLIP_RIGHT291_jpg.rf.yTUvmdL79mPF8rUBLURw.jpg,FLIP_RIGHT291_jpg.rf.yTUvmdL79mPF8rUBLURw.jpg,train,AN,1,291
+processed_dataset/crops/train/AN/112_jpg.rf.6O9R5OJhgkiyXEk4587J.jpg,112_jpg.rf.6O9R5OJhgkiyXEk4587J.jpg,train,AN,1,112
+processed_dataset/crops/train/AN/15_jpg.rf.55HrEpjpVVOmVWU7a2R3.jpg,15_jpg.rf.55HrEpjpVVOmVWU7a2R3.jpg,train,AN,1,15
+processed_dataset/crops/train/AN/160_jpg.rf.yxRpZ5NssWz7Ltgp4yEz.jpg,160_jpg.rf.yxRpZ5NssWz7Ltgp4yEz.jpg,train,AN,1,160
+processed_dataset/crops/test/AN/56_jpg.rf.5CgZAKifP3axNLrsHS4G.jpg,56_jpg.rf.5CgZAKifP3axNLrsHS4G.jpg,test,AN,1,56
+processed_dataset/crops/train/AN/41_jpg.rf.UhZvFwGxVRnBRsVFigZq.jpg,41_jpg.rf.UhZvFwGxVRnBRsVFigZq.jpg,train,AN,1,41
+processed_dataset/crops/valid/AN/95_jpg.rf.66fLowoz4fCyG8XDAwjU.jpg,95_jpg.rf.66fLowoz4fCyG8XDAwjU.jpg,valid,AN,1,95
+processed_dataset/crops/train/AN/258_jpg.rf.z3FvLFbTxNJCOshgzp9A.jpg,258_jpg.rf.z3FvLFbTxNJCOshgzp9A.jpg,train,AN,1,258
+processed_dataset/crops/train/AN/FLIP_RIGHT241_jpg.rf.UlMHU47XyLwEFHlMJi0y.jpg,FLIP_RIGHT241_jpg.rf.UlMHU47XyLwEFHlMJi0y.jpg,train,AN,1,241
+processed_dataset/crops/train/Healthy/36_jpg.rf.5ln3Vk9tBWSspPd9oDuZ.jpg,36_jpg.rf.5ln3Vk9tBWSspPd9oDuZ.jpg,train,Healthy,0,36
+processed_dataset/crops/train/Healthy/FLIP_RIGHT345_jpg.rf.UBYZRsSoORWm3s03IUd2.jpg,FLIP_RIGHT345_jpg.rf.UBYZRsSoORWm3s03IUd2.jpg,train,Healthy,0,345
+processed_dataset/crops/train/Healthy/432_jpg.rf.5IvSaAzIywV5jX2hMpvw.jpg,432_jpg.rf.5IvSaAzIywV5jX2hMpvw.jpg,train,Healthy,0,432
+processed_dataset/crops/train/AN/download (14)_jpg.rf.yvpnr3QtjQL1sN3zuHKN.jpg,download (14)_jpg.rf.yvpnr3QtjQL1sN3zuHKN.jpg,train,AN,1,download (14)
+processed_dataset/crops/train/Healthy/104_jpg.rf.RlxCUFVeiAlP4PrmKgGK.jpg,104_jpg.rf.RlxCUFVeiAlP4PrmKgGK.jpg,train,Healthy,0,104
+processed_dataset/crops/train/AN/17_jpg.rf.30r8w6AYI5ZQhU2LR2PM.jpg,17_jpg.rf.30r8w6AYI5ZQhU2LR2PM.jpg,train,AN,1,17
+processed_dataset/crops/train/Healthy/FLIP_RIGHT190_jpg.rf.zTOx8CS1CzbkL5l7lFaE.jpg,FLIP_RIGHT190_jpg.rf.zTOx8CS1CzbkL5l7lFaE.jpg,train,Healthy,0,190
+processed_dataset/crops/train/AN/118_jpg.rf.4qJpOs0RpNNQHeeohRQS.jpg,118_jpg.rf.4qJpOs0RpNNQHeeohRQS.jpg,train,AN,1,118
+processed_dataset/crops/train/AN/26RR4_jpg.rf.oUpKMwltr050karmP3vS.jpg,26RR4_jpg.rf.oUpKMwltr050karmP3vS.jpg,train,AN,1,26
+processed_dataset/crops/valid/Healthy/415_jpg.rf.yUG4X6wBIne8Jf6CdUW8.jpg,415_jpg.rf.yUG4X6wBIne8Jf6CdUW8.jpg,valid,Healthy,0,415
+processed_dataset/crops/train/AN/232_jpg.rf.M8ZmaH8Xi6zBMTQxvUv2.jpg,232_jpg.rf.M8ZmaH8Xi6zBMTQxvUv2.jpg,train,AN,1,232
+processed_dataset/crops/train/AN/314_jpg.rf.zD6Ybg0vcDodJspPgsK1.jpg,314_jpg.rf.zD6Ybg0vcDodJspPgsK1.jpg,train,AN,1,314
+processed_dataset/crops/train/Healthy/istockphoto-996178468-612x612_jpg.rf.Tw8tVVOGaeCrCqLXFMyy.jpg,istockphoto-996178468-612x612_jpg.rf.Tw8tVVOGaeCrCqLXFMyy.jpg,train,Healthy,0,istockphoto-996178468-612x612
+processed_dataset/crops/train/AN/117_jpg.rf.yvrPkfSO9I41kywR6YB4.jpg,117_jpg.rf.yvrPkfSO9I41kywR6YB4.jpg,train,AN,1,117
+processed_dataset/crops/valid/AN/v_atopy_0238_jpg.rf.zCjQDG3DOVLAUGjIwImG.jpg,v_atopy_0238_jpg.rf.zCjQDG3DOVLAUGjIwImG.jpg,valid,AN,1,v_atopy_0238
+processed_dataset/crops/train/AN/29_jpg.rf.4jrOt6KPUI1BX7515RRC.jpg,29_jpg.rf.4jrOt6KPUI1BX7515RRC.jpg,train,AN,1,29
+processed_dataset/crops/train/Healthy/424_jpg.rf.z0C1JGdx1GAEpNYb1Bgk.jpg,424_jpg.rf.z0C1JGdx1GAEpNYb1Bgk.jpg,train,Healthy,0,424
+processed_dataset/crops/train/AN/3_jpg.rf.6jU3zztSLYLnFlA8yHG1.jpg,3_jpg.rf.6jU3zztSLYLnFlA8yHG1.jpg,train,AN,1,3
+processed_dataset/crops/test/AN/69L3_jpg.rf.zM1TfcltgaM7cyk8LoEv.jpg,69L3_jpg.rf.zM1TfcltgaM7cyk8LoEv.jpg,test,AN,1,69
+processed_dataset/crops/train/Healthy/431_jpg.rf.yb4fqznTWptULZhG9czV.jpg,431_jpg.rf.yb4fqznTWptULZhG9czV.jpg,train,Healthy,0,431
+processed_dataset/crops/valid/AN/FLIP_RIGHT318_jpg.rf.5S89ydHj4JIy3xwIDYuH.jpg,FLIP_RIGHT318_jpg.rf.5S89ydHj4JIy3xwIDYuH.jpg,valid,AN,1,318
+processed_dataset/crops/train/Healthy/FLIP_RIGHT288_jpg.rf.Uzf64ODo5ScBPCcCgrVq.jpg,FLIP_RIGHT288_jpg.rf.Uzf64ODo5ScBPCcCgrVq.jpg,train,Healthy,0,288
+processed_dataset/crops/train/AN/23R_jpg.rf.73Neaj0vqGinBNdkDSds.jpg,23R_jpg.rf.73Neaj0vqGinBNdkDSds.jpg,train,AN,1,23
+processed_dataset/crops/valid/AN/FLIP_RIGHT284_jpg.rf.yM8v6SMtXicFpk1zMijN.jpg,FLIP_RIGHT284_jpg.rf.yM8v6SMtXicFpk1zMijN.jpg,valid,AN,1,284
+processed_dataset/crops/train/AN/219_jpg.rf.UQAIeydukP5xLD0vieNs.jpg,219_jpg.rf.UQAIeydukP5xLD0vieNs.jpg,train,AN,1,219
+processed_dataset/crops/train/AN/77_jpg.rf.79eOirZqXXa4SZlq0sCV.jpg,77_jpg.rf.79eOirZqXXa4SZlq0sCV.jpg,train,AN,1,77
+processed_dataset/crops/train/AN/79_jpg.rf.zq145DHLsyY5VSpR1ESE.jpg,79_jpg.rf.zq145DHLsyY5VSpR1ESE.jpg,train,AN,1,79
+processed_dataset/crops/valid/AN/images (68)_jpg.rf.6Fz2UYjy1OsPLbuzihRq.jpg,images (68)_jpg.rf.6Fz2UYjy1OsPLbuzihRq.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/FLIP_RIGHT102_jpg.rf.VFyL1ZizAmsiHV6l3o1P.jpg,FLIP_RIGHT102_jpg.rf.VFyL1ZizAmsiHV6l3o1P.jpg,train,AN,1,102
+processed_dataset/crops/train/AN/76_jpg.rf.Tz8n4fV5JZp1vgB1YecG.jpg,76_jpg.rf.Tz8n4fV5JZp1vgB1YecG.jpg,train,AN,1,76
+processed_dataset/crops/train/Healthy/istockphoto-841902682-612x612_jpg.rf.6zA9fe9tM4flIX7Thi5o.jpg,istockphoto-841902682-612x612_jpg.rf.6zA9fe9tM4flIX7Thi5o.jpg,train,Healthy,0,istockphoto-841902682-612x612
+processed_dataset/crops/train/Healthy/istockphoto-626215076-612x612_jpg.rf.4br7klId3EbaPjACsiAd.jpg,istockphoto-626215076-612x612_jpg.rf.4br7klId3EbaPjACsiAd.jpg,train,Healthy,0,istockphoto-626215076-612x612
+processed_dataset/crops/train/Healthy/in_png_jpg.rf.MBYoS6yRSY9DLP7svQNs.jpg,in_png_jpg.rf.MBYoS6yRSY9DLP7svQNs.jpg,train,Healthy,0,in_png
+processed_dataset/crops/valid/AN/132_jpg.rf.z8GcibY5JeTc0dG0IpH9.jpg,132_jpg.rf.z8GcibY5JeTc0dG0IpH9.jpg,valid,AN,1,132
+processed_dataset/crops/train/AN/download (27)_jpg.rf.VNhLlMl8DW6jVC2mpKmr.jpg,download (27)_jpg.rf.VNhLlMl8DW6jVC2mpKmr.jpg,train,AN,1,download (27)
+processed_dataset/crops/train/AN/images - 2023-05-20T170808-151_jpg.rf.7t2JnYiZJF2vpXekF8zV.jpg,images - 2023-05-20T170808-151_jpg.rf.7t2JnYiZJF2vpXekF8zV.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/test/Healthy/istockphoto-1183831120-612x612_jpg.rf.8TlAFjGLTtPnxKB0faC4.jpg,istockphoto-1183831120-612x612_jpg.rf.8TlAFjGLTtPnxKB0faC4.jpg,test,Healthy,0,istockphoto-1183831120-612x612
+processed_dataset/crops/valid/AN/images (5)_jpg.rf.oUqEI6hiA4EjIT15Jkzh.jpg,images (5)_jpg.rf.oUqEI6hiA4EjIT15Jkzh.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (76)_jpg.rf.yxxPYNCUcCYssFR498cU.jpg,images (76)_jpg.rf.yxxPYNCUcCYssFR498cU.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/39_jpg.rf.MLohHWc2ARYe8Ugu2wOp.jpg,39_jpg.rf.MLohHWc2ARYe8Ugu2wOp.jpg,train,AN,1,39
+processed_dataset/crops/train/AN/FLIP_RIGHT246_jpg.rf.8Ju9rLr6QIpOZYApAnx7.jpg,FLIP_RIGHT246_jpg.rf.8Ju9rLr6QIpOZYApAnx7.jpg,train,AN,1,246
+processed_dataset/crops/train/Healthy/FLIP_LEFT356_jpg.rf.5w5CPAp0PxhX5daO6hNh.jpg,FLIP_LEFT356_jpg.rf.5w5CPAp0PxhX5daO6hNh.jpg,train,Healthy,0,356
+processed_dataset/crops/valid/AN/images (75)_jpg.rf.VecdrjsJyhX2qHiZArz2.jpg,images (75)_jpg.rf.VecdrjsJyhX2qHiZArz2.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/113_jpg.rf.MNnpvffiDuQ4AfPQXrRb.jpg,113_jpg.rf.MNnpvffiDuQ4AfPQXrRb.jpg,train,Healthy,0,113
+processed_dataset/crops/train/AN/66_jpg.rf.8ar76mVPwUIZIfsdbBgV.jpg,66_jpg.rf.8ar76mVPwUIZIfsdbBgV.jpg,train,AN,1,66
+processed_dataset/crops/train/Healthy/406_jpg.rf.Um9GKIDzt6WC8jKSlxLp.jpg,406_jpg.rf.Um9GKIDzt6WC8jKSlxLp.jpg,train,Healthy,0,406
+processed_dataset/crops/train/AN/117_jpg.rf.71LeOhWKjwCtke1lfCa3.jpg,117_jpg.rf.71LeOhWKjwCtke1lfCa3.jpg,train,AN,1,117
+processed_dataset/crops/train/AN/v_atopy_0228_jpg.rf.VXwOiqP2VaVTB3giNh3w.jpg,v_atopy_0228_jpg.rf.VXwOiqP2VaVTB3giNh3w.jpg,train,AN,1,v_atopy_0228
+processed_dataset/crops/train/AN/61_jpg.rf.9JLj6KZCldNg0r3qqFSQ.jpg,61_jpg.rf.9JLj6KZCldNg0r3qqFSQ.jpg,train,AN,1,61
+processed_dataset/crops/train/AN/download (22)_jpg.rf.7U4bRD5aWgYnyPtfo6kS.jpg,download (22)_jpg.rf.7U4bRD5aWgYnyPtfo6kS.jpg,train,AN,1,download (22)
+processed_dataset/crops/valid/AN/images (10)_jpg.rf.UUw60FCpJlWyZvSvaK0V.jpg,images (10)_jpg.rf.UUw60FCpJlWyZvSvaK0V.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/108_jpg.rf.VP4BXdPNytsu5EO7s127.jpg,108_jpg.rf.VP4BXdPNytsu5EO7s127.jpg,train,AN,1,108
+processed_dataset/crops/train/AN/114_jpeg.rf.Vso87EFvmQ5KvNIWz6tG.jpeg,114_jpeg.rf.Vso87EFvmQ5KvNIWz6tG.jpeg,train,AN,1,114
+processed_dataset/crops/train/AN/290_jpg.rf.1zng8ePtIDDAFjJmPtUD.jpg,290_jpg.rf.1zng8ePtIDDAFjJmPtUD.jpg,train,AN,1,290
+processed_dataset/crops/train/AN/21_jpg.rf.zTbvvf5Jei1RYW3lpxun.jpg,21_jpg.rf.zTbvvf5Jei1RYW3lpxun.jpg,train,AN,1,21
+processed_dataset/crops/train/Healthy/istockphoto-841902682-612x612_jpg.rf.MCCS6eF78ZGz9acjIPg1.jpg,istockphoto-841902682-612x612_jpg.rf.MCCS6eF78ZGz9acjIPg1.jpg,train,Healthy,0,istockphoto-841902682-612x612
+processed_dataset/crops/train/AN/324_jpg.rf.MrvKrrE2fTYokh4TXsHj.jpg,324_jpg.rf.MrvKrrE2fTYokh4TXsHj.jpg,train,AN,1,324
+processed_dataset/crops/train/AN/v_atopy_0225_jpg.rf.U70dHWHeNvur4xQEugx8.jpg,v_atopy_0225_jpg.rf.U70dHWHeNvur4xQEugx8.jpg,train,AN,1,v_atopy_0225
+processed_dataset/crops/train/AN/37_jpg.rf.7QILJjPwltXUsdYiFA2l.jpg,37_jpg.rf.7QILJjPwltXUsdYiFA2l.jpg,train,AN,1,37
+processed_dataset/crops/valid/AN/images (17)_jpg.rf.WOJBo86HC7HyDmsl04tD.jpg,images (17)_jpg.rf.WOJBo86HC7HyDmsl04tD.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/236_jpg.rf.Un8FQWOGvxPxVFzbEiOg.jpg,236_jpg.rf.Un8FQWOGvxPxVFzbEiOg.jpg,train,AN,1,236
+processed_dataset/crops/train/Healthy/36R_jpg.rf.za8Cj1sziOs3qkTdmIaS.jpg,36R_jpg.rf.za8Cj1sziOs3qkTdmIaS.jpg,train,Healthy,0,36
+processed_dataset/crops/train/AN/229_jpg.rf.VkZwqCUb83XGWW5Q768m.jpg,229_jpg.rf.VkZwqCUb83XGWW5Q768m.jpg,train,AN,1,229
+processed_dataset/crops/train/AN/images - 2023-05-20T170901-260_jpg.rf.MetrQcleRdDjzzJWWGL6.jpg,images - 2023-05-20T170901-260_jpg.rf.MetrQcleRdDjzzJWWGL6.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/images (20)_jpg.rf.7WyxeJ240bRhcHWXrKFE.jpg,images (20)_jpg.rf.7WyxeJ240bRhcHWXrKFE.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/96_jpg.rf.MwsnnTT3T05ARJ0vCyTB.jpg,96_jpg.rf.MwsnnTT3T05ARJ0vCyTB.jpg,train,AN,1,96
+processed_dataset/crops/train/AN/112_jpg.rf.yOARDLSll2NbTKeE9Ei0.jpg,112_jpg.rf.yOARDLSll2NbTKeE9Ei0.jpg,train,AN,1,112
+processed_dataset/crops/train/AN/68L3_jpg.rf.6hFsNwGX1R0o9xvf3Oyr.jpg,68L3_jpg.rf.6hFsNwGX1R0o9xvf3Oyr.jpg,train,AN,1,68
+processed_dataset/crops/train/AN/119_jpg.rf.9zIKdmCghEax73vuIDRl.jpg,119_jpg.rf.9zIKdmCghEax73vuIDRl.jpg,train,AN,1,119
+processed_dataset/crops/train/Healthy/38_jpg.rf.ymhnfXqBF2jUtRGiilkK.jpg,38_jpg.rf.ymhnfXqBF2jUtRGiilkK.jpg,train,Healthy,0,38
+processed_dataset/crops/train/AN/41_jpg.rf.8hJVOLLHSuPsbmNyhs8e.jpg,41_jpg.rf.8hJVOLLHSuPsbmNyhs8e.jpg,train,AN,1,41
+processed_dataset/crops/test/AN/v_atopy_0226_jpg.rf.9CRDOKyKo8YNDk2ldRC1.jpg,v_atopy_0226_jpg.rf.9CRDOKyKo8YNDk2ldRC1.jpg,test,AN,1,v_atopy_0226
+processed_dataset/crops/train/AN/v_atopy_0008_jpg.rf.A78N0PCt1NgYPA5yUrvR.jpg,v_atopy_0008_jpg.rf.A78N0PCt1NgYPA5yUrvR.jpg,train,AN,1,v_atopy_0008
+processed_dataset/crops/train/AN/96_jpg.rf.7tbBT3QlkXezHfhVG0bG.jpg,96_jpg.rf.7tbBT3QlkXezHfhVG0bG.jpg,train,AN,1,96
+processed_dataset/crops/test/AN/154_jpg.rf.WbO6gsBmsuktcaHw2Pq8.jpg,154_jpg.rf.WbO6gsBmsuktcaHw2Pq8.jpg,test,AN,1,154
+processed_dataset/crops/train/Healthy/24F58PICZFBuDf4TdVbcr_PIC2018_jpg.rf.MQLj6cF52G7ldlrFr9tl.jpg,24F58PICZFBuDf4TdVbcr_PIC2018_jpg.rf.MQLj6cF52G7ldlrFr9tl.jpg,train,Healthy,0,24F58PICZFBuDf4TdVbcr_PIC2018
+processed_dataset/crops/train/AN/70L3_jpg.rf.AFQ6ajywpeWhtePTVfsn.jpg,70L3_jpg.rf.AFQ6ajywpeWhtePTVfsn.jpg,train,AN,1,70
+processed_dataset/crops/valid/AN/51_jpg.rf.8yBHsIKMfLTNvcQgYxGq.jpg,51_jpg.rf.8yBHsIKMfLTNvcQgYxGq.jpg,valid,AN,1,51
+processed_dataset/crops/train/Healthy/FLIP_RIGHT168_jpg.rf.XG1UfFwjzNbsGXHqv4C5.jpg,FLIP_RIGHT168_jpg.rf.XG1UfFwjzNbsGXHqv4C5.jpg,train,Healthy,0,168
+processed_dataset/crops/train/AN/94R_jpg.rf.N1zzGgCjDNCIEvlWCjs6.jpg,94R_jpg.rf.N1zzGgCjDNCIEvlWCjs6.jpg,train,AN,1,94
+processed_dataset/crops/valid/AN/images (27)_jpg.rf.VvGjLs5iu7l576CUR6Sw.jpg,images (27)_jpg.rf.VvGjLs5iu7l576CUR6Sw.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (58)_jpg.rf.9Dagchj3BP5V6MM8hMB9.jpg,images (58)_jpg.rf.9Dagchj3BP5V6MM8hMB9.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/413_jpg.rf.WyekMcQsaGEzj0SxYj7v.jpg,413_jpg.rf.WyekMcQsaGEzj0SxYj7v.jpg,train,Healthy,0,413
+processed_dataset/crops/train/Healthy/450_jpg.rf.9fYuGAibEuPmcfSfIeoR.jpg,450_jpg.rf.9fYuGAibEuPmcfSfIeoR.jpg,train,Healthy,0,450
+processed_dataset/crops/train/AN/287_jpg.rf.9l65gH7HqBysB4gSRM7p.jpg,287_jpg.rf.9l65gH7HqBysB4gSRM7p.jpg,train,AN,1,287
+processed_dataset/crops/valid/AN/images (18)_jpg.rf.AQOzIyG3TUXlBVkoNqWX.jpg,images (18)_jpg.rf.AQOzIyG3TUXlBVkoNqWX.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/FLIP_RIGHT125_jpg.rf.8U9TBFiKjjRaEjjx7Ggl.jpg,FLIP_RIGHT125_jpg.rf.8U9TBFiKjjRaEjjx7Ggl.jpg,train,AN,1,125
+processed_dataset/crops/train/AN/download (5)_jpg.rf.XQhrtQxu4E9AidlcRYWV.jpg,download (5)_jpg.rf.XQhrtQxu4E9AidlcRYWV.jpg,train,AN,1,download (5)
+processed_dataset/crops/valid/Healthy/istockphoto-114281258-612x612_jpg.rf.XhHlgpOsFYJakgAlQuMl.jpg,istockphoto-114281258-612x612_jpg.rf.XhHlgpOsFYJakgAlQuMl.jpg,valid,Healthy,0,istockphoto-114281258-612x612
+processed_dataset/crops/train/AN/225_jpg.rf.VtnkyuWxz20VCJbmP9ay.jpg,225_jpg.rf.VtnkyuWxz20VCJbmP9ay.jpg,train,AN,1,225
+processed_dataset/crops/train/Healthy/FLIP_LEFT371_jpg.rf.8m6ynjt36PJ6A4hR99bH.jpg,FLIP_LEFT371_jpg.rf.8m6ynjt36PJ6A4hR99bH.jpg,train,Healthy,0,371
+processed_dataset/crops/valid/AN/images (36)_jpg.rf.A8FJLqeaTDMjfDg5DK7f.jpg,images (36)_jpg.rf.A8FJLqeaTDMjfDg5DK7f.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/v_atopy_0003_jpg.rf.9jw1GV5QALyVbhX2dD2k.jpg,v_atopy_0003_jpg.rf.9jw1GV5QALyVbhX2dD2k.jpg,train,AN,1,v_atopy_0003
+processed_dataset/crops/train/AN/68RR4_jpg.rf.YBGVBGW3aNpWtjKhlxZ5.jpg,68RR4_jpg.rf.YBGVBGW3aNpWtjKhlxZ5.jpg,train,AN,1,68
+processed_dataset/crops/train/AN/231_jpg.rf.AkggCr4zU2NFjKkj6EHG.jpg,231_jpg.rf.AkggCr4zU2NFjKkj6EHG.jpg,train,AN,1,231
+processed_dataset/crops/train/Healthy/0L1-30-_jpg.rf.9wmfmenkTdE5af2ekgb9.jpg,0L1-30-_jpg.rf.9wmfmenkTdE5af2ekgb9.jpg,train,Healthy,0,0L1-30
+processed_dataset/crops/train/AN/103_jpg.rf.B11oeluH81NqkMKVQfZM.jpg,103_jpg.rf.B11oeluH81NqkMKVQfZM.jpg,train,AN,1,103
+processed_dataset/crops/train/AN/282_jpg.rf.9gvfXHbrzzPdcnOXfpvm.jpg,282_jpg.rf.9gvfXHbrzzPdcnOXfpvm.jpg,train,AN,1,282
+processed_dataset/crops/train/Healthy/FLIP_LEFT373_jpg.rf.BWcTdMZEnrXsyo7snliV.jpg,FLIP_LEFT373_jpg.rf.BWcTdMZEnrXsyo7snliV.jpg,train,Healthy,0,373
+processed_dataset/crops/test/AN/v_atopy_0080_jpg.rf.BdXTu7EXL0Qr0VD8EKzl.jpg,v_atopy_0080_jpg.rf.BdXTu7EXL0Qr0VD8EKzl.jpg,test,AN,1,v_atopy_0080
+processed_dataset/crops/train/AN/download (35)_jpg.rf.Bwd5OrxLYcMCqWsCqrUS.jpg,download (35)_jpg.rf.Bwd5OrxLYcMCqWsCqrUS.jpg,train,AN,1,download (35)
+processed_dataset/crops/train/AN/FLIP_RIGHT314_jpg.rf.BKz0t463zVev6a2Qz9DB.jpg,FLIP_RIGHT314_jpg.rf.BKz0t463zVev6a2Qz9DB.jpg,train,AN,1,314
+processed_dataset/crops/train/AN/102_jpg.rf.8kYklSuJ9j8hN1vJZfNF.jpg,102_jpg.rf.8kYklSuJ9j8hN1vJZfNF.jpg,train,AN,1,102
+processed_dataset/crops/train/AN/129_jpg.rf.Bfgd0jgX4NlO3fYHolTz.jpg,129_jpg.rf.Bfgd0jgX4NlO3fYHolTz.jpg,train,AN,1,129
+processed_dataset/crops/valid/AN/40_jpg.rf.8ogc7B8UF34LZK1JsVGT.jpg,40_jpg.rf.8ogc7B8UF34LZK1JsVGT.jpg,valid,AN,1,40
+processed_dataset/crops/valid/AN/images (26)_jpg.rf.BaHEA5GmQOJINaklTVpr.jpg,images (26)_jpg.rf.BaHEA5GmQOJINaklTVpr.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/0L1-44-_jpg.rf.BPh3iPTHNmPbwVal5mFg.jpg,0L1-44-_jpg.rf.BPh3iPTHNmPbwVal5mFg.jpg,train,Healthy,0,0L1-44
+processed_dataset/crops/train/AN/105_jpg.rf.BZ3wNGAL7JjKwFrmjDjM.jpg,105_jpg.rf.BZ3wNGAL7JjKwFrmjDjM.jpg,train,AN,1,105
+processed_dataset/crops/train/AN/119_png.rf.CHK5bQdnfaFPJJ0fKm0M.png,119_png.rf.CHK5bQdnfaFPJJ0fKm0M.png,train,AN,1,119
+processed_dataset/crops/test/AN/34R_jpg.rf.APUIFo2Z3pzYfZFGzPZd.jpg,34R_jpg.rf.APUIFo2Z3pzYfZFGzPZd.jpg,test,AN,1,34
+processed_dataset/crops/train/AN/247_jpg.rf.AnKLywg4otpHUgfwdire.jpg,247_jpg.rf.AnKLywg4otpHUgfwdire.jpg,train,AN,1,247
+processed_dataset/crops/valid/AN/v_atopy_0223_jpg.rf.AwPA1uHE1YidQ2wen8pG.jpg,v_atopy_0223_jpg.rf.AwPA1uHE1YidQ2wen8pG.jpg,valid,AN,1,v_atopy_0223
+processed_dataset/crops/train/Healthy/436_jpg.rf.C1GDspPyciAL3rdGB12p.jpg,436_jpg.rf.C1GDspPyciAL3rdGB12p.jpg,train,Healthy,0,436
+processed_dataset/crops/train/AN/v_atopy_0011_jpg.rf.C7OzObK0LnqT2ELEdb0K.jpg,v_atopy_0011_jpg.rf.C7OzObK0LnqT2ELEdb0K.jpg,train,AN,1,v_atopy_0011
+processed_dataset/crops/train/AN/85_jpg.rf.CzX4WIX0jSYX6pw4dVuf.jpg,85_jpg.rf.CzX4WIX0jSYX6pw4dVuf.jpg,train,AN,1,85
+processed_dataset/crops/train/AN/54_jpg.rf.DoSbMtE6EiEqIR5S5os4.jpg,54_jpg.rf.DoSbMtE6EiEqIR5S5os4.jpg,train,AN,1,54
+processed_dataset/crops/train/AN/FLIP_RIGHT305_jpg.rf.CfrVkiKdwuSkMP7ckojj.jpg,FLIP_RIGHT305_jpg.rf.CfrVkiKdwuSkMP7ckojj.jpg,train,AN,1,305
+processed_dataset/crops/train/AN/270_jpg.rf.Cj35skkQkbGOBkYkoS3K.jpg,270_jpg.rf.Cj35skkQkbGOBkYkoS3K.jpg,train,AN,1,270
+processed_dataset/crops/test/AN/19_jpg.rf.EYVnxVvPqGUftL3Zs1ed.jpg,19_jpg.rf.EYVnxVvPqGUftL3Zs1ed.jpg,test,AN,1,19
+processed_dataset/crops/train/AN/305_jpg.rf.E0buXMit0PIp1xi2PrUy.jpg,305_jpg.rf.E0buXMit0PIp1xi2PrUy.jpg,train,AN,1,305
+processed_dataset/crops/train/AN/download (38)_jpg.rf.EVJJaZAHK41HlWoaq12r.jpg,download (38)_jpg.rf.EVJJaZAHK41HlWoaq12r.jpg,train,AN,1,download (38)
+processed_dataset/crops/valid/AN/7_jpg.rf.CfiUwG87TsgtXqcuDrZK.jpg,7_jpg.rf.CfiUwG87TsgtXqcuDrZK.jpg,valid,AN,1,7
+processed_dataset/crops/train/AN/images - 2023-05-20T170813-844_jpg.rf.ES8caNtFB4pvOOxpOVcU.jpg,images - 2023-05-20T170813-844_jpg.rf.ES8caNtFB4pvOOxpOVcU.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/276_jpg.rf.EK36JV7k1jxz8phUM4MA.jpg,276_jpg.rf.EK36JV7k1jxz8phUM4MA.jpg,train,AN,1,276
+processed_dataset/crops/train/AN/289_jpg.rf.Cha6fvuO4Mg8yHvpqR4A.jpg,289_jpg.rf.Cha6fvuO4Mg8yHvpqR4A.jpg,train,AN,1,289
+processed_dataset/crops/test/Healthy/istockphoto-509371990-612x612_jpg.rf.ERY82MR51F5cF2yfel0b.jpg,istockphoto-509371990-612x612_jpg.rf.ERY82MR51F5cF2yfel0b.jpg,test,Healthy,0,istockphoto-509371990-612x612
+processed_dataset/crops/valid/AN/images (15)_jpg.rf.YXQsNs8DqHxUMiBv956f.jpg,images (15)_jpg.rf.YXQsNs8DqHxUMiBv956f.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/test/AN/99_jpg.rf.Xq9bUWwYhjAc2g6fqOQf.jpg,99_jpg.rf.Xq9bUWwYhjAc2g6fqOQf.jpg,test,AN,1,99
+processed_dataset/crops/train/Healthy/447_jpg.rf.YXl3K4G8MIv1DHthufJ6.jpg,447_jpg.rf.YXl3K4G8MIv1DHthufJ6.jpg,train,Healthy,0,447
+processed_dataset/crops/train/AN/300_jpg.rf.YRzXNjolnMUwHCZAkas4.jpg,300_jpg.rf.YRzXNjolnMUwHCZAkas4.jpg,train,AN,1,300
+processed_dataset/crops/train/Healthy/istockphoto-1152089011-612x612_jpg.rf.ZseVYFyl8s0xY0FZYJGu.jpg,istockphoto-1152089011-612x612_jpg.rf.ZseVYFyl8s0xY0FZYJGu.jpg,train,Healthy,0,istockphoto-1152089011-612x612
+processed_dataset/crops/train/AN/74_jpg.rf.XJ58yBLntwiOu3xefutU.jpg,74_jpg.rf.XJ58yBLntwiOu3xefutU.jpg,train,AN,1,74
+processed_dataset/crops/train/AN/303_jpg.rf.WzNevl3YF0YF58a4rb2Y.jpg,303_jpg.rf.WzNevl3YF0YF58a4rb2Y.jpg,train,AN,1,303
+processed_dataset/crops/train/AN/107_jpg.rf.MtFPcH9NFymnxEvH3Nic.jpg,107_jpg.rf.MtFPcH9NFymnxEvH3Nic.jpg,train,AN,1,107
+processed_dataset/crops/test/AN/69_jpg.rf.YLHsQt2fLDsLBldIf7Rf.jpg,69_jpg.rf.YLHsQt2fLDsLBldIf7Rf.jpg,test,AN,1,69
+processed_dataset/crops/train/AN/320_jpg.rf.WEU2vqg47fLvXu7mbcMY.jpg,320_jpg.rf.WEU2vqg47fLvXu7mbcMY.jpg,train,AN,1,320
+processed_dataset/crops/train/Healthy/434_jpg.rf.XXKETSoWU0dbCMXZme4K.jpg,434_jpg.rf.XXKETSoWU0dbCMXZme4K.jpg,train,Healthy,0,434
+processed_dataset/crops/train/Healthy/istockphoto-509390625-612x612_jpg.rf.XmCb3JmUQblYpd9ANF4q.jpg,istockphoto-509390625-612x612_jpg.rf.XmCb3JmUQblYpd9ANF4q.jpg,train,Healthy,0,istockphoto-509390625-612x612
+processed_dataset/crops/train/AN/13_jpg.rf.YZgygwXKOPTkXWpYrOWP.jpg,13_jpg.rf.YZgygwXKOPTkXWpYrOWP.jpg,train,AN,1,13
+processed_dataset/crops/train/AN/v_atopy_0229_jpg.rf.VcF7HE1VQazn8jyW6JRu.jpg,v_atopy_0229_jpg.rf.VcF7HE1VQazn8jyW6JRu.jpg,train,AN,1,v_atopy_0229
+processed_dataset/crops/train/AN/156_jpg.rf.Z8pUsRHgB872oppOkEqg.jpg,156_jpg.rf.Z8pUsRHgB872oppOkEqg.jpg,train,AN,1,156
+processed_dataset/crops/train/AN/90_jpg.rf.a5iDw7VUhXaNyl4uE6lr.jpg,90_jpg.rf.a5iDw7VUhXaNyl4uE6lr.jpg,train,AN,1,90
+processed_dataset/crops/train/Healthy/FLIP_RIGHT279_jpg.rf.ZL88cSJI6irohdWGOLFX.jpg,FLIP_RIGHT279_jpg.rf.ZL88cSJI6irohdWGOLFX.jpg,train,Healthy,0,279
+processed_dataset/crops/train/AN/30_jpg.rf.aFyCkI0mq97H7hO16tbM.jpg,30_jpg.rf.aFyCkI0mq97H7hO16tbM.jpg,train,AN,1,30
+processed_dataset/crops/train/AN/FLIP_RIGHT320_jpg.rf.XlszXWXryZiR1A7BRkOS.jpg,FLIP_RIGHT320_jpg.rf.XlszXWXryZiR1A7BRkOS.jpg,train,AN,1,320
+processed_dataset/crops/valid/AN/284_jpg.rf.aHmXtf50OKi11xX9VugL.jpg,284_jpg.rf.aHmXtf50OKi11xX9VugL.jpg,valid,AN,1,284
+processed_dataset/crops/train/Healthy/istockphoto-1135533684-612x612-1_jpg.rf.VfdfYkBbb605GAshIqd3.jpg,istockphoto-1135533684-612x612-1_jpg.rf.VfdfYkBbb605GAshIqd3.jpg,train,Healthy,0,istockphoto-1135533684-612x612-1
+processed_dataset/crops/train/AN/62_jpg.rf.afaprM8zuwFamuR9JVqi.jpg,62_jpg.rf.afaprM8zuwFamuR9JVqi.jpg,train,AN,1,62
+processed_dataset/crops/train/Healthy/FLIP_RIGHT339_jpg.rf.aKA8054UYiTh33rddPqX.jpg,FLIP_RIGHT339_jpg.rf.aKA8054UYiTh33rddPqX.jpg,train,Healthy,0,339
+processed_dataset/crops/train/AN/images - 2023-05-20T161349-200_jpg.rf.aFHuFoVn1cW4s4H9v3aV.jpg,images - 2023-05-20T161349-200_jpg.rf.aFHuFoVn1cW4s4H9v3aV.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/v_atopy_0236_jpg.rf.DyOQ9wpEHvTudOjAwwtx.jpg,v_atopy_0236_jpg.rf.DyOQ9wpEHvTudOjAwwtx.jpg,train,AN,1,v_atopy_0236
+processed_dataset/crops/train/Healthy/istockphoto-181065083-612x612_jpg.rf.DDtjbtloly47iq2GHkcU.jpg,istockphoto-181065083-612x612_jpg.rf.DDtjbtloly47iq2GHkcU.jpg,train,Healthy,0,istockphoto-181065083-612x612
+processed_dataset/crops/train/AN/v_atopy_0005_jpg.rf.DmQL36ORL8I2pSY2vFYa.jpg,v_atopy_0005_jpg.rf.DmQL36ORL8I2pSY2vFYa.jpg,train,AN,1,v_atopy_0005
+processed_dataset/crops/valid/AN/images (1)_jpg.rf.FebVLoAjvGN3n0Whe78p.jpg,images (1)_jpg.rf.FebVLoAjvGN3n0Whe78p.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/FLIP_LEFT359_jpg.rf.bMrnLWlJybziwS2eDZWz.jpg,FLIP_LEFT359_jpg.rf.bMrnLWlJybziwS2eDZWz.jpg,train,Healthy,0,359
+processed_dataset/crops/train/AN/4_jpg.rf.Fpc1HOhJ3IG5LEMCwVbv.jpg,4_jpg.rf.Fpc1HOhJ3IG5LEMCwVbv.jpg,train,AN,1,4
+processed_dataset/crops/train/Healthy/414_jpg.rf.bhFilGP7Stv1mbPYjaRj.jpg,414_jpg.rf.bhFilGP7Stv1mbPYjaRj.jpg,train,Healthy,0,414
+processed_dataset/crops/train/Healthy/88_jpg.rf.bOLKz2jInXcuiNk5Dhaw.jpg,88_jpg.rf.bOLKz2jInXcuiNk5Dhaw.jpg,train,Healthy,0,88
+processed_dataset/crops/train/Healthy/337_jpg.rf.bkyLTkwGXkbi3oPPd2vV.jpg,337_jpg.rf.bkyLTkwGXkbi3oPPd2vV.jpg,train,Healthy,0,337
+processed_dataset/crops/train/AN/22_jpg.rf.E0KGRGQSRpevAKCA3BSr.jpg,22_jpg.rf.E0KGRGQSRpevAKCA3BSr.jpg,train,AN,1,22
+processed_dataset/crops/train/AN/91_jpg.rf.F4yBNbCzspYLKa30Q5PE.jpg,91_jpg.rf.F4yBNbCzspYLKa30Q5PE.jpg,train,AN,1,91
+processed_dataset/crops/train/Healthy/412_jpg.rf.Yl62jA67QTlvXdhUuQLv.jpg,412_jpg.rf.Yl62jA67QTlvXdhUuQLv.jpg,train,Healthy,0,412
+processed_dataset/crops/train/Healthy/istockphoto-154918842-612x612_jpg.rf.FTS9EEw0b8duvTjJmOnR.jpg,istockphoto-154918842-612x612_jpg.rf.FTS9EEw0b8duvTjJmOnR.jpg,train,Healthy,0,istockphoto-154918842-612x612
+processed_dataset/crops/train/Healthy/istockphoto-1191856616-612x612_jpg.rf.Zy0IReM8oSCyVAlTeeSn.jpg,istockphoto-1191856616-612x612_jpg.rf.Zy0IReM8oSCyVAlTeeSn.jpg,train,Healthy,0,istockphoto-1191856616-612x612
+processed_dataset/crops/train/Healthy/315_jpg.rf.DhCr3r225REKdKz7ub73.jpg,315_jpg.rf.DhCr3r225REKdKz7ub73.jpg,train,Healthy,0,315
+processed_dataset/crops/train/Healthy/0L1-47-_jpg.rf.FmMTIA6dtqwZnswK84aW.jpg,0L1-47-_jpg.rf.FmMTIA6dtqwZnswK84aW.jpg,train,Healthy,0,0L1-47
+processed_dataset/crops/test/AN/24R_jpg.rf.FMpit2XuQuVMM3jFTLoZ.jpg,24R_jpg.rf.FMpit2XuQuVMM3jFTLoZ.jpg,test,AN,1,24
+processed_dataset/crops/train/AN/100_jpg.rf.AWja0PQcbqECZF79X4cP.jpg,100_jpg.rf.AWja0PQcbqECZF79X4cP.jpg,train,AN,1,100
+processed_dataset/crops/train/Healthy/416_jpg.rf.CDhgNwdIg5TrQK8gxglf.jpg,416_jpg.rf.CDhgNwdIg5TrQK8gxglf.jpg,train,Healthy,0,416
+processed_dataset/crops/test/AN/244_jpg.rf.GAHKJAm3Mcht9g1WUpZk.jpg,244_jpg.rf.GAHKJAm3Mcht9g1WUpZk.jpg,test,AN,1,244
+processed_dataset/crops/test/AN/download (2)_jpg.rf.FgpNVa6QPAy2PS9bcDz3.jpg,download (2)_jpg.rf.FgpNVa6QPAy2PS9bcDz3.jpg,test,AN,1,download (2)
+processed_dataset/crops/valid/AN/images (96)_jpg.rf.GM1wJ8vcfINAB8fkYNCI.jpg,images (96)_jpg.rf.GM1wJ8vcfINAB8fkYNCI.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/test/AN/138_jpg.rf.GKv7204gqxcC26jwZKYt.jpg,138_jpg.rf.GKv7204gqxcC26jwZKYt.jpg,test,AN,1,138
+processed_dataset/crops/train/Healthy/istockphoto-1152089011-612x612_jpg.rf.DngvKoOEvqZagJXNmoUn.jpg,istockphoto-1152089011-612x612_jpg.rf.DngvKoOEvqZagJXNmoUn.jpg,train,Healthy,0,istockphoto-1152089011-612x612
+processed_dataset/crops/valid/Healthy/445_jpg.rf.FlcnOxanvP0Ms7OaExoX.jpg,445_jpg.rf.FlcnOxanvP0Ms7OaExoX.jpg,valid,Healthy,0,445
+processed_dataset/crops/train/AN/93R_jpg.rf.adxHn0TWGyfzc4kAGNwp.jpg,93R_jpg.rf.adxHn0TWGyfzc4kAGNwp.jpg,train,AN,1,93
+processed_dataset/crops/train/AN/42_jpg.rf.WmPUS6y4zdcVqESoRE6e.jpg,42_jpg.rf.WmPUS6y4zdcVqESoRE6e.jpg,train,AN,1,42
+processed_dataset/crops/train/AN/87_jpg.rf.aiK3AkQgojbIPDYQw901.jpg,87_jpg.rf.aiK3AkQgojbIPDYQw901.jpg,train,AN,1,87
+processed_dataset/crops/train/AN/164_jpg.rf.aOhyuivQabBACZoybxuL.jpg,164_jpg.rf.aOhyuivQabBACZoybxuL.jpg,train,AN,1,164
+processed_dataset/crops/train/AN/images - 2023-05-20T161139-110_jpg.rf.c9U03oRhSN8z316hphRv.jpg,images - 2023-05-20T161139-110_jpg.rf.c9U03oRhSN8z316hphRv.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/images (79)_jpg.rf.c0jWa1BZjB9xYdqm5o9b.jpg,images (79)_jpg.rf.c0jWa1BZjB9xYdqm5o9b.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/66R_jpg.rf.c9yxQDuIePHfUgVNAvch.jpg,66R_jpg.rf.c9yxQDuIePHfUgVNAvch.jpg,train,AN,1,66
+processed_dataset/crops/train/AN/FLIP_RIGHT276_jpg.rf.aeF28BBjtjf5vUFpYpoB.jpg,FLIP_RIGHT276_jpg.rf.aeF28BBjtjf5vUFpYpoB.jpg,train,AN,1,276
+processed_dataset/crops/valid/AN/40_jpg.rf.XfkdWaHs03RfNMTcxW7z.jpg,40_jpg.rf.XfkdWaHs03RfNMTcxW7z.jpg,valid,AN,1,40
+processed_dataset/crops/train/Healthy/0L1-71-_jpg.rf.GvVT1hrRe5cfo5Hm7kEm.jpg,0L1-71-_jpg.rf.GvVT1hrRe5cfo5Hm7kEm.jpg,train,Healthy,0,0L1-71
+processed_dataset/crops/test/AN/126_jpg.rf.ZHBhPYTwEF2Z1hWzLF1L.jpg,126_jpg.rf.ZHBhPYTwEF2Z1hWzLF1L.jpg,test,AN,1,126
+processed_dataset/crops/valid/AN/73_jpg.rf.cCzoExQEklpvOJTYRLoG.jpg,73_jpg.rf.cCzoExQEklpvOJTYRLoG.jpg,valid,AN,1,73
+processed_dataset/crops/train/Healthy/0L1-21-_jpg.rf.bKa8shh7XcihmvmZWexx.jpg,0L1-21-_jpg.rf.bKa8shh7XcihmvmZWexx.jpg,train,Healthy,0,0L1-21
+processed_dataset/crops/valid/AN/images (77)_jpg.rf.blmk45oRpgDrN78bC6x3.jpg,images (77)_jpg.rf.blmk45oRpgDrN78bC6x3.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/22R_jpg.rf.EcC1jUPmcrDVNPcIBbRS.jpg,22R_jpg.rf.EcC1jUPmcrDVNPcIBbRS.jpg,train,AN,1,22
+processed_dataset/crops/train/Healthy/istockphoto-916653724-612x612_jpg.rf.c1CZAkIxq6A5eeCKWSLc.jpg,istockphoto-916653724-612x612_jpg.rf.c1CZAkIxq6A5eeCKWSLc.jpg,train,Healthy,0,istockphoto-916653724-612x612
+processed_dataset/crops/train/AN/89R3_jpg.rf.cF857O0KqnYRLgLCTIF5.jpg,89R3_jpg.rf.cF857O0KqnYRLgLCTIF5.jpg,train,AN,1,89
+processed_dataset/crops/valid/AN/20_jpg.rf.GogisYyfUrupRfRcxgkY.jpg,20_jpg.rf.GogisYyfUrupRfRcxgkY.jpg,valid,AN,1,20
+processed_dataset/crops/train/AN/291_jpg.rf.HHm7C6nJ6JsvZPG1Gkrr.jpg,291_jpg.rf.HHm7C6nJ6JsvZPG1Gkrr.jpg,train,AN,1,291
+processed_dataset/crops/train/AN/download (18)_jpg.rf.cJ8Qz6JEJYiJFFOg636S.jpg,download (18)_jpg.rf.cJ8Qz6JEJYiJFFOg636S.jpg,train,AN,1,download (18)
+processed_dataset/crops/valid/AN/images (52)_jpg.rf.ciedgr7S81zDQVlXn7DY.jpg,images (52)_jpg.rf.ciedgr7S81zDQVlXn7DY.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/15_jpg.rf.EnplQ2i5S6oBmkxFsCGl.jpg,15_jpg.rf.EnplQ2i5S6oBmkxFsCGl.jpg,train,AN,1,15
+processed_dataset/crops/train/AN/110_jpg.rf.HTLel9fc7luIB5E0272s.jpg,110_jpg.rf.HTLel9fc7luIB5E0272s.jpg,train,AN,1,110
+processed_dataset/crops/train/AN/29_jpg.rf.GFpFmrhRHYiptNT4hBib.jpg,29_jpg.rf.GFpFmrhRHYiptNT4hBib.jpg,train,AN,1,29
+processed_dataset/crops/train/Healthy/429_jpg.rf.HR5HMYzRvXqyUQwbVR5b.jpg,429_jpg.rf.HR5HMYzRvXqyUQwbVR5b.jpg,train,Healthy,0,429
+processed_dataset/crops/valid/AN/images (51)_jpg.rf.HfW7jqfO8O9XmIcsIqEL.jpg,images (51)_jpg.rf.HfW7jqfO8O9XmIcsIqEL.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/download (26)_jpg.rf.cLwdAsWv90x1wm5UojKJ.jpg,download (26)_jpg.rf.cLwdAsWv90x1wm5UojKJ.jpg,train,AN,1,download (26)
+processed_dataset/crops/train/Healthy/421_jpg.rf.c9WTwI9SE2ROpLvcYXUI.jpg,421_jpg.rf.c9WTwI9SE2ROpLvcYXUI.jpg,train,Healthy,0,421
+processed_dataset/crops/train/AN/143_jpg.rf.dCOxW6XdcMvOHh1Qz3I7.jpg,143_jpg.rf.dCOxW6XdcMvOHh1Qz3I7.jpg,train,AN,1,143
+processed_dataset/crops/train/AN/13_jpg.rf.GVZ8ZPvjEoIm13Wlnij5.jpg,13_jpg.rf.GVZ8ZPvjEoIm13Wlnij5.jpg,train,AN,1,13
+processed_dataset/crops/train/AN/122_jpg.rf.H3KAaM0DG9QXgeeVj7lO.jpg,122_jpg.rf.H3KAaM0DG9QXgeeVj7lO.jpg,train,AN,1,122
+processed_dataset/crops/test/AN/19_jpg.rf.G2o32ZuXSPhiOjQ53J7N.jpg,19_jpg.rf.G2o32ZuXSPhiOjQ53J7N.jpg,test,AN,1,19
+processed_dataset/crops/train/AN/70_jpg.rf.ZYpPRd1E6WsjwktlwPBK.jpg,70_jpg.rf.ZYpPRd1E6WsjwktlwPBK.jpg,train,AN,1,70
+processed_dataset/crops/train/Healthy/0L1-72-_jpg.rf.HQuaLE5DJBkmnwgSuUu8.jpg,0L1-72-_jpg.rf.HQuaLE5DJBkmnwgSuUu8.jpg,train,Healthy,0,0L1-72
+processed_dataset/crops/valid/AN/v_atopy_0079_jpg.rf.FVsIKSQErS7tmc4KIRpY.jpg,v_atopy_0079_jpg.rf.FVsIKSQErS7tmc4KIRpY.jpg,valid,AN,1,v_atopy_0079
+processed_dataset/crops/train/AN/100_jpg.rf.d4EIYcC14F7YevyaSgzN.jpg,100_jpg.rf.d4EIYcC14F7YevyaSgzN.jpg,train,AN,1,100
+processed_dataset/crops/train/AN/images - 2023-05-20T161205-500_jpg.rf.HsbUui4BW1ILnhr8oPFy.jpg,images - 2023-05-20T161205-500_jpg.rf.HsbUui4BW1ILnhr8oPFy.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/Healthy/440_jpg.rf.Itky5aVBm5HLt1YEdj3s.jpg,440_jpg.rf.Itky5aVBm5HLt1YEdj3s.jpg,train,Healthy,0,440
+processed_dataset/crops/train/AN/145_jpg.rf.Ik3MH64fSV7EKdeX2HBp.jpg,145_jpg.rf.Ik3MH64fSV7EKdeX2HBp.jpg,train,AN,1,145
+processed_dataset/crops/train/AN/29RR4_jpg.rf.cM8fwydfEe8us5k51W26.jpg,29RR4_jpg.rf.cM8fwydfEe8us5k51W26.jpg,train,AN,1,29
+processed_dataset/crops/train/AN/293_jpg.rf.HLpDcnhXw6oI5fiuD3Ys.jpg,293_jpg.rf.HLpDcnhXw6oI5fiuD3Ys.jpg,train,AN,1,293
+processed_dataset/crops/train/Healthy/335_jpg.rf.EZNDSAIj0K9uBvO6cuH0.jpg,335_jpg.rf.EZNDSAIj0K9uBvO6cuH0.jpg,train,Healthy,0,335
+processed_dataset/crops/train/AN/63_jpg.rf.IImFJN68NZb3Qk6dD3O5.jpg,63_jpg.rf.IImFJN68NZb3Qk6dD3O5.jpg,train,AN,1,63
+processed_dataset/crops/train/Healthy/FLIP_RIGHT340_jpg.rf.cWbWst1mg5JPSpkG7DGK.jpg,FLIP_RIGHT340_jpg.rf.cWbWst1mg5JPSpkG7DGK.jpg,train,Healthy,0,340
+processed_dataset/crops/train/AN/62_jpg.rf.HtRK0fzhpxUzoCgeRDg4.jpg,62_jpg.rf.HtRK0fzhpxUzoCgeRDg4.jpg,train,AN,1,62
+processed_dataset/crops/train/Healthy/istockphoto-696814034-612x612_jpg.rf.IDUMQpl5QDr9GWJxL6Go.jpg,istockphoto-696814034-612x612_jpg.rf.IDUMQpl5QDr9GWJxL6Go.jpg,train,Healthy,0,istockphoto-696814034-612x612
+processed_dataset/crops/train/AN/110_jpg.rf.dfWFcSbrKgF8Z2qXaUvn.jpg,110_jpg.rf.dfWFcSbrKgF8Z2qXaUvn.jpg,train,AN,1,110
+processed_dataset/crops/train/AN/249_jpg.rf.e0ptW1D7KL3P6Fy7athC.jpg,249_jpg.rf.e0ptW1D7KL3P6Fy7athC.jpg,train,AN,1,249
+processed_dataset/crops/valid/AN/images (2)_jpg.rf.cw0pN8c4NCMfqPBAs0dZ.jpg,images (2)_jpg.rf.cw0pN8c4NCMfqPBAs0dZ.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/images - 2023-05-20T161046-643_jpg.rf.eIZB4c7gWMyRgJiyhJAW.jpg,images - 2023-05-20T161046-643_jpg.rf.eIZB4c7gWMyRgJiyhJAW.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/14_jpg.rf.dom31hTlGw4Apimv0ljt.jpg,14_jpg.rf.dom31hTlGw4Apimv0ljt.jpg,train,AN,1,14
+processed_dataset/crops/train/AN/121_jpg.rf.etQgFBu61RBEAPQIoEwG.jpg,121_jpg.rf.etQgFBu61RBEAPQIoEwG.jpg,train,AN,1,121
+processed_dataset/crops/valid/AN/images (3)_jpg.rf.Izlo7ppLxoS2MszFuBlI.jpg,images (3)_jpg.rf.Izlo7ppLxoS2MszFuBlI.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/302_jpg.rf.dUDontyXRItpk4L1TAzN.jpg,302_jpg.rf.dUDontyXRItpk4L1TAzN.jpg,train,AN,1,302
+processed_dataset/crops/train/AN/89_jpg.rf.J54eGwCkcFoklcBLwYrS.jpg,89_jpg.rf.J54eGwCkcFoklcBLwYrS.jpg,train,AN,1,89
+processed_dataset/crops/valid/AN/71_jpg.rf.Gwix0Qdc1nCuu70oHAFg.jpg,71_jpg.rf.Gwix0Qdc1nCuu70oHAFg.jpg,valid,AN,1,71
+processed_dataset/crops/train/AN/235_jpg.rf.Jg8n6EzKpFqFu79o9ubY.jpg,235_jpg.rf.Jg8n6EzKpFqFu79o9ubY.jpg,train,AN,1,235
+processed_dataset/crops/train/Healthy/FLIP_RIGHT341_jpg.rf.ei12EziCUOpRzZTQxAQT.jpg,FLIP_RIGHT341_jpg.rf.ei12EziCUOpRzZTQxAQT.jpg,train,Healthy,0,341
+processed_dataset/crops/test/Healthy/430_jpg.rf.JA5slrVXmkSxgYkOEMrg.jpg,430_jpg.rf.JA5slrVXmkSxgYkOEMrg.jpg,test,Healthy,0,430
+processed_dataset/crops/train/AN/27R_jpg.rf.eXStBtpjRvih7Bra71ZS.jpg,27R_jpg.rf.eXStBtpjRvih7Bra71ZS.jpg,train,AN,1,27
+processed_dataset/crops/valid/AN/images (78)_jpg.rf.J70z02b946JZXGLGOQVa.jpg,images (78)_jpg.rf.J70z02b946JZXGLGOQVa.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (31)_jpg.rf.eRusetFsT4OOLScoNjtW.jpg,images (31)_jpg.rf.eRusetFsT4OOLScoNjtW.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/11_jpg.rf.HZ2ALaqFqQPRtidVgAge.jpg,11_jpg.rf.HZ2ALaqFqQPRtidVgAge.jpg,train,AN,1,11
+processed_dataset/crops/test/AN/97_jpg.rf.dlBnl5nbqhTTmTuPrwQq.jpg,97_jpg.rf.dlBnl5nbqhTTmTuPrwQq.jpg,test,AN,1,97
+processed_dataset/crops/train/Healthy/442_jpg.rf.dQE9AwHt7FIL9yHQimcW.jpg,442_jpg.rf.dQE9AwHt7FIL9yHQimcW.jpg,train,Healthy,0,442
+processed_dataset/crops/train/AN/233_jpg.rf.f1pAHfnBhTjgaBHaBA91.jpg,233_jpg.rf.f1pAHfnBhTjgaBHaBA91.jpg,train,AN,1,233
+processed_dataset/crops/train/AN/96L3_jpg.rf.Hf38b4evtatU5luk5At1.jpg,96L3_jpg.rf.Hf38b4evtatU5luk5At1.jpg,train,AN,1,96
+processed_dataset/crops/valid/Healthy/419_jpg.rf.d0XY7CFdkpS6Snka5R9Y.jpg,419_jpg.rf.d0XY7CFdkpS6Snka5R9Y.jpg,valid,Healthy,0,419
+processed_dataset/crops/train/AN/66_jpg.rf.dunP3RibOa04LdFUbpYC.jpg,66_jpg.rf.dunP3RibOa04LdFUbpYC.jpg,train,AN,1,66
+processed_dataset/crops/train/AN/2_jpg.rf.K2Up7GbVuIi0ZRvgMMtz.jpg,2_jpg.rf.K2Up7GbVuIi0ZRvgMMtz.jpg,train,AN,1,2
+processed_dataset/crops/train/Healthy/453_jpg.rf.Hs3T0WgXRwfyBcy6cAz0.jpg,453_jpg.rf.Hs3T0WgXRwfyBcy6cAz0.jpg,train,Healthy,0,453
+processed_dataset/crops/valid/AN/images (37)_jpg.rf.a5V3HMrDlnSWqwfe38RQ.jpg,images (37)_jpg.rf.a5V3HMrDlnSWqwfe38RQ.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/FLIP_RIGHT280_jpg.rf.fU99n4kb4bstdYQpuq76.jpg,FLIP_RIGHT280_jpg.rf.fU99n4kb4bstdYQpuq76.jpg,train,AN,1,280
+processed_dataset/crops/train/AN/280_jpg.rf.ffU8zIvQesm7fyP9tH9t.jpg,280_jpg.rf.ffU8zIvQesm7fyP9tH9t.jpg,train,AN,1,280
+processed_dataset/crops/train/Healthy/409_jpg.rf.frf7eKrp7DOLVDjHTRbK.jpg,409_jpg.rf.frf7eKrp7DOLVDjHTRbK.jpg,train,Healthy,0,409
+processed_dataset/crops/train/Healthy/FLIP_RIGHT208_jpg.rf.fmiO4rea5fbZw63UYYJO.jpg,FLIP_RIGHT208_jpg.rf.fmiO4rea5fbZw63UYYJO.jpg,train,Healthy,0,208
+processed_dataset/crops/test/Healthy/93A58PIC5gV27m99wEHxI_PIC2018_jpg.rf.fuL5LlrbSar0YAZGSK1y.jpg,93A58PIC5gV27m99wEHxI_PIC2018_jpg.rf.fuL5LlrbSar0YAZGSK1y.jpg,test,Healthy,0,93A58PIC5gV27m99wEHxI_PIC2018
+processed_dataset/crops/train/AN/105_jpg.rf.eyA9blRRHgzz3SCdHFy5.jpg,105_jpg.rf.eyA9blRRHgzz3SCdHFy5.jpg,train,AN,1,105
+processed_dataset/crops/train/AN/77R_jpg.rf.fwcR6YnZwTwLSn4y1cm3.jpg,77R_jpg.rf.fwcR6YnZwTwLSn4y1cm3.jpg,train,AN,1,77
+processed_dataset/crops/train/AN/96R3_jpg.rf.g2N5w0RjvxXDO69eQlYY.jpg,96R3_jpg.rf.g2N5w0RjvxXDO69eQlYY.jpg,train,AN,1,96
+processed_dataset/crops/train/Healthy/istockphoto-1149219360-612x612_jpg.rf.fgayv1TvWlVby8fyqusA.jpg,istockphoto-1149219360-612x612_jpg.rf.fgayv1TvWlVby8fyqusA.jpg,train,Healthy,0,istockphoto-1149219360-612x612
+processed_dataset/crops/train/AN/download (9)_jpg.rf.g6TQUI8YdXxrrJl7LyzX.jpg,download (9)_jpg.rf.g6TQUI8YdXxrrJl7LyzX.jpg,train,AN,1,download (9)
+processed_dataset/crops/train/AN/download (4)_jpg.rf.fshAhWVTzk8da4ecBhF4.jpg,download (4)_jpg.rf.fshAhWVTzk8da4ecBhF4.jpg,train,AN,1,download (4)
+processed_dataset/crops/train/AN/53_jpg.rf.gHmRRy7W3TwjFN9TCcra.jpg,53_jpg.rf.gHmRRy7W3TwjFN9TCcra.jpg,train,AN,1,53
+processed_dataset/crops/train/AN/images - 2023-05-20T161103-004_jpg.rf.gJwSIcQYROY9ePAxOyCs.jpg,images - 2023-05-20T161103-004_jpg.rf.gJwSIcQYROY9ePAxOyCs.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/images (89)_jpg.rf.gQHAJIVu0BQeCyhKFpvi.jpg,images (89)_jpg.rf.gQHAJIVu0BQeCyhKFpvi.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/131_jpg.rf.gRdEj19pfrrL8KEPNN2m.jpg,131_jpg.rf.gRdEj19pfrrL8KEPNN2m.jpg,train,AN,1,131
+processed_dataset/crops/train/AN/images - 2023-05-20T161155-355_jpg.rf.fMFOYtHJBhaoUriHFIgy.jpg,images - 2023-05-20T161155-355_jpg.rf.fMFOYtHJBhaoUriHFIgy.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/images (47)_jpg.rf.fpfaMIH4Cv9vlWgmRFeV.jpg,images (47)_jpg.rf.fpfaMIH4Cv9vlWgmRFeV.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/320_jpg.rf.gBSyRr0AF8kzjpTMODjd.jpg,320_jpg.rf.gBSyRr0AF8kzjpTMODjd.jpg,train,AN,1,320
+processed_dataset/crops/train/AN/46_jpg.rf.gwNPePBvQXVBEqGy34PT.jpg,46_jpg.rf.gwNPePBvQXVBEqGy34PT.jpg,train,AN,1,46
+processed_dataset/crops/train/Healthy/307_jpg.rf.dDVy5DBp6G6T9HErLPwj.jpg,307_jpg.rf.dDVy5DBp6G6T9HErLPwj.jpg,train,Healthy,0,307
+processed_dataset/crops/test/AN/download (28)_jpg.rf.hOPyOK8TmIYh6wHEtpWu.jpg,download (28)_jpg.rf.hOPyOK8TmIYh6wHEtpWu.jpg,test,AN,1,download (28)
+processed_dataset/crops/valid/AN/images (38)_jpg.rf.hjIje5cDA3I81XoVWiaF.jpg,images (38)_jpg.rf.hjIje5cDA3I81XoVWiaF.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/images - 2023-05-20T171003-135_jpg.rf.hxh59VBrwXBKWjnWOKcm.jpg,images - 2023-05-20T171003-135_jpg.rf.hxh59VBrwXBKWjnWOKcm.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/v_atopy_0004_jpg.rf.hzRI6ZB5MLluB1OMTkvH.jpg,v_atopy_0004_jpg.rf.hzRI6ZB5MLluB1OMTkvH.jpg,train,AN,1,v_atopy_0004
+processed_dataset/crops/train/AN/146_jpg.rf.ioKhYjvxTP7Txoy5iQMj.jpg,146_jpg.rf.ioKhYjvxTP7Txoy5iQMj.jpg,train,AN,1,146
+processed_dataset/crops/test/AN/97L3_jpg.rf.gz8kTM8xfnEvmsdXqXD9.jpg,97L3_jpg.rf.gz8kTM8xfnEvmsdXqXD9.jpg,test,AN,1,97
+processed_dataset/crops/test/AN/97_jpg.rf.ggUZILOk5tRaPPXElKvz.jpg,97_jpg.rf.ggUZILOk5tRaPPXElKvz.jpg,test,AN,1,97
+processed_dataset/crops/train/AN/28R_jpg.rf.gMKFWfEdVvLZmgnLdOHq.jpg,28R_jpg.rf.gMKFWfEdVvLZmgnLdOHq.jpg,train,AN,1,28
+processed_dataset/crops/train/AN/118_jpg.rf.jKKQD2LKCjGmeIARx4Ey.jpg,118_jpg.rf.jKKQD2LKCjGmeIARx4Ey.jpg,train,AN,1,118
+processed_dataset/crops/train/Healthy/0L1-48-_jpg.rf.i1QwqgPyhetDeooxWKBP.jpg,0L1-48-_jpg.rf.i1QwqgPyhetDeooxWKBP.jpg,train,Healthy,0,0L1-48
+processed_dataset/crops/train/AN/304_jpg.rf.ijWFzE7K9xHYn8sDWeoU.jpg,304_jpg.rf.ijWFzE7K9xHYn8sDWeoU.jpg,train,AN,1,304
+processed_dataset/crops/valid/AN/60_jpg.rf.j4FJMFiCA6vXLMGI0yUx.jpg,60_jpg.rf.j4FJMFiCA6vXLMGI0yUx.jpg,valid,AN,1,60
+processed_dataset/crops/train/AN/222_jpg.rf.jSRQguS1LVR1SCqSButj.jpg,222_jpg.rf.jSRQguS1LVR1SCqSButj.jpg,train,AN,1,222
+processed_dataset/crops/train/AN/download (30)_jpg.rf.jhT2D2EmHCdwq8aPiUlF.jpg,download (30)_jpg.rf.jhT2D2EmHCdwq8aPiUlF.jpg,train,AN,1,download (30)
+processed_dataset/crops/train/Healthy/istockphoto-514779700-612x612_jpg.rf.f7ksOds0al1dP8VYt2j1.jpg,istockphoto-514779700-612x612_jpg.rf.f7ksOds0al1dP8VYt2j1.jpg,train,Healthy,0,istockphoto-514779700-612x612
+processed_dataset/crops/valid/AN/images (8)_jpg.rf.h7wICMhNnFAYpiEDzAZj.jpg,images (8)_jpg.rf.h7wICMhNnFAYpiEDzAZj.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/images - 2023-05-20T161115-832_jpg.rf.kSfEWF1HzMlKgK9PBvLW.jpg,images - 2023-05-20T161115-832_jpg.rf.kSfEWF1HzMlKgK9PBvLW.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/308_jpg.rf.ivEZ207PbePVA9RFO0jB.jpg,308_jpg.rf.ivEZ207PbePVA9RFO0jB.jpg,train,AN,1,308
+processed_dataset/crops/train/AN/304_jpg.rf.jNmqyY8SQd2p60rTlVcH.jpg,304_jpg.rf.jNmqyY8SQd2p60rTlVcH.jpg,train,AN,1,304
+processed_dataset/crops/train/AN/download (32)_jpg.rf.j47EhPcwdM7Tmi6mqAai.jpg,download (32)_jpg.rf.j47EhPcwdM7Tmi6mqAai.jpg,train,AN,1,download (32)
+processed_dataset/crops/train/AN/93_jpg.rf.k6T3ynDq0ta55uJwhjNk.jpg,93_jpg.rf.k6T3ynDq0ta55uJwhjNk.jpg,train,AN,1,93
+processed_dataset/crops/train/AN/images - 2023-05-20T170935-797_jpg.rf.lMeyZd9n62psmuN8gIed.jpg,images - 2023-05-20T170935-797_jpg.rf.lMeyZd9n62psmuN8gIed.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/26_jpg.rf.lRVB6sYcY48QlIV72nmb.jpg,26_jpg.rf.lRVB6sYcY48QlIV72nmb.jpg,train,AN,1,26
+processed_dataset/crops/train/AN/26_jpg.rf.l4ESgoAkjd8Vz6E9ppqS.jpg,26_jpg.rf.l4ESgoAkjd8Vz6E9ppqS.jpg,train,AN,1,26
+processed_dataset/crops/train/Healthy/FLIP_RIGHT312_jpg.rf.lSe1bMS9fFVvOIZS6HkW.jpg,FLIP_RIGHT312_jpg.rf.lSe1bMS9fFVvOIZS6HkW.jpg,train,Healthy,0,312
+processed_dataset/crops/test/Healthy/443_jpg.rf.ifCxAz0cQUExJsy1VvfH.jpg,443_jpg.rf.ifCxAz0cQUExJsy1VvfH.jpg,test,Healthy,0,443
+processed_dataset/crops/train/AN/images - 2023-05-20T170950-057_jpg.rf.lOljvzxwt8iHpTySsq4o.jpg,images - 2023-05-20T170950-057_jpg.rf.lOljvzxwt8iHpTySsq4o.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/Healthy/0L1-115-_jpg.rf.l8og1m2FECsb7B788ngS.jpg,0L1-115-_jpg.rf.l8og1m2FECsb7B788ngS.jpg,train,Healthy,0,0L1-115
+processed_dataset/crops/train/AN/239_jpg.rf.lTt7S6zp3ZsC8RcNmZH0.jpg,239_jpg.rf.lTt7S6zp3ZsC8RcNmZH0.jpg,train,AN,1,239
+processed_dataset/crops/train/AN/84_jpg.rf.l59zl7hYAw09hlQcXvcw.jpg,84_jpg.rf.l59zl7hYAw09hlQcXvcw.jpg,train,AN,1,84
+processed_dataset/crops/train/AN/v_atopy_0002_jpg.rf.lOFK06WdtdPo9XeGYcI1.jpg,v_atopy_0002_jpg.rf.lOFK06WdtdPo9XeGYcI1.jpg,train,AN,1,v_atopy_0002
+processed_dataset/crops/train/Healthy/417_jpg.rf.lTKi7IN7axLjjR79NARf.jpg,417_jpg.rf.lTKi7IN7axLjjR79NARf.jpg,train,Healthy,0,417
+processed_dataset/crops/train/AN/6_jpg.rf.k2iLNLiNH4Isdc56E3ZS.jpg,6_jpg.rf.k2iLNLiNH4Isdc56E3ZS.jpg,train,AN,1,6
+processed_dataset/crops/train/AN/v_atopy_0009_jpg.rf.lkJHSjDSDzjWMkUOWDSt.jpg,v_atopy_0009_jpg.rf.lkJHSjDSDzjWMkUOWDSt.jpg,train,AN,1,v_atopy_0009
+processed_dataset/crops/train/AN/65R_jpg.rf.ik8UXtDLIE99IFCTgNF9.jpg,65R_jpg.rf.ik8UXtDLIE99IFCTgNF9.jpg,train,AN,1,65
+processed_dataset/crops/test/AN/115_jpg.rf.jEtd9lYMldoHbGfDuPku.jpg,115_jpg.rf.jEtd9lYMldoHbGfDuPku.jpg,test,AN,1,115
+processed_dataset/crops/train/AN/18_jpg.rf.jcqCTp5nI1fIKFtOQOKU.jpg,18_jpg.rf.jcqCTp5nI1fIKFtOQOKU.jpg,train,AN,1,18
+processed_dataset/crops/train/AN/134_jpg.rf.jTfCEWgLSSmMMZxmvrv4.jpg,134_jpg.rf.jTfCEWgLSSmMMZxmvrv4.jpg,train,AN,1,134
+processed_dataset/crops/test/AN/99_jpg.rf.UlpNLoaq17H1u6ikw0Xn.jpg,99_jpg.rf.UlpNLoaq17H1u6ikw0Xn.jpg,test,AN,1,99
+processed_dataset/crops/test/AN/24_jpg.rf.hmIZZySTmxnFBZoPd6VE.jpg,24_jpg.rf.hmIZZySTmxnFBZoPd6VE.jpg,test,AN,1,24
+processed_dataset/crops/train/AN/FLIP_RIGHT251_jpg.rf.lpsJ7H7dPhxP3Dj4U192.jpg,FLIP_RIGHT251_jpg.rf.lpsJ7H7dPhxP3Dj4U192.jpg,train,AN,1,251
+processed_dataset/crops/train/AN/323_jpg.rf.c4NIYbtY1BsJOortEr6c.jpg,323_jpg.rf.c4NIYbtY1BsJOortEr6c.jpg,train,AN,1,323
+processed_dataset/crops/train/AN/124_jpg.rf.h7DA6jx3Kjck6APiIqD0.jpg,124_jpg.rf.h7DA6jx3Kjck6APiIqD0.jpg,train,AN,1,124
+processed_dataset/crops/train/AN/32_jpg.rf.oKE97t6itj5BtMjmwPup.jpg,32_jpg.rf.oKE97t6itj5BtMjmwPup.jpg,train,AN,1,32
+processed_dataset/crops/valid/AN/71L3_jpg.rf.hP609lMydFxnf18dlGJF.jpg,71L3_jpg.rf.hP609lMydFxnf18dlGJF.jpg,valid,AN,1,71
+processed_dataset/crops/train/Healthy/404_jpg.rf.oOPmf1Nl8wcgzzP8ySGn.jpg,404_jpg.rf.oOPmf1Nl8wcgzzP8ySGn.jpg,train,Healthy,0,404
+processed_dataset/crops/train/AN/102_jpg.rf.h8HWuLef4xwsBFB7dXN5.jpg,102_jpg.rf.h8HWuLef4xwsBFB7dXN5.jpg,train,AN,1,102
+processed_dataset/crops/train/AN/74_jpg.rf.iv44lTmR8BVDg9C5Zn5n.jpg,74_jpg.rf.iv44lTmR8BVDg9C5Zn5n.jpg,train,AN,1,74
+processed_dataset/crops/train/AN/16_jpg.rf.ozfC0vE8YExfNu8kIy64.jpg,16_jpg.rf.ozfC0vE8YExfNu8kIy64.jpg,train,AN,1,16
+processed_dataset/crops/train/AN/262_jpg.rf.ioeeqtwbPC7mSo7oK4FI.jpg,262_jpg.rf.ioeeqtwbPC7mSo7oK4FI.jpg,train,AN,1,262
+processed_dataset/crops/train/Healthy/25R4_jpg.rf.izgtuqc6IMwUCsDwssbi.jpg,25R4_jpg.rf.izgtuqc6IMwUCsDwssbi.jpg,train,Healthy,0,25R4
+processed_dataset/crops/train/AN/140_jpg.rf.j4YL7fLxfax51eC52ghB.jpg,140_jpg.rf.j4YL7fLxfax51eC52ghB.jpg,train,AN,1,140
+processed_dataset/crops/train/AN/8_jpg.rf.pp2I7AvuHQP1DQ4ztopx.jpg,8_jpg.rf.pp2I7AvuHQP1DQ4ztopx.jpg,train,AN,1,8
+processed_dataset/crops/train/Healthy/istockphoto-157432902-612x612_jpg.rf.pK7xz5WQzsPg34fZ1SWf.jpg,istockphoto-157432902-612x612_jpg.rf.pK7xz5WQzsPg34fZ1SWf.jpg,train,Healthy,0,istockphoto-157432902-612x612
+processed_dataset/crops/train/AN/310_jpg.rf.pAWfcFuMg1kusei0xeZ8.jpg,310_jpg.rf.pAWfcFuMg1kusei0xeZ8.jpg,train,AN,1,310
+processed_dataset/crops/train/Healthy/422_jpg.rf.poUcMqVmlSxGgfrbtKkS.jpg,422_jpg.rf.poUcMqVmlSxGgfrbtKkS.jpg,train,Healthy,0,422
+processed_dataset/crops/train/AN/download (21)_jpg.rf.uPCvJ9RjX5xoIiQFypDf.jpg,download (21)_jpg.rf.uPCvJ9RjX5xoIiQFypDf.jpg,train,AN,1,download (21)
+processed_dataset/crops/train/Healthy/FLIP_RIGHT254_jpg.rf.jI27JkqksDl1IrmuAx84.jpg,FLIP_RIGHT254_jpg.rf.jI27JkqksDl1IrmuAx84.jpg,train,Healthy,0,254
+processed_dataset/crops/train/Healthy/0L1-40-_jpg.rf.s9szswjuAyomdy9vKPcZ.jpg,0L1-40-_jpg.rf.s9szswjuAyomdy9vKPcZ.jpg,train,Healthy,0,0L1-40
+processed_dataset/crops/test/AN/313_jpg.rf.qP0RpTsZdYhPwAZ6c43L.jpg,313_jpg.rf.qP0RpTsZdYhPwAZ6c43L.jpg,test,AN,1,313
+processed_dataset/crops/valid/AN/317_jpg.rf.r1XU2B6azsiq3pQmPm8O.jpg,317_jpg.rf.r1XU2B6azsiq3pQmPm8O.jpg,valid,AN,1,317
+processed_dataset/crops/test/AN/69RR4_jpg.rf.rk5sz5SGSLPSR4Moi8Qs.jpg,69RR4_jpg.rf.rk5sz5SGSLPSR4Moi8Qs.jpg,test,AN,1,69
+processed_dataset/crops/train/Healthy/istockphoto-696814034-612x612_jpg.rf.rWfUX0XNpif8CU1BQaai.jpg,istockphoto-696814034-612x612_jpg.rf.rWfUX0XNpif8CU1BQaai.jpg,train,Healthy,0,istockphoto-696814034-612x612
+processed_dataset/crops/train/AN/98_jpg.rf.jNlwF3aTJPDRjGUS5G2C.jpg,98_jpg.rf.jNlwF3aTJPDRjGUS5G2C.jpg,train,AN,1,98
+processed_dataset/crops/valid/AN/95_jpg.rf.uy6mrlyJBYu3FrMOTpya.jpg,95_jpg.rf.uy6mrlyJBYu3FrMOTpya.jpg,valid,AN,1,95
+processed_dataset/crops/valid/AN/images (45)_jpg.rf.w1zCsyrXQyXNo4zv3UEZ.jpg,images (45)_jpg.rf.w1zCsyrXQyXNo4zv3UEZ.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (40)_jpg.rf.w2qOBp9X9hRt8FXBDbse.jpg,images (40)_jpg.rf.w2qOBp9X9hRt8FXBDbse.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/67RR4_jpg.rf.ubKcB5AIIWwymvUrJl5F.jpg,67RR4_jpg.rf.ubKcB5AIIWwymvUrJl5F.jpg,train,AN,1,67
+processed_dataset/crops/train/AN/download (7)_jpg.rf.yMhkCVKFZ2huveBGhqHe.jpg,download (7)_jpg.rf.yMhkCVKFZ2huveBGhqHe.jpg,train,AN,1,download (7)
+processed_dataset/crops/train/AN/1_jpg.rf.k6mrPYkS2oJVFceq7ag5.jpg,1_jpg.rf.k6mrPYkS2oJVFceq7ag5.jpg,train,AN,1,1
+processed_dataset/crops/test/Healthy/0L1-28-_jpg.rf.wIDg2qYq8qF8STcaS58e.jpg,0L1-28-_jpg.rf.wIDg2qYq8qF8STcaS58e.jpg,test,Healthy,0,0L1-28
+processed_dataset/crops/train/Healthy/FLIP_LEFT358_jpg.rf.xyfnFQTCuHo5xGdWoA3h.jpg,FLIP_LEFT358_jpg.rf.xyfnFQTCuHo5xGdWoA3h.jpg,train,Healthy,0,358
+processed_dataset/crops/valid/AN/images (94)_jpg.rf.ywiXlwe1RULf1jhiio5T.jpg,images (94)_jpg.rf.ywiXlwe1RULf1jhiio5T.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/250_jpg.rf.z9oTurUIoeExfDJNZ8p8.jpg,250_jpg.rf.z9oTurUIoeExfDJNZ8p8.jpg,train,AN,1,250
+processed_dataset/crops/train/AN/319_jpg.rf.zlHRGoVxzkWSQE6NKN0Q.jpg,319_jpg.rf.zlHRGoVxzkWSQE6NKN0Q.jpg,train,AN,1,319
+processed_dataset/crops/train/AN/FLIP_RIGHT164_jpg.rf.xydMMCnkEm3954C7OaCb.jpg,FLIP_RIGHT164_jpg.rf.xydMMCnkEm3954C7OaCb.jpg,train,AN,1,164
+processed_dataset/crops/train/Healthy/istockphoto-1191856616-612x612_jpg.rf.xUGaBTMQppCVrZFts8vG.jpg,istockphoto-1191856616-612x612_jpg.rf.xUGaBTMQppCVrZFts8vG.jpg,train,Healthy,0,istockphoto-1191856616-612x612
+processed_dataset/crops/train/AN/46_jpg.rf.kBEE5x8VpJG7NCtjHudB.jpg,46_jpg.rf.kBEE5x8VpJG7NCtjHudB.jpg,train,AN,1,46
+processed_dataset/crops/train/AN/325_jpg.rf.kdERwBzRUoTeKut8VHap.jpg,325_jpg.rf.kdERwBzRUoTeKut8VHap.jpg,train,AN,1,325
+processed_dataset/crops/train/AN/298_jpg.rf.la36f3NXFEGFbfpZ0aOv.jpg,298_jpg.rf.la36f3NXFEGFbfpZ0aOv.jpg,train,AN,1,298
+processed_dataset/crops/train/Healthy/istockphoto-181065083-612x612_jpg.rf.klK33qwDy5ETtkVf5bmZ.jpg,istockphoto-181065083-612x612_jpg.rf.klK33qwDy5ETtkVf5bmZ.jpg,train,Healthy,0,istockphoto-181065083-612x612
+processed_dataset/crops/train/Healthy/24F58PICZFBuDf4TdVbcr_PIC2018_jpg.rf.hEad1rA3tZEdOaQjjXtT.jpg,24F58PICZFBuDf4TdVbcr_PIC2018_jpg.rf.hEad1rA3tZEdOaQjjXtT.jpg,train,Healthy,0,24F58PICZFBuDf4TdVbcr_PIC2018
+processed_dataset/crops/train/AN/286_jpg.rf.lcBWsaV7UF9viKo3XPAu.jpg,286_jpg.rf.lcBWsaV7UF9viKo3XPAu.jpg,train,AN,1,286
+processed_dataset/crops/train/AN/images - 2023-05-20T170729-932_jpg.rf.m6vOcitUhM5CtSAupkE5.jpg,images - 2023-05-20T170729-932_jpg.rf.m6vOcitUhM5CtSAupkE5.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/67R_jpg.rf.mYCuV2tcaFHLTfcblmqa.jpg,67R_jpg.rf.mYCuV2tcaFHLTfcblmqa.jpg,train,AN,1,67
+processed_dataset/crops/train/Healthy/55_jpg.rf.mTQdJEFe4fLUs7txISEn.jpg,55_jpg.rf.mTQdJEFe4fLUs7txISEn.jpg,train,Healthy,0,55
+processed_dataset/crops/valid/AN/download (10)_jpg.rf.n2KgVwexlwDCgyvdT3Dv.jpg,download (10)_jpg.rf.n2KgVwexlwDCgyvdT3Dv.jpg,valid,AN,1,download (10)
+processed_dataset/crops/train/AN/21RR4_jpg.rf.nGH2AgcHd26rfx5eT5tH.jpg,21RR4_jpg.rf.nGH2AgcHd26rfx5eT5tH.jpg,train,AN,1,21
+processed_dataset/crops/train/AN/39_jpg.rf.ntp1VFhSuk6iifYqLleN.jpg,39_jpg.rf.ntp1VFhSuk6iifYqLleN.jpg,train,AN,1,39
+processed_dataset/crops/train/AN/70_jpg.rf.mvBGORzNcjlizneRowFK.jpg,70_jpg.rf.mvBGORzNcjlizneRowFK.jpg,train,AN,1,70
+processed_dataset/crops/test/AN/69_jpg.rf.oEgoDhRmwLkSGtowet3D.jpg,69_jpg.rf.oEgoDhRmwLkSGtowet3D.jpg,test,AN,1,69
+processed_dataset/crops/valid/AN/images (43)_jpg.rf.3kmo06KBsJxgdzaYz18C.jpg,images (43)_jpg.rf.3kmo06KBsJxgdzaYz18C.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/FLIP_LEFT369_jpg.rf.28zE1Gh07ZW5t9z1wEY1.jpg,FLIP_LEFT369_jpg.rf.28zE1Gh07ZW5t9z1wEY1.jpg,train,Healthy,0,369
+processed_dataset/crops/train/AN/92_jpg.rf.5wcDAJCl90vyZG2iXKH1.jpg,92_jpg.rf.5wcDAJCl90vyZG2iXKH1.jpg,train,AN,1,92
+processed_dataset/crops/train/Healthy/446_jpg.rf.0R2KSMBAUfkiBklcU8EG.jpg,446_jpg.rf.0R2KSMBAUfkiBklcU8EG.jpg,train,Healthy,0,446
+processed_dataset/crops/train/AN/127_jpg.rf.5VHplX5unEnkkkxnUXzQ.jpg,127_jpg.rf.5VHplX5unEnkkkxnUXzQ.jpg,train,AN,1,127
+processed_dataset/crops/train/Healthy/istockphoto-1203157873-612x612_jpg.rf.65YEU8uAtcttj7EaqZC0.jpg,istockphoto-1203157873-612x612_jpg.rf.65YEU8uAtcttj7EaqZC0.jpg,train,Healthy,0,istockphoto-1203157873-612x612
+processed_dataset/crops/test/AN/35_jpg.rf.2qQL0zdNat5CSk5VRJBP.jpg,35_jpg.rf.2qQL0zdNat5CSk5VRJBP.jpg,test,AN,1,35
+processed_dataset/crops/train/AN/v_atopy_0001_jpg.rf.8u7Z83vZjpamMQOzDFjd.jpg,v_atopy_0001_jpg.rf.8u7Z83vZjpamMQOzDFjd.jpg,train,AN,1,v_atopy_0001
+processed_dataset/crops/train/AN/264_jpg.rf.77ZfLCtc0LzF1dzbB9yw.jpg,264_jpg.rf.77ZfLCtc0LzF1dzbB9yw.jpg,train,AN,1,264
+processed_dataset/crops/train/AN/58_jpg.rf.7j3rdn3jUbHhB9XcTlnG.jpg,58_jpg.rf.7j3rdn3jUbHhB9XcTlnG.jpg,train,AN,1,58
+processed_dataset/crops/valid/AN/images (95)_jpg.rf.7F2i8oRuU68HpR3LkBvZ.jpg,images (95)_jpg.rf.7F2i8oRuU68HpR3LkBvZ.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/78_jpg.rf.2JVIxSnL3cr0RYfjVtFT.jpg,78_jpg.rf.2JVIxSnL3cr0RYfjVtFT.jpg,train,AN,1,78
+processed_dataset/crops/train/AN/44_jpg.rf.8nRc8RdZKbNVLmw0FYRK.jpg,44_jpg.rf.8nRc8RdZKbNVLmw0FYRK.jpg,train,AN,1,44
+processed_dataset/crops/train/AN/114_jpg.rf.8wfgKLAACwEgzzk6tJ7u.jpg,114_jpg.rf.8wfgKLAACwEgzzk6tJ7u.jpg,train,AN,1,114
+processed_dataset/crops/train/AN/download (1)_jpg.rf.5GzplWeiSLH3FzeKJfHB.jpg,download (1)_jpg.rf.5GzplWeiSLH3FzeKJfHB.jpg,train,AN,1,download (1)
+processed_dataset/crops/train/Healthy/istockphoto-1200158434-612x612_jpg.rf.9mc2eXes8umi6uQVugCE.jpg,istockphoto-1200158434-612x612_jpg.rf.9mc2eXes8umi6uQVugCE.jpg,train,Healthy,0,istockphoto-1200158434-612x612
+processed_dataset/crops/train/AN/v_atopy_0233_jpg.rf.9DYd3o0N2Y6OBdnmp3fG.jpg,v_atopy_0233_jpg.rf.9DYd3o0N2Y6OBdnmp3fG.jpg,train,AN,1,v_atopy_0233
+processed_dataset/crops/test/AN/97R3_jpg.rf.2qPyfreTXc00WrzsM9Ap.jpg,97R3_jpg.rf.2qPyfreTXc00WrzsM9Ap.jpg,test,AN,1,97
+processed_dataset/crops/train/AN/43_jpg.rf.73GxsZ6cPNKqFAKWNiEk.jpg,43_jpg.rf.73GxsZ6cPNKqFAKWNiEk.jpg,train,AN,1,43
+processed_dataset/crops/train/AN/299_jpg.rf.7lSFz1XF5fu0CD5BJyvv.jpg,299_jpg.rf.7lSFz1XF5fu0CD5BJyvv.jpg,train,AN,1,299
+processed_dataset/crops/train/AN/FLIP_RIGHT250_jpg.rf.9MtCqBSsJSCtvefSolVG.jpg,FLIP_RIGHT250_jpg.rf.9MtCqBSsJSCtvefSolVG.jpg,train,AN,1,250
+processed_dataset/crops/test/Healthy/93A58PIC5gV27m99wEHxI_PIC2018_jpg.rf.9ApcgAFFVDV90N8XvXIL.jpg,93A58PIC5gV27m99wEHxI_PIC2018_jpg.rf.9ApcgAFFVDV90N8XvXIL.jpg,test,Healthy,0,93A58PIC5gV27m99wEHxI_PIC2018
+processed_dataset/crops/train/AN/download (34)_jpg.rf.BboNAzsY2cgsosagAGYk.jpg,download (34)_jpg.rf.BboNAzsY2cgsosagAGYk.jpg,train,AN,1,download (34)
+processed_dataset/crops/train/AN/321_jpg.rf.6DODIlboXCLDoiioEwnp.jpg,321_jpg.rf.6DODIlboXCLDoiioEwnp.jpg,train,AN,1,321
+processed_dataset/crops/train/AN/181_jpg.rf.Ag2SmqdU6J3XI7KbDNQN.jpg,181_jpg.rf.Ag2SmqdU6J3XI7KbDNQN.jpg,train,AN,1,181
+processed_dataset/crops/test/Healthy/istockphoto-1203589432-612x612_jpg.rf.DZ904oYvd39VxTRIKFxT.jpg,istockphoto-1203589432-612x612_jpg.rf.DZ904oYvd39VxTRIKFxT.jpg,test,Healthy,0,istockphoto-1203589432-612x612
+processed_dataset/crops/valid/AN/images (28)_jpg.rf.AxukKifI2BwY7ifAHdKJ.jpg,images (28)_jpg.rf.AxukKifI2BwY7ifAHdKJ.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/44_jpg.rf.4CHnQGEZMRT8phI9h0v7.jpg,44_jpg.rf.4CHnQGEZMRT8phI9h0v7.jpg,train,AN,1,44
+processed_dataset/crops/train/AN/45_jpg.rf.CGa6fGUPMLsxss4B2ShV.jpg,45_jpg.rf.CGa6fGUPMLsxss4B2ShV.jpg,train,AN,1,45
+processed_dataset/crops/test/AN/34_jpg.rf.9EvkFkH0pjJsxjJBkALI.jpg,34_jpg.rf.9EvkFkH0pjJsxjJBkALI.jpg,test,AN,1,34
+processed_dataset/crops/test/AN/25R_jpg.rf.FG8OcgDL9rOLoLF4P7QB.jpg,25R_jpg.rf.FG8OcgDL9rOLoLF4P7QB.jpg,test,AN,1,25
+processed_dataset/crops/train/AN/images - 2023-05-20T170837-593_jpg.rf.BWPg03GND2ALK0uqwllc.jpg,images - 2023-05-20T170837-593_jpg.rf.BWPg03GND2ALK0uqwllc.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/test/Healthy/433_jpg.rf.GMvudFX7Uqap4FbUduBD.jpg,433_jpg.rf.GMvudFX7Uqap4FbUduBD.jpg,test,Healthy,0,433
+processed_dataset/crops/train/Healthy/FLIP_RIGHT248_jpg.rf.FMZlA0H3Ij8kDfucVTig.jpg,FLIP_RIGHT248_jpg.rf.FMZlA0H3Ij8kDfucVTig.jpg,train,Healthy,0,248
+processed_dataset/crops/train/AN/download (13)_jpg.rf.HO3hIFEczj3n5Tt3nLiS.jpg,download (13)_jpg.rf.HO3hIFEczj3n5Tt3nLiS.jpg,train,AN,1,download (13)
+processed_dataset/crops/train/Healthy/339_jpg.rf.DWohHoNPma8PIBGbr7kq.jpg,339_jpg.rf.DWohHoNPma8PIBGbr7kq.jpg,train,Healthy,0,339
+processed_dataset/crops/test/AN/281_jpg.rf.KgAKssaHdjdCiVSo0rbO.jpg,281_jpg.rf.KgAKssaHdjdCiVSo0rbO.jpg,test,AN,1,281
+processed_dataset/crops/train/AN/14_jpg.rf.H7fEVmYHwULs8hAjOVBS.jpg,14_jpg.rf.H7fEVmYHwULs8hAjOVBS.jpg,train,AN,1,14
+processed_dataset/crops/valid/AN/images (30)_jpg.rf.FOkEmrF3Odobwpp3koTj.jpg,images (30)_jpg.rf.FOkEmrF3Odobwpp3koTj.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/download (3)_jpg.rf.Dh9WK4ayVMTfXh2siJOw.jpg,download (3)_jpg.rf.Dh9WK4ayVMTfXh2siJOw.jpg,train,AN,1,download (3)
+processed_dataset/crops/train/AN/v_atopy_0231_jpg.rf.F0DzJLKM77HpDnoJ4MWc.jpg,v_atopy_0231_jpg.rf.F0DzJLKM77HpDnoJ4MWc.jpg,train,AN,1,v_atopy_0231
+processed_dataset/crops/train/AN/297_jpg.rf.BWwO6ASaOLWWuSCAkeVK.jpg,297_jpg.rf.BWwO6ASaOLWWuSCAkeVK.jpg,train,AN,1,297
+processed_dataset/crops/train/AN/65_jpg.rf.DS9mXHy5MWVHArmwkOWe.jpg,65_jpg.rf.DS9mXHy5MWVHArmwkOWe.jpg,train,AN,1,65
+processed_dataset/crops/valid/AN/20_jpg.rf.KJBRuyFPkm3F499WOeuv.jpg,20_jpg.rf.KJBRuyFPkm3F499WOeuv.jpg,valid,AN,1,20
+processed_dataset/crops/train/AN/300_jpg.rf.I4e18hrzyR6cRjcVzPWK.jpg,300_jpg.rf.I4e18hrzyR6cRjcVzPWK.jpg,train,AN,1,300
+processed_dataset/crops/valid/AN/images (35)_jpg.rf.GAVBiQV48sYCd5FAU152.jpg,images (35)_jpg.rf.GAVBiQV48sYCd5FAU152.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/images - 2023-05-20T170832-194_jpg.rf.MJWkhghjcRR7kkWTULL5.jpg,images - 2023-05-20T170832-194_jpg.rf.MJWkhghjcRR7kkWTULL5.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/28_jpg.rf.LL46bQgRCbHthnZkTSX4.jpg,28_jpg.rf.LL46bQgRCbHthnZkTSX4.jpg,train,AN,1,28
+processed_dataset/crops/train/Healthy/0L1-37-_jpg.rf.Kn6q4wygBfJ62DfSahzK.jpg,0L1-37-_jpg.rf.Kn6q4wygBfJ62DfSahzK.jpg,train,Healthy,0,0L1-37
+processed_dataset/crops/train/AN/63_jpg.rf.HZytklzP0sCZp6GbcmOS.jpg,63_jpg.rf.HZytklzP0sCZp6GbcmOS.jpg,train,AN,1,63
+processed_dataset/crops/valid/AN/images (7)_jpg.rf.Mescy8y8S4JlEY8yosuY.jpg,images (7)_jpg.rf.Mescy8y8S4JlEY8yosuY.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/12_jpg.rf.O1YyUyy0KyUCNQln18Vq.jpg,12_jpg.rf.O1YyUyy0KyUCNQln18Vq.jpg,valid,AN,1,12
+processed_dataset/crops/train/AN/50_jpg.rf.NMemeuCcnZaorvYaHcmc.jpg,50_jpg.rf.NMemeuCcnZaorvYaHcmc.jpg,train,AN,1,50
+processed_dataset/crops/train/AN/322_jpg.rf.P0rxsFItMByT6mQhI3yK.jpg,322_jpg.rf.P0rxsFItMByT6mQhI3yK.jpg,train,AN,1,322
+processed_dataset/crops/train/AN/FLIP_RIGHT222_jpg.rf.MOlfNkp1vxPJzdg5ApMl.jpg,FLIP_RIGHT222_jpg.rf.MOlfNkp1vxPJzdg5ApMl.jpg,train,AN,1,222
+processed_dataset/crops/train/Healthy/459_jpg.rf.6sv1B3aHnuIdZsubXBto.jpg,459_jpg.rf.6sv1B3aHnuIdZsubXBto.jpg,train,Healthy,0,459
+processed_dataset/crops/valid/AN/images (50)_jpg.rf.P1wEcQi21bNbeRf6EfYe.jpg,images (50)_jpg.rf.P1wEcQi21bNbeRf6EfYe.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/121_jpg.rf.IR8RqT7QK7s0gNZl1f4Z.jpg,121_jpg.rf.IR8RqT7QK7s0gNZl1f4Z.jpg,train,AN,1,121
+processed_dataset/crops/valid/Healthy/403_jpg.rf.RH604slIVKZCZhfbaUxs.jpg,403_jpg.rf.RH604slIVKZCZhfbaUxs.jpg,valid,Healthy,0,403
+processed_dataset/crops/train/AN/263_jpg.rf.RQn6Q3HfH05JFDE0o99F.jpg,263_jpg.rf.RQn6Q3HfH05JFDE0o99F.jpg,train,AN,1,263
+processed_dataset/crops/train/Healthy/88L3_jpg.rf.oFiYYUss4sWr91InLzIt.jpg,88L3_jpg.rf.oFiYYUss4sWr91InLzIt.jpg,train,Healthy,0,88
+processed_dataset/crops/train/AN/images - 2023-05-20T161108-306_jpg.rf.JYRK4IrLoYclrvI87qLN.jpg,images - 2023-05-20T161108-306_jpg.rf.JYRK4IrLoYclrvI87qLN.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/valid/AN/317_jpg.rf.PVTeVIr9t2D53zvLhK07.jpg,317_jpg.rf.PVTeVIr9t2D53zvLhK07.jpg,valid,AN,1,317
+processed_dataset/crops/train/AN/316_jpg.rf.Pml3EhRFqCkJb2JIJA8h.jpg,316_jpg.rf.Pml3EhRFqCkJb2JIJA8h.jpg,train,AN,1,316
+processed_dataset/crops/test/AN/313_jpg.rf.KMTgQXYXJAcUUnSL8nuc.jpg,313_jpg.rf.KMTgQXYXJAcUUnSL8nuc.jpg,test,AN,1,313
+processed_dataset/crops/train/Healthy/75R3_jpg.rf.UXyC7KOoLPBYDTOC8UYK.jpg,75R3_jpg.rf.UXyC7KOoLPBYDTOC8UYK.jpg,train,Healthy,0,75
+processed_dataset/crops/train/AN/80_jpg.rf.Sqz460Rcj8VN2E2EgAy4.jpg,80_jpg.rf.Sqz460Rcj8VN2E2EgAy4.jpg,train,AN,1,80
+processed_dataset/crops/valid/AN/309_jpg.rf.UOCTg1EiAbX2nKhJnLvM.jpg,309_jpg.rf.UOCTg1EiAbX2nKhJnLvM.jpg,valid,AN,1,309
+processed_dataset/crops/train/AN/37_jpg.rf.VoQmQTewPxAGsKjKNKcN.jpg,37_jpg.rf.VoQmQTewPxAGsKjKNKcN.jpg,train,AN,1,37
+processed_dataset/crops/test/Healthy/FLIP_RIGHT211_jpg.rf.Spg3URYRR0YBARNYBekG.jpg,FLIP_RIGHT211_jpg.rf.Spg3URYRR0YBARNYBekG.jpg,test,Healthy,0,211
+processed_dataset/crops/test/AN/49_jpg.rf.Ta8xIE0Pe7eeZV5kqtDp.jpg,49_jpg.rf.Ta8xIE0Pe7eeZV5kqtDp.jpg,test,AN,1,49
+processed_dataset/crops/train/Healthy/0L1-34-_jpg.rf.UpNj9AtZkpjFfRRk66rt.jpg,0L1-34-_jpg.rf.UpNj9AtZkpjFfRRk66rt.jpg,train,Healthy,0,0L1-34
+processed_dataset/crops/valid/AN/images (34)_jpg.rf.WL6nWtILxnz41eOC0iQ5.jpg,images (34)_jpg.rf.WL6nWtILxnz41eOC0iQ5.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/57_jpg.rf.QEO226D1ninVEUpOZ2DP.jpg,57_jpg.rf.QEO226D1ninVEUpOZ2DP.jpg,train,AN,1,57
+processed_dataset/crops/train/AN/65_jpg.rf.Q8T9GRxwi7r93JBDKz3q.jpg,65_jpg.rf.Q8T9GRxwi7r93JBDKz3q.jpg,train,AN,1,65
+processed_dataset/crops/train/AN/91R_jpg.rf.SPKIbdmGVyXvBt84CCHd.jpg,91R_jpg.rf.SPKIbdmGVyXvBt84CCHd.jpg,train,AN,1,91
+processed_dataset/crops/test/Healthy/istockphoto-1183831120-612x612_jpg.rf.XIimVnt3A88Lg3NhUBda.jpg,istockphoto-1183831120-612x612_jpg.rf.XIimVnt3A88Lg3NhUBda.jpg,test,Healthy,0,istockphoto-1183831120-612x612
+processed_dataset/crops/train/Healthy/istockphoto-667341282-612x612_jpg.rf.Wl9SNSB5Sao5tUponJl9.jpg,istockphoto-667341282-612x612_jpg.rf.Wl9SNSB5Sao5tUponJl9.jpg,train,Healthy,0,istockphoto-667341282-612x612
+processed_dataset/crops/train/AN/98R_jpg.rf.S3qR9tPQre9DUfstqN8a.jpg,98R_jpg.rf.S3qR9tPQre9DUfstqN8a.jpg,train,AN,1,98
+processed_dataset/crops/train/AN/download (8)_jpg.rf.WLjfHZgQtlnky2N0nBEW.jpg,download (8)_jpg.rf.WLjfHZgQtlnky2N0nBEW.jpg,train,AN,1,download (8)
+processed_dataset/crops/train/Healthy/istockphoto-157432902-612x612_jpg.rf.RDhP6goo8WRQ9yAsOkpb.jpg,istockphoto-157432902-612x612_jpg.rf.RDhP6goo8WRQ9yAsOkpb.jpg,train,Healthy,0,istockphoto-157432902-612x612
+processed_dataset/crops/train/AN/274_jpg.rf.YuvJmZKnKokNWuySO7EP.jpg,274_jpg.rf.YuvJmZKnKokNWuySO7EP.jpg,train,AN,1,274
+processed_dataset/crops/train/AN/67_jpg.rf.Ybf6uEHlFeEWriwBjnhW.jpg,67_jpg.rf.Ybf6uEHlFeEWriwBjnhW.jpg,train,AN,1,67
+processed_dataset/crops/train/AN/download (24)_jpg.rf.WaUSAbDzLhR2zVMcxJKz.jpg,download (24)_jpg.rf.WaUSAbDzLhR2zVMcxJKz.jpg,train,AN,1,download (24)
+processed_dataset/crops/valid/AN/v_atopy_0235_jpg.rf.YURqnQvSHmEIBiExkWFp.jpg,v_atopy_0235_jpg.rf.YURqnQvSHmEIBiExkWFp.jpg,valid,AN,1,v_atopy_0235
+processed_dataset/crops/train/AN/5_jpg.rf.aUtep6mN6IHeEEO63JiF.jpg,5_jpg.rf.aUtep6mN6IHeEEO63JiF.jpg,train,AN,1,5
+processed_dataset/crops/train/AN/298_jpg.rf.UAr4eDMQuIU2UqRFqcns.jpg,298_jpg.rf.UAr4eDMQuIU2UqRFqcns.jpg,train,AN,1,298
+processed_dataset/crops/valid/AN/83_jpg.rf.aLUYmuWJV30rIFrrGi5T.jpg,83_jpg.rf.aLUYmuWJV30rIFrrGi5T.jpg,valid,AN,1,83
+processed_dataset/crops/train/AN/98R3_jpg.rf.Y6nRIoS5OlId0sbzHW4j.jpg,98R3_jpg.rf.Y6nRIoS5OlId0sbzHW4j.jpg,train,AN,1,98
+processed_dataset/crops/valid/AN/images (67)_jpg.rf.cg4SWabSgecaMUuxAXpr.jpg,images (67)_jpg.rf.cg4SWabSgecaMUuxAXpr.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/test/Healthy/338_jpg.rf.cv0bu4l8PUbdfDQEeRJD.jpg,338_jpg.rf.cv0bu4l8PUbdfDQEeRJD.jpg,test,Healthy,0,338
+processed_dataset/crops/train/AN/v_atopy_0234_jpg.rf.cMflxm5n1JODlG88FsPz.jpg,v_atopy_0234_jpg.rf.cMflxm5n1JODlG88FsPz.jpg,train,AN,1,v_atopy_0234
+processed_dataset/crops/train/Healthy/istockphoto-1147152478-612x612_jpg.rf.cGuYPNVB6RkL0QoCwTDU.jpg,istockphoto-1147152478-612x612_jpg.rf.cGuYPNVB6RkL0QoCwTDU.jpg,train,Healthy,0,istockphoto-1147152478-612x612
+processed_dataset/crops/test/AN/FLIP_RIGHT244_jpg.rf.V2bijjWb5PnX1eQoGJdR.jpg,FLIP_RIGHT244_jpg.rf.V2bijjWb5PnX1eQoGJdR.jpg,test,AN,1,244
+processed_dataset/crops/valid/AN/73L3_jpg.rf.cir4nn6ndavGdwEe9Zm4.jpg,73L3_jpg.rf.cir4nn6ndavGdwEe9Zm4.jpg,valid,AN,1,73
+processed_dataset/crops/train/AN/images - 2023-05-20T161133-632_jpg.rf.Yi5hc6tbPNcvlFfmS2ac.jpg,images - 2023-05-20T161133-632_jpg.rf.Yi5hc6tbPNcvlFfmS2ac.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/2_jpg.rf.dEnwXWOSOlyCgFPt44cg.jpg,2_jpg.rf.dEnwXWOSOlyCgFPt44cg.jpg,train,AN,1,2
+processed_dataset/crops/test/AN/99R_jpg.rf.eCV3BCAKGzpJZa8zwVWM.jpg,99R_jpg.rf.eCV3BCAKGzpJZa8zwVWM.jpg,test,AN,1,99
+processed_dataset/crops/valid/AN/images (23)_jpg.rf.cf5z7S7BU30TYGqDQtTI.jpg,images (23)_jpg.rf.cf5z7S7BU30TYGqDQtTI.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (41)_jpg.rf.cfyQTGiJyvUtfb4vH11t.jpg,images (41)_jpg.rf.cfyQTGiJyvUtfb4vH11t.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/261_jpg.rf.gv7dRxJ3AvEjcuc7EoTb.jpg,261_jpg.rf.gv7dRxJ3AvEjcuc7EoTb.jpg,train,AN,1,261
+processed_dataset/crops/test/AN/25_jpg.rf.gHv2G8quMTmppMSUWrf2.jpg,25_jpg.rf.gHv2G8quMTmppMSUWrf2.jpg,test,AN,1,25
+processed_dataset/crops/valid/AN/images (62)_jpg.rf.h6un7drgikJtiwrr1HpB.jpg,images (62)_jpg.rf.h6un7drgikJtiwrr1HpB.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/FLIP_RIGHT336_jpg.rf.YKFX4RBiHUXYCwMxOAPw.jpg,FLIP_RIGHT336_jpg.rf.YKFX4RBiHUXYCwMxOAPw.jpg,train,Healthy,0,336
+processed_dataset/crops/test/AN/19R3_jpg.rf.ff0LNAIDj3d6CqnRvz29.jpg,19R3_jpg.rf.ff0LNAIDj3d6CqnRvz29.jpg,test,AN,1,19
+processed_dataset/crops/test/AN/49_jpg.rf.d0Wfrx2y57REZf7xMmcc.jpg,49_jpg.rf.d0Wfrx2y57REZf7xMmcc.jpg,test,AN,1,49
+processed_dataset/crops/train/AN/283_jpg.rf.f4AHBfkrcuynqKnjleCs.jpg,283_jpg.rf.f4AHBfkrcuynqKnjleCs.jpg,train,AN,1,283
+processed_dataset/crops/valid/AN/images (12)_jpg.rf.YeQSn7IhyjAsfrbG3M4u.jpg,images (12)_jpg.rf.YeQSn7IhyjAsfrbG3M4u.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/FLIP_RIGHT292_jpg.rf.YSncYIhxiWPBmRIzVGky.jpg,FLIP_RIGHT292_jpg.rf.YSncYIhxiWPBmRIzVGky.jpg,train,AN,1,292
+processed_dataset/crops/train/Healthy/449_jpg.rf.ZnypCdPMT00CT1WYBhSa.jpg,449_jpg.rf.ZnypCdPMT00CT1WYBhSa.jpg,train,Healthy,0,449
+processed_dataset/crops/train/AN/301_jpg.rf.00b2c3f2Wszh6GIrhElL.jpg,301_jpg.rf.00b2c3f2Wszh6GIrhElL.jpg,train,AN,1,301
+processed_dataset/crops/train/AN/66RR4_jpg.rf.2aJYkjDSNZOEl5qjyQCr.jpg,66RR4_jpg.rf.2aJYkjDSNZOEl5qjyQCr.jpg,train,AN,1,66
+processed_dataset/crops/train/AN/images - 2023-05-20T161147-357_jpg.rf.MWspjCms54x89WXo1MmT.jpg,images - 2023-05-20T161147-357_jpg.rf.MWspjCms54x89WXo1MmT.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/21R_jpg.rf.4W3lzB6b9PXeSge3oK9b.jpg,21R_jpg.rf.4W3lzB6b9PXeSge3oK9b.jpg,train,AN,1,21
+processed_dataset/crops/train/Healthy/410_jpg.rf.NBiTWTc9Eyl2fNOLbBg6.jpg,410_jpg.rf.NBiTWTc9Eyl2fNOLbBg6.jpg,train,Healthy,0,410
+processed_dataset/crops/valid/AN/images (46)_jpg.rf.0WjrxVmBN8jB71l75c9Y.jpg,images (46)_jpg.rf.0WjrxVmBN8jB71l75c9Y.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/images - 2023-05-19T192515-243_jpg.rf.OBPKlE8TnBulqrKFZUe3.jpg,images - 2023-05-19T192515-243_jpg.rf.OBPKlE8TnBulqrKFZUe3.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/test/AN/download (11)_jpg.rf.PKm2IgipGLzQ12qnqylv.jpg,download (11)_jpg.rf.PKm2IgipGLzQ12qnqylv.jpg,test,AN,1,download (11)
+processed_dataset/crops/train/AN/v_atopy_0224_jpg.rf.NFRpIBwrQZ5P7yeOnrih.jpg,v_atopy_0224_jpg.rf.NFRpIBwrQZ5P7yeOnrih.jpg,train,AN,1,v_atopy_0224
+processed_dataset/crops/train/AN/download (37)_jpg.rf.69nzGaZUjUAIH1lGD27P.jpg,download (37)_jpg.rf.69nzGaZUjUAIH1lGD27P.jpg,train,AN,1,download (37)
+processed_dataset/crops/train/Healthy/istockphoto-1135533684-612x612-1_jpg.rf.NobjPBpTJg2DG0CrZPBd.jpg,istockphoto-1135533684-612x612-1_jpg.rf.NobjPBpTJg2DG0CrZPBd.jpg,train,Healthy,0,istockphoto-1135533684-612x612-1
+processed_dataset/crops/valid/AN/images (60)_jpg.rf.6KHfFsyGbUIwhH78PMGV.jpg,images (60)_jpg.rf.6KHfFsyGbUIwhH78PMGV.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/64_jpg.rf.PaK5Ht2NvBg2EmkU7Mdx.jpg,64_jpg.rf.PaK5Ht2NvBg2EmkU7Mdx.jpg,train,AN,1,64
+processed_dataset/crops/train/Healthy/75L3_jpg.rf.VZ2UYyexFlyrpZxpeHA1.jpg,75L3_jpg.rf.VZ2UYyexFlyrpZxpeHA1.jpg,train,Healthy,0,75
+processed_dataset/crops/train/AN/149_jpg.rf.Qbgh3sR55BVW13ZuxNDs.jpg,149_jpg.rf.Qbgh3sR55BVW13ZuxNDs.jpg,train,AN,1,149
+processed_dataset/crops/train/AN/277_jpg.rf.QZwQcaYFdx1Io4RCqqvs.jpg,277_jpg.rf.QZwQcaYFdx1Io4RCqqvs.jpg,train,AN,1,277
+processed_dataset/crops/train/AN/32_jpg.rf.6YPn713KTHyrucyA8Pko.jpg,32_jpg.rf.6YPn713KTHyrucyA8Pko.jpg,train,AN,1,32
+processed_dataset/crops/test/Healthy/FLIP_RIGHT195_jpg.rf.6I2wB1sdPtauMrSarFAc.jpg,FLIP_RIGHT195_jpg.rf.6I2wB1sdPtauMrSarFAc.jpg,test,Healthy,0,195
+processed_dataset/crops/valid/AN/83_jpg.rf.X1GMYE6zzJsfltZOdFhh.jpg,83_jpg.rf.X1GMYE6zzJsfltZOdFhh.jpg,valid,AN,1,83
+processed_dataset/crops/valid/AN/images (55)_jpg.rf.XGmKGK8WU1IA0Mz0N3IR.jpg,images (55)_jpg.rf.XGmKGK8WU1IA0Mz0N3IR.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (21)_jpg.rf.9Jz7OOYnGAbzavIPwtDL.jpg,images (21)_jpg.rf.9Jz7OOYnGAbzavIPwtDL.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (25)_jpg.rf.9CehuK8cdqgEFZTNzPXh.jpg,images (25)_jpg.rf.9CehuK8cdqgEFZTNzPXh.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/Healthy/0L1-56-_jpg.rf.XD2lZMUyc6xyuJfiP2wr.jpg,0L1-56-_jpg.rf.XD2lZMUyc6xyuJfiP2wr.jpg,valid,Healthy,0,0L1-56
+processed_dataset/crops/train/Healthy/FLIP_LEFT360_jpg.rf.QlVYaqimZJQUfQLWlt95.jpg,FLIP_LEFT360_jpg.rf.QlVYaqimZJQUfQLWlt95.jpg,train,Healthy,0,360
+processed_dataset/crops/test/Healthy/FLIP_RIGHT338_jpg.rf.QppAexnRa3e1zgQA6Ai2.jpg,FLIP_RIGHT338_jpg.rf.QppAexnRa3e1zgQA6Ai2.jpg,test,Healthy,0,338
+processed_dataset/crops/train/AN/download (15)_jpg.rf.ZKPYP5tnWamUwvkcZvJU.jpg,download (15)_jpg.rf.ZKPYP5tnWamUwvkcZvJU.jpg,train,AN,1,download (15)
+processed_dataset/crops/train/AN/106_jpg.rf.YSaV6xZgvNnFG3rtYsap.jpg,106_jpg.rf.YSaV6xZgvNnFG3rtYsap.jpg,train,AN,1,106
+processed_dataset/crops/train/Healthy/istockphoto-509390625-612x612_jpg.rf.ZpOZxUZ2YFexWWBK874X.jpg,istockphoto-509390625-612x612_jpg.rf.ZpOZxUZ2YFexWWBK874X.jpg,train,Healthy,0,istockphoto-509390625-612x612
+processed_dataset/crops/valid/AN/FLIP_RIGHT309_jpg.rf.Vd9BKaP8DYbymvYPlR0X.jpg,FLIP_RIGHT309_jpg.rf.Vd9BKaP8DYbymvYPlR0X.jpg,valid,AN,1,309
+processed_dataset/crops/train/AN/29R_jpg.rf.aRYKtFokQoIUpKOrUnZk.jpg,29R_jpg.rf.aRYKtFokQoIUpKOrUnZk.jpg,train,AN,1,29
+processed_dataset/crops/train/Healthy/36R4_jpg.rf.bYBYQ7dMMyMMUgPm1oLn.jpg,36R4_jpg.rf.bYBYQ7dMMyMMUgPm1oLn.jpg,train,Healthy,0,36R4
+processed_dataset/crops/train/AN/246_jpg.rf.9pmjUSUBJJDgtOwttqJZ.jpg,246_jpg.rf.9pmjUSUBJJDgtOwttqJZ.jpg,train,AN,1,246
+processed_dataset/crops/valid/AN/images (56)_jpg.rf.eH616Obv5FCPBsrR83Dg.jpg,images (56)_jpg.rf.eH616Obv5FCPBsrR83Dg.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/AN/292_jpg.rf.aoIjK19P9jxEvLxGJJ1W.jpg,292_jpg.rf.aoIjK19P9jxEvLxGJJ1W.jpg,train,AN,1,292
+processed_dataset/crops/test/AN/35_jpg.rf.cuRI1ErXt0G2GjjTkdT9.jpg,35_jpg.rf.cuRI1ErXt0G2GjjTkdT9.jpg,test,AN,1,35
+processed_dataset/crops/train/AN/23_jpg.rf.avLZbMAvjwnfGOodXOCL.jpg,23_jpg.rf.avLZbMAvjwnfGOodXOCL.jpg,train,AN,1,23
+processed_dataset/crops/test/AN/56_jpg.rf.E7JEXhQtCGuCS1yqCL0M.jpg,56_jpg.rf.E7JEXhQtCGuCS1yqCL0M.jpg,test,AN,1,56
+processed_dataset/crops/test/AN/v_atopy_0006_jpg.rf.fouPx8EvOQkdhbFLDN4A.jpg,v_atopy_0006_jpg.rf.fouPx8EvOQkdhbFLDN4A.jpg,test,AN,1,v_atopy_0006
+processed_dataset/crops/train/AN/22L3_jpg.rf.eKsDk3GEySJ8cQWKgxpV.jpg,22L3_jpg.rf.eKsDk3GEySJ8cQWKgxpV.jpg,train,AN,1,22
+processed_dataset/crops/train/AN/226_jpg.rf.imnH9C7Xn7uauRnpv7Nw.jpg,226_jpg.rf.imnH9C7Xn7uauRnpv7Nw.jpg,train,AN,1,226
+processed_dataset/crops/train/AN/v_atopy_0010_jpg.rf.fy2EkEOHlQFpJggux0vT.jpg,v_atopy_0010_jpg.rf.fy2EkEOHlQFpJggux0vT.jpg,train,AN,1,v_atopy_0010
+processed_dataset/crops/train/Healthy/448_jpg.rf.EOmXEInJzHWlJycFh5G6.jpg,448_jpg.rf.EOmXEInJzHWlJycFh5G6.jpg,train,Healthy,0,448
+processed_dataset/crops/test/Healthy/FLIP_LEFT361_jpg.rf.DtOCaiUa5AfPif6awVDY.jpg,FLIP_LEFT361_jpg.rf.DtOCaiUa5AfPif6awVDY.jpg,test,Healthy,0,361
+processed_dataset/crops/train/AN/images - 2023-05-20T171453-544_jpg.rf.dHQ4r8F1EsOUhktAk0w5.jpg,images - 2023-05-20T171453-544_jpg.rf.dHQ4r8F1EsOUhktAk0w5.jpg,train,AN,1,burst_series_2
+processed_dataset/crops/train/AN/242_jpg.rf.fH5tPLuwimpwOJpFX4BC.jpg,242_jpg.rf.fH5tPLuwimpwOJpFX4BC.jpg,train,AN,1,242
+processed_dataset/crops/train/AN/314_jpg.rf.kSrUYsdZv7kHukartVSA.jpg,314_jpg.rf.kSrUYsdZv7kHukartVSA.jpg,train,AN,1,314
+processed_dataset/crops/test/AN/99R3_jpg.rf.raJdFmB4fjaCsefNBGnW.jpg,99R3_jpg.rf.raJdFmB4fjaCsefNBGnW.jpg,test,AN,1,99
+processed_dataset/crops/valid/AN/71_jpg.rf.mlzgRJOcpXxFxGG6PrGf.jpg,71_jpg.rf.mlzgRJOcpXxFxGG6PrGf.jpg,valid,AN,1,71
+processed_dataset/crops/train/Healthy/438_jpg.rf.andCdddKbt3LzPilzytX.jpg,438_jpg.rf.andCdddKbt3LzPilzytX.jpg,train,Healthy,0,438
+processed_dataset/crops/train/Healthy/istockphoto-517414560-612x612_jpg.rf.ZyqIquALa10rMxZ0TGkY.jpg,istockphoto-517414560-612x612_jpg.rf.ZyqIquALa10rMxZ0TGkY.jpg,train,Healthy,0,istockphoto-517414560-612x612
+processed_dataset/crops/train/AN/download (29)_jpg.rf.rO4iGsVFSc9V0htVCeyr.jpg,download (29)_jpg.rf.rO4iGsVFSc9V0htVCeyr.jpg,train,AN,1,download (29)
+processed_dataset/crops/train/AN/17_jpg.rf.opeOfXDKJRfoKVwXWRIW.jpg,17_jpg.rf.opeOfXDKJRfoKVwXWRIW.jpg,train,AN,1,17
+processed_dataset/crops/train/Healthy/istockphoto-1051999014-612x612_jpg.rf.ueeRaxGdG179iGMeflwf.jpg,istockphoto-1051999014-612x612_jpg.rf.ueeRaxGdG179iGMeflwf.jpg,train,Healthy,0,istockphoto-1051999014-612x612
+processed_dataset/crops/train/AN/48_jpg.rf.oSueQ66iWopm8njETJR0.jpg,48_jpg.rf.oSueQ66iWopm8njETJR0.jpg,train,AN,1,48
+processed_dataset/crops/valid/Healthy/0L1-25-_jpg.rf.or8UyVOj3Z0JRqIV4lbm.jpg,0L1-25-_jpg.rf.or8UyVOj3Z0JRqIV4lbm.jpg,valid,Healthy,0,0L1-25
+processed_dataset/crops/train/AN/107_jpg.rf.s3brKpNEWcxhqrqo816Z.jpg,107_jpg.rf.s3brKpNEWcxhqrqo816Z.jpg,train,AN,1,107
+processed_dataset/crops/train/AN/234_jpg.rf.veM6NE0a7ouh8MQryiPC.jpg,234_jpg.rf.veM6NE0a7ouh8MQryiPC.jpg,train,AN,1,234
+processed_dataset/crops/valid/Healthy/FLIP_RIGHT191_jpg.rf.Exg16NIwoJ963PO8DhoA.jpg,FLIP_RIGHT191_jpg.rf.Exg16NIwoJ963PO8DhoA.jpg,valid,Healthy,0,191
+processed_dataset/crops/train/AN/9_jpg.rf.rmX98GOmoDLeiOI5Q7yv.jpg,9_jpg.rf.rmX98GOmoDLeiOI5Q7yv.jpg,train,AN,1,9
+processed_dataset/crops/valid/AN/182_jpg.rf.FPGKeedv19KNE2Xa3vZN.jpg,182_jpg.rf.FPGKeedv19KNE2Xa3vZN.jpg,valid,AN,1,182
+processed_dataset/crops/train/Healthy/452_jpg.rf.rb5bSr7hBULXqZhZkdIw.jpg,452_jpg.rf.rb5bSr7hBULXqZhZkdIw.jpg,train,Healthy,0,452
+processed_dataset/crops/test/Healthy/FLIP_LEFT354_jpg.rf.v6J77ldRth22xMlZGJkn.jpg,FLIP_LEFT354_jpg.rf.v6J77ldRth22xMlZGJkn.jpg,test,Healthy,0,354
+processed_dataset/crops/train/AN/245_jpg.rf.yBq7vMh1h6ZrT4hnQcf4.jpg,245_jpg.rf.yBq7vMh1h6ZrT4hnQcf4.jpg,train,AN,1,245
+processed_dataset/crops/train/AN/142_jpg.rf.yCX9QdZKs0tBzIX3sNws.jpg,142_jpg.rf.yCX9QdZKs0tBzIX3sNws.jpg,train,AN,1,142
+processed_dataset/crops/train/AN/66R3_jpg.rf.uhrD6CUnYqRs4Hxl1rSN.jpg,66R3_jpg.rf.uhrD6CUnYqRs4Hxl1rSN.jpg,train,AN,1,66
+processed_dataset/crops/train/AN/download (33)_jpg.rf.xT4hI4Ef7EZv2a88ozNB.jpg,download (33)_jpg.rf.xT4hI4Ef7EZv2a88ozNB.jpg,train,AN,1,download (33)
+processed_dataset/crops/train/AN/271_jpg.rf.G2VKFm8mmxyRDLrNXdy8.jpg,271_jpg.rf.G2VKFm8mmxyRDLrNXdy8.jpg,train,AN,1,271
+processed_dataset/crops/train/AN/28_jpg.rf.sq6xzoPegtwat3BbaWhb.jpg,28_jpg.rf.sq6xzoPegtwat3BbaWhb.jpg,train,AN,1,28
+processed_dataset/crops/train/AN/52_jpg.rf.zvdlphha0XRNErFeIOJX.jpg,52_jpg.rf.zvdlphha0XRNErFeIOJX.jpg,train,AN,1,52
+processed_dataset/crops/test/AN/101_jpg.rf.GMyTqVYQTqscbyWDMHGN.jpg,101_jpg.rf.GMyTqVYQTqscbyWDMHGN.jpg,test,AN,1,101
+processed_dataset/crops/train/AN/125_jpg.rf.ysPHzFLiZTn5h9EivCC0.jpg,125_jpg.rf.ysPHzFLiZTn5h9EivCC0.jpg,train,AN,1,125
+processed_dataset/crops/valid/AN/images (64)_jpg.rf.tNV9uRTRciugNHv7k1PT.jpg,images (64)_jpg.rf.tNV9uRTRciugNHv7k1PT.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/valid/AN/images (73)_jpg.rf.ws2NU7dA84igPsKSe2dx.jpg,images (73)_jpg.rf.ws2NU7dA84igPsKSe2dx.jpg,valid,AN,1,burst_series_1
+processed_dataset/crops/train/Healthy/istockphoto-667341282-612x612_jpg.rf.FT9439MKXJn97JAEzxPP.jpg,istockphoto-667341282-612x612_jpg.rf.FT9439MKXJn97JAEzxPP.jpg,train,Healthy,0,istockphoto-667341282-612x612
+processed_dataset/crops/train/AN/53_jpg.rf.ICNGBPvZo4Fyp9vwua0v.jpg,53_jpg.rf.ICNGBPvZo4Fyp9vwua0v.jpg,train,AN,1,53
+processed_dataset/crops/train/Healthy/istockphoto-628791310-612x612_jpg.rf.ILQpzcLatJhEmGCvCXGn.jpg,istockphoto-628791310-612x612_jpg.rf.ILQpzcLatJhEmGCvCXGn.jpg,train,Healthy,0,istockphoto-628791310-612x612
+processed_dataset/crops/train/AN/FLIP_RIGHT131_jpg.rf.Ia0OWlnneKLQvKwUDEHk.jpg,FLIP_RIGHT131_jpg.rf.Ia0OWlnneKLQvKwUDEHk.jpg,train,AN,1,131
+processed_dataset/crops/test/AN/137_jpg.rf.JmkVrM6DPmVFhMQq7nFV.jpg,137_jpg.rf.JmkVrM6DPmVFhMQq7nFV.jpg,test,AN,1,137
+processed_dataset/crops/train/Healthy/istockphoto-916653724-612x612_jpg.rf.JT7XECn6oCjWeZ3owf4s.jpg,istockphoto-916653724-612x612_jpg.rf.JT7XECn6oCjWeZ3owf4s.jpg,train,Healthy,0,istockphoto-916653724-612x612

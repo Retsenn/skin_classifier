@@ -1,0 +1,11 @@
+=== EfficientNet-B0 Acanthosis Nigricans Test Evaluation ===
+Accuracy    : 76.62%
+Sensitivity : 75.00%
+Specificity : 80.95%
+Precision   : 91.30%
+F1-Score    : 0.8235
+ROC-AUC     : 0.8639
+
+Confusion Matrix [TN, FP / FN, TP]:
+[[17  4]
+ [14 42]]

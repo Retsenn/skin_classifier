@@ -1,0 +1,698 @@
+Total leaked subjects: 89
+  train/valid only : 53
+  train/test only  : 23
+  valid/test only  : 7
+  all three        : 6
+
+=== subject: 1 ===
+  [train] 1 image(s):
+    1_jpg.rf.SAwecifmdynONEcSjnB8.jpg  label=AN
+  [valid] 1 image(s):
+    1_jpg.rf.k6mrPYkS2oJVFceq7ag5.jpg  label=Healthy
+
+=== subject: 101 ===
+  [train] 1 image(s):
+    101_jpg.rf.2Lyk5kvnuGxnN8v21kbj.jpg  label=AN
+  [test] 1 image(s):
+    101_jpg.rf.GMyTqVYQTqscbyWDMHGN.jpg  label=Healthy
+
+=== subject: 102 ===
+  [train] 2 image(s):
+    FLIP_RIGHT102_jpg.rf.VFyL1ZizAmsiHV6l3o1P.jpg  label=Healthy
+    102_jpg.rf.8kYklSuJ9j8hN1vJZfNF.jpg  label=AN
+  [valid] 1 image(s):
+    102_jpg.rf.h8HWuLef4xwsBFB7dXN5.jpg  label=Healthy
+
+=== subject: 106 ===
+  [train] 1 image(s):
+    106_jpg.rf.qJKn1XcDolHE7S6WZTSQ.jpg  label=Healthy
+  [test] 1 image(s):
+    106_jpg.rf.YSaV6xZgvNnFG3rtYsap.jpg  label=AN
+
+=== subject: 107 ===
+  [train] 1 image(s):
+    107_jpg.rf.MtFPcH9NFymnxEvH3Nic.jpg  label=Healthy
+  [test] 1 image(s):
+    107_jpg.rf.s3brKpNEWcxhqrqo816Z.jpg  label=AN
+
+=== subject: 114 ===
+  [train] 1 image(s):
+    114_jpeg.rf.Vso87EFvmQ5KvNIWz6tG.jpeg  label=AN
+  [valid] 1 image(s):
+    114_jpg.rf.8wfgKLAACwEgzzk6tJ7u.jpg  label=Healthy
+
+=== subject: 12 ===
+  [train] 1 image(s):
+    12_jpg.rf.Rx3iQc5pk2KhtOMBjKaL.jpg  label=Healthy
+  [valid] 1 image(s):
+    12_jpg.rf.O1YyUyy0KyUCNQln18Vq.jpg  label=AN
+
+=== subject: 121 ===
+  [train] 1 image(s):
+    121_jpg.rf.etQgFBu61RBEAPQIoEwG.jpg  label=AN
+  [valid] 1 image(s):
+    121_jpg.rf.IR8RqT7QK7s0gNZl1f4Z.jpg  label=Healthy
+
+=== subject: 125 ===
+  [train] 1 image(s):
+    FLIP_RIGHT125_jpg.rf.8U9TBFiKjjRaEjjx7Ggl.jpg  label=Healthy
+  [test] 1 image(s):
+    125_jpg.rf.ysPHzFLiZTn5h9EivCC0.jpg  label=AN
+
+=== subject: 131 ===
+  [train] 1 image(s):
+    131_jpg.rf.gRdEj19pfrrL8KEPNN2m.jpg  label=AN
+  [test] 1 image(s):
+    FLIP_RIGHT131_jpg.rf.Ia0OWlnneKLQvKwUDEHk.jpg  label=Healthy
+
+=== subject: 14 ===
+  [train] 1 image(s):
+    14_jpg.rf.dom31hTlGw4Apimv0ljt.jpg  label=AN
+  [valid] 1 image(s):
+    14_jpg.rf.H7fEVmYHwULs8hAjOVBS.jpg  label=Healthy
+
+=== subject: 164 ===
+  [train] 1 image(s):
+    164_jpg.rf.aOhyuivQabBACZoybxuL.jpg  label=AN
+  [valid] 1 image(s):
+    FLIP_RIGHT164_jpg.rf.xydMMCnkEm3954C7OaCb.jpg  label=Healthy
+
+=== subject: 17 ===
+  [train] 1 image(s):
+    17_jpg.rf.30r8w6AYI5ZQhU2LR2PM.jpg  label=AN
+  [test] 1 image(s):
+    17_jpg.rf.opeOfXDKJRfoKVwXWRIW.jpg  label=Healthy
+
+=== subject: 19 ===
+  [train] 2 image(s):
+    19_jpg.rf.EYVnxVvPqGUftL3Zs1ed.jpg  label=Healthy
+    19_jpg.rf.G2o32ZuXSPhiOjQ53J7N.jpg  label=AN
+  [valid] 1 image(s):
+    19R3_jpg.rf.ff0LNAIDj3d6CqnRvz29.jpg  label=Healthy
+
+=== subject: 2 ===
+  [train] 1 image(s):
+    2_jpg.rf.K2Up7GbVuIi0ZRvgMMtz.jpg  label=AN
+  [valid] 1 image(s):
+    2_jpg.rf.dEnwXWOSOlyCgFPt44cg.jpg  label=Healthy
+
+=== subject: 20 ===
+  [train] 2 image(s):
+    20R_jpg.rf.vZkGNNE212yms3Fr1XVa.jpg  label=Healthy
+    20_jpg.rf.GogisYyfUrupRfRcxgkY.jpg  label=Healthy
+  [valid] 1 image(s):
+    20_jpg.rf.KJBRuyFPkm3F499WOeuv.jpg  label=AN
+
+=== subject: 21 ===
+  [train] 2 image(s):
+    21_jpg.rf.vhGSbzEQ32J6qCpSy4xE.jpg  label=Healthy
+    21_jpg.rf.zTbvvf5Jei1RYW3lpxun.jpg  label=AN
+  [valid] 1 image(s):
+    21RR4_jpg.rf.nGH2AgcHd26rfx5eT5tH.jpg  label=Healthy
+  [test] 1 image(s):
+    21R_jpg.rf.4W3lzB6b9PXeSge3oK9b.jpg  label=Healthy
+
+=== subject: 22 ===
+  [train] 3 image(s):
+    22_jpg.rf.O098UmoeA2IihDAoxpJD.jpg  label=Healthy
+    22_jpg.rf.E0KGRGQSRpevAKCA3BSr.jpg  label=AN
+    22R_jpg.rf.EcC1jUPmcrDVNPcIBbRS.jpg  label=Healthy
+  [test] 1 image(s):
+    22L3_jpg.rf.eKsDk3GEySJ8cQWKgxpV.jpg  label=Healthy
+
+=== subject: 222 ===
+  [train] 1 image(s):
+    222_jpg.rf.jSRQguS1LVR1SCqSButj.jpg  label=AN
+  [valid] 1 image(s):
+    FLIP_RIGHT222_jpg.rf.MOlfNkp1vxPJzdg5ApMl.jpg  label=Healthy
+
+=== subject: 23 ===
+  [train] 2 image(s):
+    23_jpg.rf.Lutn4mjeuliQdalANeDD.jpg  label=AN
+    23R_jpg.rf.73Neaj0vqGinBNdkDSds.jpg  label=Healthy
+  [test] 1 image(s):
+    23_jpg.rf.avLZbMAvjwnfGOodXOCL.jpg  label=Healthy
+
+=== subject: 244 ===
+  [train] 1 image(s):
+    244_jpg.rf.GAHKJAm3Mcht9g1WUpZk.jpg  label=AN
+  [valid] 1 image(s):
+    FLIP_RIGHT244_jpg.rf.V2bijjWb5PnX1eQoGJdR.jpg  label=Healthy
+
+=== subject: 246 ===
+  [train] 1 image(s):
+    FLIP_RIGHT246_jpg.rf.8Ju9rLr6QIpOZYApAnx7.jpg  label=Healthy
+  [test] 1 image(s):
+    246_jpg.rf.9pmjUSUBJJDgtOwttqJZ.jpg  label=AN
+
+=== subject: 24F58PICZFBuDf4TdVbcr_PIC2018 ===
+  [train] 1 image(s):
+    24F58PICZFBuDf4TdVbcr_PIC2018_jpg.rf.MQLj6cF52G7ldlrFr9tl.jpg  label=Healthy
+  [valid] 1 image(s):
+    24F58PICZFBuDf4TdVbcr_PIC2018_jpg.rf.hEad1rA3tZEdOaQjjXtT.jpg  label=Healthy
+
+=== subject: 25 ===
+  [train] 1 image(s):
+    25_jpg.rf.QcY3P6VahRlVrPToSx8n.jpg  label=Healthy
+  [valid] 2 image(s):
+    25R_jpg.rf.FG8OcgDL9rOLoLF4P7QB.jpg  label=Healthy
+    25_jpg.rf.gHv2G8quMTmppMSUWrf2.jpg  label=AN
+
+=== subject: 277 ===
+  [train] 1 image(s):
+    FLIP_RIGHT277_jpg.rf.5UGY2sOX5leI2kdIb8ku.jpg  label=Healthy
+  [test] 1 image(s):
+    277_jpg.rf.QZwQcaYFdx1Io4RCqqvs.jpg  label=AN
+
+=== subject: 28 ===
+  [train] 2 image(s):
+    28RR4_jpg.rf.tjqNyOm8xstqPeorSJd0.jpg  label=Healthy
+    28R_jpg.rf.gMKFWfEdVvLZmgnLdOHq.jpg  label=Healthy
+  [valid] 1 image(s):
+    28_jpg.rf.LL46bQgRCbHthnZkTSX4.jpg  label=AN
+  [test] 1 image(s):
+    28_jpg.rf.sq6xzoPegtwat3BbaWhb.jpg  label=Healthy
+
+=== subject: 286 ===
+  [train] 1 image(s):
+    FLIP_RIGHT286_jpg.rf.ncHntPrnYhhtNAE6b71z.jpg  label=Healthy
+  [valid] 1 image(s):
+    286_jpg.rf.lcBWsaV7UF9viKo3XPAu.jpg  label=AN
+
+=== subject: 29 ===
+  [train] 4 image(s):
+    29L3_jpg.rf.tfBCRYGV4kB2kIERq7Cl.jpg  label=Healthy
+    29_jpg.rf.4jrOt6KPUI1BX7515RRC.jpg  label=AN
+    29_jpg.rf.GFpFmrhRHYiptNT4hBib.jpg  label=Healthy
+    29RR4_jpg.rf.cM8fwydfEe8us5k51W26.jpg  label=Healthy
+  [test] 1 image(s):
+    29R_jpg.rf.aRYKtFokQoIUpKOrUnZk.jpg  label=Healthy
+
+=== subject: 292 ===
+  [valid] 1 image(s):
+    FLIP_RIGHT292_jpg.rf.YSncYIhxiWPBmRIzVGky.jpg  label=Healthy
+  [test] 1 image(s):
+    292_jpg.rf.aoIjK19P9jxEvLxGJJ1W.jpg  label=AN
+
+=== subject: 299 ===
+  [train] 1 image(s):
+    299_jpg.rf.1zomO1lxbfaH2t3ZrWjn.jpg  label=AN
+  [valid] 1 image(s):
+    299_jpg.rf.7lSFz1XF5fu0CD5BJyvv.jpg  label=Healthy
+
+=== subject: 300 ===
+  [train] 1 image(s):
+    300_jpg.rf.YRzXNjolnMUwHCZAkas4.jpg  label=AN
+  [valid] 1 image(s):
+    300_jpg.rf.I4e18hrzyR6cRjcVzPWK.jpg  label=Healthy
+
+=== subject: 309 ===
+  [train] 1 image(s):
+    309_jpg.rf.NEAP1nmapVYSSfPGHbOy.jpg  label=Healthy
+  [valid] 1 image(s):
+    309_jpg.rf.UOCTg1EiAbX2nKhJnLvM.jpg  label=AN
+  [test] 1 image(s):
+    FLIP_RIGHT309_jpg.rf.Vd9BKaP8DYbymvYPlR0X.jpg  label=Healthy
+
+=== subject: 310 ===
+  [train] 1 image(s):
+    310_jpg.rf.m7lWlWSL5qTJKKCTK6CJ.jpg  label=Healthy
+  [valid] 1 image(s):
+    310_jpg.rf.pAWfcFuMg1kusei0xeZ8.jpg  label=AN
+
+=== subject: 314 ===
+  [train] 2 image(s):
+    314_jpg.rf.zD6Ybg0vcDodJspPgsK1.jpg  label=AN
+    FLIP_RIGHT314_jpg.rf.BKz0t463zVev6a2Qz9DB.jpg  label=Healthy
+  [test] 1 image(s):
+    314_jpg.rf.kSrUYsdZv7kHukartVSA.jpg  label=Healthy
+
+=== subject: 316 ===
+  [train] 1 image(s):
+    316_jpg.rf.rYZm29myj9CXHMvRTdG8.jpg  label=AN
+  [valid] 1 image(s):
+    316_jpg.rf.Pml3EhRFqCkJb2JIJA8h.jpg  label=Healthy
+
+=== subject: 317 ===
+  [train] 1 image(s):
+    FLIP_RIGHT317_jpg.rf.1h4FUPtq9lReKySFuEg3.jpg  label=Healthy
+  [valid] 2 image(s):
+    317_jpg.rf.r1XU2B6azsiq3pQmPm8O.jpg  label=Healthy
+    317_jpg.rf.PVTeVIr9t2D53zvLhK07.jpg  label=AN
+
+=== subject: 319 ===
+  [train] 1 image(s):
+    319_jpg.rf.o3CbSx4Jd9iOj4oQmsqB.jpg  label=AN
+  [valid] 1 image(s):
+    319_jpg.rf.zlHRGoVxzkWSQE6NKN0Q.jpg  label=Healthy
+
+=== subject: 32 ===
+  [valid] 1 image(s):
+    32_jpg.rf.oKE97t6itj5BtMjmwPup.jpg  label=AN
+  [test] 1 image(s):
+    32_jpg.rf.6YPn713KTHyrucyA8Pko.jpg  label=Healthy
+
+=== subject: 321 ===
+  [train] 1 image(s):
+    321_jpg.rf.0g6P0YDbQ5tRO4mHjgfb.jpg  label=Healthy
+  [valid] 1 image(s):
+    321_jpg.rf.6DODIlboXCLDoiioEwnp.jpg  label=AN
+
+=== subject: 322 ===
+  [train] 1 image(s):
+    322_jpg.rf.v6NsEWNSBGCVIwphnGEw.jpg  label=AN
+  [valid] 1 image(s):
+    322_jpg.rf.P0rxsFItMByT6mQhI3yK.jpg  label=Healthy
+
+=== subject: 336 ===
+  [train] 1 image(s):
+    336_jpg.rf.P825ywCNbBprXNSI0lKi.jpg  label=Healthy
+  [valid] 1 image(s):
+    FLIP_RIGHT336_jpg.rf.YKFX4RBiHUXYCwMxOAPw.jpg  label=Healthy
+
+=== subject: 338 ===
+  [valid] 1 image(s):
+    338_jpg.rf.cv0bu4l8PUbdfDQEeRJD.jpg  label=Healthy
+  [test] 1 image(s):
+    FLIP_RIGHT338_jpg.rf.QppAexnRa3e1zgQA6Ai2.jpg  label=Healthy
+
+=== subject: 339 ===
+  [train] 1 image(s):
+    FLIP_RIGHT339_jpg.rf.aKA8054UYiTh33rddPqX.jpg  label=Healthy
+  [valid] 1 image(s):
+    339_jpg.rf.DWohHoNPma8PIBGbr7kq.jpg  label=Healthy
+
+=== subject: 34 ===
+  [train] 2 image(s):
+    34_jpg.rf.0dXwoqWbuLqv4EAfZKyy.jpg  label=AN
+    34R_jpg.rf.APUIFo2Z3pzYfZFGzPZd.jpg  label=Healthy
+  [valid] 1 image(s):
+    34_jpg.rf.9EvkFkH0pjJsxjJBkALI.jpg  label=Healthy
+
+=== subject: 35 ===
+  [valid] 1 image(s):
+    35_jpg.rf.2qQL0zdNat5CSk5VRJBP.jpg  label=Healthy
+  [test] 1 image(s):
+    35_jpg.rf.cuRI1ErXt0G2GjjTkdT9.jpg  label=AN
+
+=== subject: 37 ===
+  [train] 1 image(s):
+    37_jpg.rf.7QILJjPwltXUsdYiFA2l.jpg  label=Healthy
+  [valid] 1 image(s):
+    37_jpg.rf.VoQmQTewPxAGsKjKNKcN.jpg  label=AN
+
+=== subject: 39 ===
+  [train] 1 image(s):
+    39_jpg.rf.MLohHWc2ARYe8Ugu2wOp.jpg  label=Healthy
+  [valid] 1 image(s):
+    39_jpg.rf.ntp1VFhSuk6iifYqLleN.jpg  label=AN
+
+=== subject: 43 ===
+  [train] 1 image(s):
+    43_jpg.rf.xwoCfEpgSISTPQkB8sgk.jpg  label=AN
+  [valid] 1 image(s):
+    43_jpg.rf.73GxsZ6cPNKqFAKWNiEk.jpg  label=Healthy
+
+=== subject: 45 ===
+  [train] 1 image(s):
+    45_jpg.rf.Pu4LQGRlmOiCxlU56aHo.jpg  label=AN
+  [valid] 1 image(s):
+    45_jpg.rf.CGa6fGUPMLsxss4B2ShV.jpg  label=Healthy
+
+=== subject: 46 ===
+  [train] 1 image(s):
+    46_jpg.rf.gwNPePBvQXVBEqGy34PT.jpg  label=AN
+  [valid] 1 image(s):
+    46_jpg.rf.kBEE5x8VpJG7NCtjHudB.jpg  label=Healthy
+
+=== subject: 48 ===
+  [train] 1 image(s):
+    48_jpg.rf.PEc4yXvVNCAceCCBBh2x.jpg  label=AN
+  [test] 1 image(s):
+    48_jpg.rf.oSueQ66iWopm8njETJR0.jpg  label=Healthy
+
+=== subject: 50 ===
+  [train] 1 image(s):
+    50_jpg.rf.njxKJvgyi8Eqijzb1EMX.jpg  label=Healthy
+  [valid] 1 image(s):
+    50_jpg.rf.NMemeuCcnZaorvYaHcmc.jpg  label=AN
+
+=== subject: 52 ===
+  [train] 1 image(s):
+    52_jpg.rf.OusSIhttb1rj13dJglSi.jpg  label=Healthy
+  [test] 1 image(s):
+    52_jpg.rf.zvdlphha0XRNErFeIOJX.jpg  label=AN
+
+=== subject: 53 ===
+  [train] 1 image(s):
+    53_jpg.rf.gHmRRy7W3TwjFN9TCcra.jpg  label=AN
+  [test] 1 image(s):
+    53_jpg.rf.ICNGBPvZo4Fyp9vwua0v.jpg  label=Healthy
+
+=== subject: 56 ===
+  [train] 1 image(s):
+    56_jpg.rf.5CgZAKifP3axNLrsHS4G.jpg  label=AN
+  [test] 1 image(s):
+    56_jpg.rf.E7JEXhQtCGuCS1yqCL0M.jpg  label=Healthy
+
+=== subject: 58 ===
+  [train] 1 image(s):
+    58_jpg.rf.u5e9YxYYpsaKIgzTKfkw.jpg  label=Healthy
+  [valid] 1 image(s):
+    58_jpg.rf.7j3rdn3jUbHhB9XcTlnG.jpg  label=AN
+
+=== subject: 63 ===
+  [train] 1 image(s):
+    63_jpg.rf.IImFJN68NZb3Qk6dD3O5.jpg  label=Healthy
+  [valid] 1 image(s):
+    63_jpg.rf.HZytklzP0sCZp6GbcmOS.jpg  label=AN
+
+=== subject: 64 ===
+  [train] 2 image(s):
+    64RR4_jpg.rf.mEMsSt8OEv0QlTShYYCL.jpg  label=Healthy
+    64_jpg.rf.xrIdwCKfYYHZxZsvueEV.jpg  label=Healthy
+  [test] 1 image(s):
+    64_jpg.rf.PaK5Ht2NvBg2EmkU7Mdx.jpg  label=AN
+
+=== subject: 65 ===
+  [train] 1 image(s):
+    65R_jpg.rf.ik8UXtDLIE99IFCTgNF9.jpg  label=Healthy
+  [valid] 2 image(s):
+    65_jpg.rf.DS9mXHy5MWVHArmwkOWe.jpg  label=AN
+    65_jpg.rf.Q8T9GRxwi7r93JBDKz3q.jpg  label=Healthy
+
+=== subject: 66 ===
+  [train] 3 image(s):
+    66_jpg.rf.8ar76mVPwUIZIfsdbBgV.jpg  label=Healthy
+    66R_jpg.rf.c9yxQDuIePHfUgVNAvch.jpg  label=Healthy
+    66_jpg.rf.dunP3RibOa04LdFUbpYC.jpg  label=AN
+  [test] 2 image(s):
+    66RR4_jpg.rf.2aJYkjDSNZOEl5qjyQCr.jpg  label=Healthy
+    66R3_jpg.rf.uhrD6CUnYqRs4Hxl1rSN.jpg  label=Healthy
+
+=== subject: 67 ===
+  [train] 2 image(s):
+    67_jpg.rf.NPdoh51ZTzXTlbxA4t7C.jpg  label=AN
+    67L3_jpg.rf.6dhisar9VbDSsH8LXi9U.jpg  label=Healthy
+  [valid] 3 image(s):
+    67RR4_jpg.rf.ubKcB5AIIWwymvUrJl5F.jpg  label=Healthy
+    67R_jpg.rf.mYCuV2tcaFHLTfcblmqa.jpg  label=Healthy
+    67_jpg.rf.Ybf6uEHlFeEWriwBjnhW.jpg  label=Healthy
+
+=== subject: 69 ===
+  [train] 2 image(s):
+    69L3_jpg.rf.zM1TfcltgaM7cyk8LoEv.jpg  label=Healthy
+    69_jpg.rf.YLHsQt2fLDsLBldIf7Rf.jpg  label=AN
+  [valid] 2 image(s):
+    69RR4_jpg.rf.rk5sz5SGSLPSR4Moi8Qs.jpg  label=Healthy
+    69_jpg.rf.oEgoDhRmwLkSGtowet3D.jpg  label=Healthy
+
+=== subject: 70 ===
+  [train] 2 image(s):
+    70L3_jpg.rf.AFQ6ajywpeWhtePTVfsn.jpg  label=Healthy
+    70_jpg.rf.ZYpPRd1E6WsjwktlwPBK.jpg  label=Healthy
+  [valid] 1 image(s):
+    70_jpg.rf.mvBGORzNcjlizneRowFK.jpg  label=AN
+
+=== subject: 71 ===
+  [train] 1 image(s):
+    71_jpg.rf.Gwix0Qdc1nCuu70oHAFg.jpg  label=Healthy
+  [valid] 1 image(s):
+    71L3_jpg.rf.hP609lMydFxnf18dlGJF.jpg  label=Healthy
+  [test] 1 image(s):
+    71_jpg.rf.mlzgRJOcpXxFxGG6PrGf.jpg  label=AN
+
+=== subject: 73 ===
+  [train] 3 image(s):
+    73_jpg.rf.uEL5daq2ONsLWC0AtKgs.jpg  label=Healthy
+    73R_jpg.rf.5q17P7Fp7C9bYsnUBFZ3.jpg  label=Healthy
+    73_jpg.rf.cCzoExQEklpvOJTYRLoG.jpg  label=AN
+  [valid] 1 image(s):
+    73L3_jpg.rf.cir4nn6ndavGdwEe9Zm4.jpg  label=Healthy
+
+=== subject: 74 ===
+  [train] 1 image(s):
+    74_jpg.rf.XJ58yBLntwiOu3xefutU.jpg  label=Healthy
+  [valid] 1 image(s):
+    74_jpg.rf.iv44lTmR8BVDg9C5Zn5n.jpg  label=AN
+
+=== subject: 75 ===
+  [valid] 1 image(s):
+    75R3_jpg.rf.UXyC7KOoLPBYDTOC8UYK.jpg  label=Healthy
+  [test] 1 image(s):
+    75L3_jpg.rf.VZ2UYyexFlyrpZxpeHA1.jpg  label=Healthy
+
+=== subject: 78 ===
+  [train] 1 image(s):
+    78_jpg.rf.5FLOtt3wAW5GzJXieQgO.jpg  label=Healthy
+  [valid] 1 image(s):
+    78_jpg.rf.2JVIxSnL3cr0RYfjVtFT.jpg  label=AN
+
+=== subject: 80 ===
+  [train] 1 image(s):
+    80_jpg.rf.rQg4uaHO1V7RAKBdIXRO.jpg  label=Healthy
+  [valid] 1 image(s):
+    80_jpg.rf.Sqz460Rcj8VN2E2EgAy4.jpg  label=AN
+
+=== subject: 83 ===
+  [valid] 1 image(s):
+    83_jpg.rf.aLUYmuWJV30rIFrrGi5T.jpg  label=AN
+  [test] 1 image(s):
+    83_jpg.rf.X1GMYE6zzJsfltZOdFhh.jpg  label=Healthy
+
+=== subject: 88 ===
+  [train] 2 image(s):
+    88R_jpg.rf.T4maSK63BtjCGRUu1T2A.jpg  label=Healthy
+    88_jpg.rf.bOLKz2jInXcuiNk5Dhaw.jpg  label=Healthy
+  [valid] 1 image(s):
+    88L3_jpg.rf.oFiYYUss4sWr91InLzIt.jpg  label=Healthy
+
+=== subject: 91 ===
+  [train] 1 image(s):
+    91_jpg.rf.F4yBNbCzspYLKa30Q5PE.jpg  label=AN
+  [valid] 1 image(s):
+    91R_jpg.rf.SPKIbdmGVyXvBt84CCHd.jpg  label=Healthy
+
+=== subject: 92 ===
+  [train] 2 image(s):
+    92_jpg.rf.oeQ6T8LOaqY4JhnZ0ctk.jpg  label=AN
+    92R3_jpg.rf.mX6Wnv3fRpTyoDQoT0M3.jpg  label=Healthy
+  [valid] 1 image(s):
+    92_jpg.rf.5wcDAJCl90vyZG2iXKH1.jpg  label=Healthy
+
+=== subject: 93A58PIC5gV27m99wEHxI_PIC2018 ===
+  [train] 1 image(s):
+    93A58PIC5gV27m99wEHxI_PIC2018_jpg.rf.fuL5LlrbSar0YAZGSK1y.jpg  label=Healthy
+  [valid] 1 image(s):
+    93A58PIC5gV27m99wEHxI_PIC2018_jpg.rf.9ApcgAFFVDV90N8XvXIL.jpg  label=Healthy
+
+=== subject: 95 ===
+  [train] 2 image(s):
+    95R_jpg.rf.PU4oT0k0Vp5ZQXPQABnz.jpg  label=Healthy
+    95_jpg.rf.66fLowoz4fCyG8XDAwjU.jpg  label=Healthy
+  [valid] 1 image(s):
+    95_jpg.rf.uy6mrlyJBYu3FrMOTpya.jpg  label=AN
+
+=== subject: 97 ===
+  [train] 4 image(s):
+    97R_jpg.rf.xW5A73OH8UP5bu7W1Huj.jpg  label=Healthy
+    97_jpg.rf.dlBnl5nbqhTTmTuPrwQq.jpg  label=Healthy
+    97L3_jpg.rf.gz8kTM8xfnEvmsdXqXD9.jpg  label=Healthy
+    97_jpg.rf.ggUZILOk5tRaPPXElKvz.jpg  label=AN
+  [valid] 1 image(s):
+    97R3_jpg.rf.2qPyfreTXc00WrzsM9Ap.jpg  label=Healthy
+
+=== subject: 99 ===
+  [train] 2 image(s):
+    99_jpg.rf.Xq9bUWwYhjAc2g6fqOQf.jpg  label=AN
+    99_jpg.rf.UlpNLoaq17H1u6ikw0Xn.jpg  label=Healthy
+  [valid] 1 image(s):
+    99R_jpg.rf.eCV3BCAKGzpJZa8zwVWM.jpg  label=Healthy
+  [test] 1 image(s):
+    99R3_jpg.rf.raJdFmB4fjaCsefNBGnW.jpg  label=Healthy
+
+=== subject: burst ===
+  [train] 82 image(s):
+    images - 2023-05-20T165825-746_jpg.rf.KIW0bxXk2GBviNqaZgDw.jpg  label=AN
+    images - 2023-05-20T165817-781_jpg.rf.ltyWeBvQAjlvrXwHtGJC.jpg  label=AN
+    images (44)_jpg.rf.mQNVKd4ueFE7SYkTHtbc.jpg  label=AN
+    images (71)_jpg.rf.ozY4XHAKoqyABewbx9Si.jpg  label=AN
+    images (48)_jpg.rf.q0g7HOKmREZV6dTq7B5F.jpg  label=AN
+    images (91)_jpg.rf.rM1mYJdnSZdaNUG519O3.jpg  label=AN
+    images (61)_jpg.rf.nJ9JqKFvsxxid5XB2AVh.jpg  label=AN
+    images - 2023-05-20T170854-446_jpg.rf.rO9hfs0idEFOEOHD8izM.jpg  label=AN
+    images (22)_jpg.rf.rTirfEa59FpXzM1OSK4R.jpg  label=AN
+    images - 2023-05-20T165725-622_jpg.rf.rrhUwBsz45MN4vnvd69s.jpg  label=AN
+    images (83)_jpg.rf.stGZEBydOLdVxZRZaWKI.jpg  label=AN
+    images (6)_jpg.rf.QNKRtt4BJ0mFQdvegFCE.jpg  label=AN
+    images (97)_jpg.rf.RGwDF5doftOZwEJEXpYL.jpg  label=AN
+    images - 2023-05-20T161120-050_jpg.rf.RFpbkTexpLQ7r3hHTQUI.jpg  label=AN
+    images (14)_jpg.rf.QsGgDPpC2Ov1jf7uU8Pb.jpg  label=AN
+    images - 2023-05-20T170908-996_jpg.rf.R53SWcxASRR0H2v6CljH.jpg  label=AN
+    images (24)_jpg.rf.tzJCyOwCDnNcjw0v2ef9.jpg  label=AN
+    images (33)_jpg.rf.0tlhyqFQh6c9ABMCsKlP.jpg  label=AN
+    images - 2023-05-20T165226-890_jpg.rf.0dYmMoKkSIro6oIh8AJR.jpg  label=AN
+    images (98)_jpg.rf.RWtU2kXCItvq0IlXCFTm.jpg  label=AN
+    images (74)_jpg.rf.vSoBLBWzJPCjvTRNJ2xp.jpg  label=AN
+    images (54)_jpg.rf.0TSSRSWwW8OYuSqcmsc8.jpg  label=AN
+    images (99)_jpg.rf.ursa05xgP1IpELEz84qc.jpg  label=AN
+    images - 2023-05-20T171012-073_jpg.rf.uuG2zHC9Bz0HY3miJftp.jpg  label=AN
+    images (72)_jpg.rf.2kEP4EeMNWxQxDiKMg2Q.jpg  label=AN
+    images - 2023-05-20T170821-704_jpg.rf.2NAr7JoKLDxhQn94k0k3.jpg  label=AN
+    images (100)_jpg.rf.S5N0lxyvtKvgXDO6dVRo.jpg  label=AN
+    images - 2023-05-20T171019-509_jpg.rf.3GxdlCpSWaZI5wBTLgqT.jpg  label=AN
+    images (82)_jpg.rf.xVCvgzoUujVLgEZNZ6MQ.jpg  label=AN
+    images (86)_jpg.rf.SUHT1CUJhuHfoehxBl9T.jpg  label=AN
+    images (42)_jpg.rf.1IaQnv6vXGVWx56GAhvw.jpg  label=AN
+    images (16)_jpg.rf.3rTpq6vrUGSn92CLr7yD.jpg  label=AN
+    images (57)_jpg.rf.npt8mFz11KFFgaeRIFYf.jpg  label=AN
+    images (29)_jpg.rf.SqEnD4VerBh2JxW4iZ6f.jpg  label=AN
+    images - 2023-05-20T165210-718_jpg.rf.3t8mOgkKtSwMLDoszIgD.jpg  label=AN
+    images (70)_jpg.rf.xTYrvqF9Ey1NoQe4YFVw.jpg  label=AN
+    images (39)_jpg.rf.yKe65iZv2ASYZa0CForL.jpg  label=AN
+    images - 2023-05-20T165801-151_jpg.rf.50or9Ou2MVTCr6w4BUS5.jpg  label=AN
+    images - 2023-05-20T161124-451_jpg.rf.oPWxXjAQqYzyvo9lcXh1.jpg  label=AN
+    images (66)_jpg.rf.o2mzfnJtsCyCbC3x1sSE.jpg  label=AN
+    images (63)_jpg.rf.yprAqfLIe3vuTj5Sy1CZ.jpg  label=AN
+    images (68)_jpg.rf.6Fz2UYjy1OsPLbuzihRq.jpg  label=AN
+    images - 2023-05-20T170808-151_jpg.rf.7t2JnYiZJF2vpXekF8zV.jpg  label=AN
+    images (5)_jpg.rf.oUqEI6hiA4EjIT15Jkzh.jpg  label=AN
+    images (76)_jpg.rf.yxxPYNCUcCYssFR498cU.jpg  label=AN
+    images (75)_jpg.rf.VecdrjsJyhX2qHiZArz2.jpg  label=AN
+    images (10)_jpg.rf.UUw60FCpJlWyZvSvaK0V.jpg  label=AN
+    images (17)_jpg.rf.WOJBo86HC7HyDmsl04tD.jpg  label=AN
+    images - 2023-05-20T170901-260_jpg.rf.MetrQcleRdDjzzJWWGL6.jpg  label=AN
+    images (20)_jpg.rf.7WyxeJ240bRhcHWXrKFE.jpg  label=AN
+    images (27)_jpg.rf.VvGjLs5iu7l576CUR6Sw.jpg  label=AN
+    images (58)_jpg.rf.9Dagchj3BP5V6MM8hMB9.jpg  label=AN
+    images (18)_jpg.rf.AQOzIyG3TUXlBVkoNqWX.jpg  label=AN
+    images (36)_jpg.rf.A8FJLqeaTDMjfDg5DK7f.jpg  label=AN
+    images (26)_jpg.rf.BaHEA5GmQOJINaklTVpr.jpg  label=AN
+    images - 2023-05-20T170813-844_jpg.rf.ES8caNtFB4pvOOxpOVcU.jpg  label=AN
+    images (15)_jpg.rf.YXQsNs8DqHxUMiBv956f.jpg  label=AN
+    images - 2023-05-20T161349-200_jpg.rf.aFHuFoVn1cW4s4H9v3aV.jpg  label=AN
+    images (1)_jpg.rf.FebVLoAjvGN3n0Whe78p.jpg  label=AN
+    images (96)_jpg.rf.GM1wJ8vcfINAB8fkYNCI.jpg  label=AN
+    images - 2023-05-20T161139-110_jpg.rf.c9U03oRhSN8z316hphRv.jpg  label=AN
+    images (79)_jpg.rf.c0jWa1BZjB9xYdqm5o9b.jpg  label=AN
+    images (77)_jpg.rf.blmk45oRpgDrN78bC6x3.jpg  label=AN
+    images (52)_jpg.rf.ciedgr7S81zDQVlXn7DY.jpg  label=AN
+    images (51)_jpg.rf.HfW7jqfO8O9XmIcsIqEL.jpg  label=AN
+    images - 2023-05-20T161205-500_jpg.rf.HsbUui4BW1ILnhr8oPFy.jpg  label=AN
+    images (2)_jpg.rf.cw0pN8c4NCMfqPBAs0dZ.jpg  label=AN
+    images - 2023-05-20T161046-643_jpg.rf.eIZB4c7gWMyRgJiyhJAW.jpg  label=AN
+    images (3)_jpg.rf.Izlo7ppLxoS2MszFuBlI.jpg  label=AN
+    images (78)_jpg.rf.J70z02b946JZXGLGOQVa.jpg  label=AN
+    images (31)_jpg.rf.eRusetFsT4OOLScoNjtW.jpg  label=AN
+    images (37)_jpg.rf.a5V3HMrDlnSWqwfe38RQ.jpg  label=AN
+    images - 2023-05-20T161103-004_jpg.rf.gJwSIcQYROY9ePAxOyCs.jpg  label=AN
+    images (89)_jpg.rf.gQHAJIVu0BQeCyhKFpvi.jpg  label=AN
+    images - 2023-05-20T161155-355_jpg.rf.fMFOYtHJBhaoUriHFIgy.jpg  label=AN
+    images (47)_jpg.rf.fpfaMIH4Cv9vlWgmRFeV.jpg  label=AN
+    images (38)_jpg.rf.hjIje5cDA3I81XoVWiaF.jpg  label=AN
+    images - 2023-05-20T171003-135_jpg.rf.hxh59VBrwXBKWjnWOKcm.jpg  label=AN
+    images (8)_jpg.rf.h7wICMhNnFAYpiEDzAZj.jpg  label=AN
+    images - 2023-05-20T161115-832_jpg.rf.kSfEWF1HzMlKgK9PBvLW.jpg  label=AN
+    images - 2023-05-20T170935-797_jpg.rf.lMeyZd9n62psmuN8gIed.jpg  label=AN
+    images - 2023-05-20T170950-057_jpg.rf.lOljvzxwt8iHpTySsq4o.jpg  label=AN
+  [valid] 21 image(s):
+    images (45)_jpg.rf.w1zCsyrXQyXNo4zv3UEZ.jpg  label=AN
+    images (40)_jpg.rf.w2qOBp9X9hRt8FXBDbse.jpg  label=AN
+    images (94)_jpg.rf.ywiXlwe1RULf1jhiio5T.jpg  label=AN
+    images - 2023-05-20T170729-932_jpg.rf.m6vOcitUhM5CtSAupkE5.jpg  label=AN
+    images (43)_jpg.rf.3kmo06KBsJxgdzaYz18C.jpg  label=AN
+    images (95)_jpg.rf.7F2i8oRuU68HpR3LkBvZ.jpg  label=AN
+    images (28)_jpg.rf.AxukKifI2BwY7ifAHdKJ.jpg  label=AN
+    images - 2023-05-20T170837-593_jpg.rf.BWPg03GND2ALK0uqwllc.jpg  label=AN
+    images (30)_jpg.rf.FOkEmrF3Odobwpp3koTj.jpg  label=AN
+    images (35)_jpg.rf.GAVBiQV48sYCd5FAU152.jpg  label=AN
+    images - 2023-05-20T170832-194_jpg.rf.MJWkhghjcRR7kkWTULL5.jpg  label=AN
+    images (7)_jpg.rf.Mescy8y8S4JlEY8yosuY.jpg  label=AN
+    images (50)_jpg.rf.P1wEcQi21bNbeRf6EfYe.jpg  label=AN
+    images - 2023-05-20T161108-306_jpg.rf.JYRK4IrLoYclrvI87qLN.jpg  label=AN
+    images (34)_jpg.rf.WL6nWtILxnz41eOC0iQ5.jpg  label=AN
+    images (67)_jpg.rf.cg4SWabSgecaMUuxAXpr.jpg  label=AN
+    images - 2023-05-20T161133-632_jpg.rf.Yi5hc6tbPNcvlFfmS2ac.jpg  label=AN
+    images (23)_jpg.rf.cf5z7S7BU30TYGqDQtTI.jpg  label=AN
+    images (41)_jpg.rf.cfyQTGiJyvUtfb4vH11t.jpg  label=AN
+    images (62)_jpg.rf.h6un7drgikJtiwrr1HpB.jpg  label=AN
+    images (12)_jpg.rf.YeQSn7IhyjAsfrbG3M4u.jpg  label=AN
+  [test] 11 image(s):
+    images - 2023-05-20T161147-357_jpg.rf.MWspjCms54x89WXo1MmT.jpg  label=AN
+    images (46)_jpg.rf.0WjrxVmBN8jB71l75c9Y.jpg  label=AN
+    images - 2023-05-19T192515-243_jpg.rf.OBPKlE8TnBulqrKFZUe3.jpg  label=AN
+    images (60)_jpg.rf.6KHfFsyGbUIwhH78PMGV.jpg  label=AN
+    images (55)_jpg.rf.XGmKGK8WU1IA0Mz0N3IR.jpg  label=AN
+    images (21)_jpg.rf.9Jz7OOYnGAbzavIPwtDL.jpg  label=AN
+    images (25)_jpg.rf.9CehuK8cdqgEFZTNzPXh.jpg  label=AN
+    images (56)_jpg.rf.eH616Obv5FCPBsrR83Dg.jpg  label=AN
+    images - 2023-05-20T171453-544_jpg.rf.dHQ4r8F1EsOUhktAk0w5.jpg  label=AN
+    images (64)_jpg.rf.tNV9uRTRciugNHv7k1PT.jpg  label=AN
+    images (73)_jpg.rf.ws2NU7dA84igPsKSe2dx.jpg  label=AN
+
+=== subject: istockphoto-1051999014-612x612 ===
+  [train] 1 image(s):
+    istockphoto-1051999014-612x612_jpg.rf.Ntp59LACGuGpR4SFshBC.jpg  label=Healthy
+  [test] 1 image(s):
+    istockphoto-1051999014-612x612_jpg.rf.ueeRaxGdG179iGMeflwf.jpg  label=Healthy
+
+=== subject: istockphoto-1135533684-612x612-1 ===
+  [train] 1 image(s):
+    istockphoto-1135533684-612x612-1_jpg.rf.VfdfYkBbb605GAshIqd3.jpg  label=Healthy
+  [test] 1 image(s):
+    istockphoto-1135533684-612x612-1_jpg.rf.NobjPBpTJg2DG0CrZPBd.jpg  label=Healthy
+
+=== subject: istockphoto-1147152478-612x612 ===
+  [train] 1 image(s):
+    istockphoto-1147152478-612x612_jpg.rf.P5g8pXZJYyJifUstzUfS.jpg  label=Healthy
+  [valid] 1 image(s):
+    istockphoto-1147152478-612x612_jpg.rf.cGuYPNVB6RkL0QoCwTDU.jpg  label=Healthy
+
+=== subject: istockphoto-1183831120-612x612 ===
+  [train] 1 image(s):
+    istockphoto-1183831120-612x612_jpg.rf.8TlAFjGLTtPnxKB0faC4.jpg  label=Healthy
+  [valid] 1 image(s):
+    istockphoto-1183831120-612x612_jpg.rf.XIimVnt3A88Lg3NhUBda.jpg  label=Healthy
+
+=== subject: istockphoto-1191856616-612x612 ===
+  [train] 1 image(s):
+    istockphoto-1191856616-612x612_jpg.rf.Zy0IReM8oSCyVAlTeeSn.jpg  label=Healthy
+  [valid] 1 image(s):
+    istockphoto-1191856616-612x612_jpg.rf.xUGaBTMQppCVrZFts8vG.jpg  label=Healthy
+
+=== subject: istockphoto-181065083-612x612 ===
+  [train] 1 image(s):
+    istockphoto-181065083-612x612_jpg.rf.DDtjbtloly47iq2GHkcU.jpg  label=Healthy
+  [valid] 1 image(s):
+    istockphoto-181065083-612x612_jpg.rf.klK33qwDy5ETtkVf5bmZ.jpg  label=Healthy
+
+=== subject: istockphoto-509390625-612x612 ===
+  [train] 1 image(s):
+    istockphoto-509390625-612x612_jpg.rf.XmCb3JmUQblYpd9ANF4q.jpg  label=Healthy
+  [test] 1 image(s):
+    istockphoto-509390625-612x612_jpg.rf.ZpOZxUZ2YFexWWBK874X.jpg  label=Healthy
+
+=== subject: istockphoto-517414560-612x612 ===
+  [train] 1 image(s):
+    istockphoto-517414560-612x612_jpg.rf.v5lTP7VSMC9nxVoirCUC.jpg  label=Healthy
+  [test] 1 image(s):
+    istockphoto-517414560-612x612_jpg.rf.ZyqIquALa10rMxZ0TGkY.jpg  label=Healthy
+
+=== subject: istockphoto-667341282-612x612 ===
+  [valid] 1 image(s):
+    istockphoto-667341282-612x612_jpg.rf.Wl9SNSB5Sao5tUponJl9.jpg  label=Healthy
+  [test] 1 image(s):
+    istockphoto-667341282-612x612_jpg.rf.FT9439MKXJn97JAEzxPP.jpg  label=Healthy
+
+=== subject: istockphoto-696814034-612x612 ===
+  [train] 1 image(s):
+    istockphoto-696814034-612x612_jpg.rf.IDUMQpl5QDr9GWJxL6Go.jpg  label=Healthy
+  [valid] 1 image(s):
+    istockphoto-696814034-612x612_jpg.rf.rWfUX0XNpif8CU1BQaai.jpg  label=Healthy
+
+=== subject: istockphoto-916653724-612x612 ===
+  [train] 1 image(s):
+    istockphoto-916653724-612x612_jpg.rf.c1CZAkIxq6A5eeCKWSLc.jpg  label=Healthy
+  [test] 1 image(s):
+    istockphoto-916653724-612x612_jpg.rf.JT7XECn6oCjWeZ3owf4s.jpg  label=Healthy
+
